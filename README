@@ -1,0 +1,4 @@
+1. sudo su on new machine
+2. Replace ~/.bashrc with bashrc in this repo
+3. Move setup.sh and edit_files.py to /home/cc/
+4. Run sh setup.sh
