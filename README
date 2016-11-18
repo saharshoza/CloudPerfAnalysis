@@ -12,3 +12,10 @@ lsof -i -n | grep 50010
 	b) trigger_all.sh
 9. Create /tmp/spark_events 
 10. Uncomment echo_and_run in gen_data.sh in Terasort. 
+
+Running Experiments
+1. stop-all.sh
+2. Change number of cores per worker
+3. start-all.sh
+4. run cpi_cache_.._.sh
+   Usage
