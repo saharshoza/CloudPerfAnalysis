@@ -4,6 +4,7 @@ unit=M
 mkdir results
 for memoryConfig in ${memoryArray[@]}
 do
+	echo "Begin Modifying spark-env.sh"
 	cp $SPARK_HOME/conf/spark-env.sh ./
 	sed -i 's/^export SPARK_EXECUTOR_MEMORY.*$/export SPARK_EXECUTOR_MEMORY='"$memoryConfig""$unit"'/' spark-env.sh
 	cp spark-env.sh $SPARK_HOME/conf/
@@ -16,7 +17,9 @@ do
 	scp cc@node-3:$SPARK_HOME/conf/spark-env.sh ./
 	sed -i 's/^export SPARK_EXECUTOR_MEMORY.*$/export SPARK_EXECUTOR_MEMORY='"$memoryConfig""$unit"'/' spark-env.sh
 	scp spark-env.sh cc@node-3:$SPARK_HOME/conf/
+	echo "End Modifying spark-env.sh"
 
+	echo "Gather CPI, Branch miss rate"
 	nohup sudo perf record -e instructions,cycles,branches,branch-misses -p $Workerpid
 	echo $! > run.pid
 	perfProcess=`cat run.pid`
@@ -24,6 +27,7 @@ do
 	kill -15 $perfProcess
 	sudo mv perf.data results/perf.data.1."$memoryConfig"
 
+	echo "Gather Cache miss rate, L1D miss rate"
 	nohup sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $Workerpid
 	echo $! > run.pid
 	perfProcess=`cat run.pid`
