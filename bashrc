@@ -99,13 +99,10 @@ fi
 #fi
 
 export SPARK_BENCH_HOME=/home/cc/spark-bench
-#export PATH=$PATH:/usr/local/mvn/bin
 export HADOOP_HOME=/usr/local/hadoop
 export PATH=$PATH:$HADOOP_HOME/bin
-#export JAVA_HOME=/usr/lib/jvm/java-8-oracle/jre
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre/
+export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/jre
 export PATH=$PATH:$JAVA_HOME/bin
 export SPARK_HOME=/usr/local/spark
 export PATH=$PATH:$SPARK_HOME/bin
-#export PATH=$PATH:/usr/lib/jvm/java-7-openjdk-amd64/bin/
-export HDFS_MASTER=130.202.88.184
+export HDFS_MASTER=10.40.0.230

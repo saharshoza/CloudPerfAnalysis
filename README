@@ -1,4 +1,14 @@
-1. sudo su on new machine
-2. Replace ~/.bashrc with bashrc in this repo
-3. Move setup.sh and edit_files.py to /home/cc/
-4. Run sh setup.sh
+1. Replace ~/.bashrc with bashrc in this repo
+2. source ~/.bashrc
+3. Move setup_install.sh and edit_files.py to /home/cc/
+4. Run sh setup_install.sh
+5. Goto $SPARK_BENCH_HOME/pom.xml and change maven version 1.8 to 1.7
+6. Copy the public key of master and append it to authorized key of each slave
+7. Goto bashrc and change HDFS_MASTER to master IP
+Update etc hosts of each machine to have every other machine
+lsof -i -n | grep 50010
+8. For the master alone, 
+	a) Run setup_slaves.sh
+	b) trigger_all.sh
+9. Create /tmp/spark_events 
+10. Uncomment echo_and_run in gen_data.sh in Terasort. 
