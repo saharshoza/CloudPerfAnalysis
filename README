@@ -17,5 +17,6 @@ Running Experiments
 1. stop-all.sh
 2. Change number of cores per worker
 3. start-all.sh
-4. run cpi_cache_.._.sh
-   Usage
+4. bash spark_perf_experiment.sh
+5. Take screenshot of run times on web UI
+6. Goto step 1 
