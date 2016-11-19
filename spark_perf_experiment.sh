@@ -1,4 +1,5 @@
-Workerpid=$1
+Workerpid=`jps | grep Worker | awk {'print$1'}`
+echo "Worker ID is "$Workerpid""
 memoryArray=(2048 4096 6144 8192)
 unit=M
 mkdir results
@@ -8,7 +9,7 @@ echo "mkdir results" | ssh cc@node-3 /bin/bash
 
 for memoryConfig in ${memoryArray[@]}
 do
-	echo "Begin Modifying spark-env.sh"
+	echo "Begin Modifying spark-env.sh for $memoryConfig"
 	cp $SPARK_HOME/conf/spark-env.sh ./
 	sed -i 's/^export SPARK_EXECUTOR_MEMORY.*$/export SPARK_EXECUTOR_MEMORY='"$memoryConfig""$unit"'/' spark-env.sh
 	cp spark-env.sh $SPARK_HOME/conf/
@@ -28,17 +29,20 @@ do
 
 	echo "Get Worker PID on remote machines"
 	node1Worker=`echo "jps | grep Worker" | ssh cc@node-1 /bin/bash | awk {'print$1'}`
+	echo "node1 is "$node1Worker""
 	node2Worker=`echo "jps | grep Worker" | ssh cc@node-2 /bin/bash | awk {'print$1'}`
+	echo "node1 is "$node2Worker""
 	node3Worker=`echo "jps | grep Worker" | ssh cc@node-3 /bin/bash | awk {'print$1'}`
+	echo "node1 is "$node3Worker""
 
 	echo "Spawn perf on remote machines"
-	echo "Node1 spawned"
+	echo "Node1 spawned with pid "$node1pid""
 	ssh cc@node-1 screen -d -m "sudo perf record -e instructions,cycles,branches,branch-misses -p $node1Worker"
 	node1pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-1 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node2 spawned"
+	echo "Node2 spawned with pid "$node2pid""
 	ssh cc@node-2 screen -d -m "sudo perf record -e instructions,cycles,branches,branch-misses -p $node2Worker"
 	node2pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-2 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node3 spawned"
+	echo "Node3 spawned with pid "$node3pid""
 	ssh cc@node-3 screen -d -m "sudo perf record -e instructions,cycles,branches,branch-misses -p $node3Worker"
 	node3pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-3 /bin/bash | awk {'print$2'} | head -1`
 
@@ -59,13 +63,13 @@ do
 	echo "mv perf.data results/perf.data.1."$memoryConfig"" | ssh cc@node-3 /bin/bash
 
 	echo "Spawn perf on remote machines"
-	echo "Node1 spawned"
+	echo "Node1 spawned with pid "$node1pid""
 	ssh cc@node-1 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node1pid"
 	node1pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-1 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node2 spawned"
+	echo "Node2 spawned with pid "$node2pid""
 	ssh cc@node-2 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node2Worker"
 	node2pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-2 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node3 spawned"
+	echo "Node3 spawned with pid "$node3pid""
 	ssh cc@node-3 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node3Worker"
 	node3pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-3 /bin/bash | awk {'print$2'} | head -1`
 
@@ -84,5 +88,4 @@ do
 	echo "mv perf.data results/perf.data.2."$memoryConfig"" | ssh cc@node-2 /bin/bash
 	echo "sudo kill -15 $node3pid" | ssh cc@node-3 /bin/bash
 	echo "mv perf.data results/perf.data.2."$memoryConfig"" | ssh cc@node-3 /bin/bash
-
 done
