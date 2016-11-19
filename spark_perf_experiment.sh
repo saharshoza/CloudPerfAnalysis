@@ -29,6 +29,7 @@ echo "End Modifying spark-env.sh"
 
 cd $SPARK_HOME/sbin/
 ./start-all.sh
+cd $EXPERIMENT_HOME
 
 Workerpid=`jps | grep Worker | awk {'print$1'}`
 echo "Worker ID is "$Workerpid""
