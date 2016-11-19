@@ -6,8 +6,12 @@ echo "mkdir results"$numCores"" | ssh cc@node-1 /bin/bash
 echo "mkdir results"$numCores"" | ssh cc@node-2 /bin/bash
 echo "mkdir results"$numCores"" | ssh cc@node-3 /bin/bash
 
-.$SPARK_HOME/sbin/stop-all.sh
+echo "Change numCores"
 
+cd $SPARK_HOME/sbin/
+./stop-all.sh
+
+cd ~/CloudPerfAnalysis
 echo "Begin Modifying spark-env.sh for $numCores"
 cp $SPARK_HOME/conf/spark-env.sh ./
 sed -i 's/^export SPARK_WORKER_CORES.*$/export SPARK_WORKER_CORES='"$numCores"'/' spark-env.sh
@@ -23,7 +27,8 @@ sed -i 's/^export SPARK_WORKER_CORES.*$/export SPARK_WORKER_CORES='"$numCores"'/
 scp spark-env.sh cc@node-3:$SPARK_HOME/conf/
 echo "End Modifying spark-env.sh"
 
-.$SPARK_HOME/sbin/start-all.sh
+cd $SPARK_HOME/sbin/
+./start-all.sh
 
 Workerpid=`jps | grep Worker | awk {'print$1'}`
 echo "Worker ID is "$Workerpid""
