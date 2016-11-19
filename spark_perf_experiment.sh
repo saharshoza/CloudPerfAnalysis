@@ -19,6 +19,9 @@ do
 	scp spark-env.sh cc@node-3:$SPARK_HOME/conf/
 	echo "End Modifying spark-env.sh"
 
+	echo "This run is just for execution time"
+	bash $SPARK_BENCH_HOME/Terasort/bin/run.sh
+
 	echo "Gather CPI, Branch miss rate"
 	nohup sudo perf record -e instructions,cycles,branches,branch-misses -p $Workerpid >>cpi.out &
 	echo $! > run.pid
