@@ -89,7 +89,7 @@ do
 	echo "mv perf.data results"$numCores"/perf.data.1."$memoryConfig"" | ssh cc@node-3 /bin/bash
 
 	echo "Spawn perf on remote machines"
-	ssh cc@node-1 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node1pid"
+	ssh cc@node-1 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node1Worker"
 	node1pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-1 /bin/bash | awk {'print$2'} | head -1`
 	echo "Node1 spawned with pid "$node1pid""
 	ssh cc@node-2 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node2Worker"
