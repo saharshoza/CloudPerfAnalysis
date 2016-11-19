@@ -31,20 +31,20 @@ do
 	node1Worker=`echo "jps | grep Worker" | ssh cc@node-1 /bin/bash | awk {'print$1'}`
 	echo "node1 is "$node1Worker""
 	node2Worker=`echo "jps | grep Worker" | ssh cc@node-2 /bin/bash | awk {'print$1'}`
-	echo "node1 is "$node2Worker""
+	echo "node2 is "$node2Worker""
 	node3Worker=`echo "jps | grep Worker" | ssh cc@node-3 /bin/bash | awk {'print$1'}`
-	echo "node1 is "$node3Worker""
+	echo "node3 is "$node3Worker""
 
 	echo "Spawn perf on remote machines"
-	echo "Node1 spawned with pid "$node1pid""
 	ssh cc@node-1 screen -d -m "sudo perf record -e instructions,cycles,branches,branch-misses -p $node1Worker"
 	node1pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-1 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node2 spawned with pid "$node2pid""
+	echo "Node1 spawned with pid "$node1pid""
 	ssh cc@node-2 screen -d -m "sudo perf record -e instructions,cycles,branches,branch-misses -p $node2Worker"
 	node2pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-2 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node3 spawned with pid "$node3pid""
+	echo "Node2 spawned with pid "$node2pid""
 	ssh cc@node-3 screen -d -m "sudo perf record -e instructions,cycles,branches,branch-misses -p $node3Worker"
 	node3pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-3 /bin/bash | awk {'print$2'} | head -1`
+	echo "Node3 spawned with pid "$node3pid""
 
 	echo "Gather CPI, Branch miss rate"
 	nohup sudo perf record -e instructions,cycles,branches,branch-misses -p $Workerpid >>cpi.out &
@@ -63,15 +63,15 @@ do
 	echo "mv perf.data results/perf.data.1."$memoryConfig"" | ssh cc@node-3 /bin/bash
 
 	echo "Spawn perf on remote machines"
-	echo "Node1 spawned with pid "$node1pid""
 	ssh cc@node-1 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node1pid"
 	node1pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-1 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node2 spawned with pid "$node2pid""
+	echo "Node1 spawned with pid "$node1pid""
 	ssh cc@node-2 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node2Worker"
 	node2pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-2 /bin/bash | awk {'print$2'} | head -1`
-	echo "Node3 spawned with pid "$node3pid""
+	echo "Node2 spawned with pid "$node2pid""
 	ssh cc@node-3 screen -d -m "sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $node3Worker"
 	node3pid=`echo "ps aux | grep perf | grep root" | ssh cc@node-3 /bin/bash | awk {'print$2'} | head -1`
+	echo "Node3 spawned with pid "$node3pid""
 
 	echo "Gather Cache miss rate, L1D miss rate"
 	nohup sudo perf record -e cache-references,cache-misses,L1-dcache-loads,L1-dcache-load-misses -p $Workerpid >>cache.out &
