@@ -48,7 +48,7 @@ do
 	echo "End Modifying spark-env.sh"
 
 	echo "This run is just for execution time"
-	for i in {1..7}
+	for i in {1..10}
 	do
 		bash $SPARK_BENCH_HOME/Terasort/bin/run.sh
 	done
