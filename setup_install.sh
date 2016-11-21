@@ -1,4 +1,6 @@
-FIXEDIP=129.114.108.142
+# Master and Local IP
+MASTERIP=10.40.0.230
+LOCALIP=10.40.0.230
 
 source ~/.bashrc
 
@@ -50,7 +52,7 @@ mvn package install
 # Configure Hadoop
 # Edit core-site.xml
 cd $HADOOP_HOME/etc/hadoop
-python /home/cc/edit_files.py core-site.xml $FIXEDIP
+python /home/cc/edit_files.py core-site.xml $MASTERIP
 python /home/cc/edit_files.py hdfs-site.xml
 echo 'export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre/' >> hadoop-env.sh
 
@@ -60,7 +62,8 @@ echo 'export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre/' >> hadoop-env.sh
 # Configure Spark
 cd $SPARK_HOME/conf/
 cp spark-env.sh.template spark-env.sh
-echo "export SPARK_MASTER_IP=$FIXEDIP" >> spark-env.sh
+echo "export SPARK_MASTER_IP=$MASTERIP" >> spark-env.sh
+echo "export SPARK_LOCAL_IP=$LOCALIP" >> spark-env.sh
 cp spark-defaults.conf.template spark-defaults.conf
 echo 'spark.eventLog.enabled           true' >> spark-defaults.conf
 echo 'spark.history.fs.logDirectory    /tmp/spark-events' >> spark-defaults.conf
