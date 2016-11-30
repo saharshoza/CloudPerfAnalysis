@@ -1,4 +1,4 @@
-perfMetricArray=(0 1 2 3 4)
+perfMetricArray=(0 1 2 3 4 5 6)
 Workerpid=`jps | grep Worker | awk {'print$1'}`
 
 for perfMetric in ${perfMetricArray[@]}
