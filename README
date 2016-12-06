@@ -7,6 +7,7 @@
 7. Goto bashrc and change HDFS_MASTER to master IP
 Update etc hosts of each machine to have every other machine
 lsof -i -n | grep 50010
+Create /usr/local/tmp folder and chmod 777 on all machines
 8. For the master alone, 
 	a) Run setup_slaves.sh
 	b) trigger_all.sh

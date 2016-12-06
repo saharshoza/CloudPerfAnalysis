@@ -54,7 +54,7 @@ mvn package install
 cd $HADOOP_HOME/etc/hadoop
 python /home/cc/edit_files.py core-site.xml $MASTERIP
 python /home/cc/edit_files.py hdfs-site.xml
-echo 'export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre/' >> hadoop-env.sh
+echo 'export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/jre' >> hadoop-env.sh
 
 # Uncomment if this is master node
 # echo <FIXED IP> >> slaves
