@@ -1,0 +1,1776 @@
+
+ Performance counter stats for process id '62213':
+
+       863,605,918 dTLB-loads                                                   [99.95%]
+         6,056,115 dTLB-load-misses          #    0.70% of all dTLB cache hits  [99.97%]
+
+       1.000623477 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+        12,254,071 dTLB-loads                                                   [99.18%]
+           110,850 dTLB-load-misses          #    0.90% of all dTLB cache hits 
+
+       1.000708585 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           503,043 dTLB-loads                                                   [88.91%]
+             5,862 dTLB-load-misses          #    1.17% of all dTLB cache hits 
+
+       1.000675141 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           440,727 dTLB-loads                                                   [91.15%]
+             5,311 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000883842 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           529,864 dTLB-loads                                                   [91.00%]
+             6,719 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000687988 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           636,784 dTLB-loads                                                   [94.01%]
+             7,670 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000737056 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           540,198 dTLB-loads                                                   [89.19%]
+             7,026 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000681137 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           424,569 dTLB-loads                                                   [92.65%]
+             5,362 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000883743 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           524,745 dTLB-loads                                                   [89.51%]
+             6,566 dTLB-load-misses          #    1.25% of all dTLB cache hits 
+
+       1.000719382 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           453,691 dTLB-loads                                                   [92.16%]
+             5,788 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000682045 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           542,000 dTLB-loads                                                   [90.70%]
+             6,588 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000618442 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       111,469,948 dTLB-loads                                                   [99.88%]
+           166,317 dTLB-load-misses          #    0.15% of all dTLB cache hits 
+
+       1.000618607 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           633,996 dTLB-loads                                                   [90.54%]
+             7,959 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000727630 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,535,106 dTLB-loads                                                   [97.61%]
+            21,129 dTLB-load-misses          #    0.83% of all dTLB cache hits 
+
+       1.000690059 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           546,412 dTLB-loads                                                   [92.01%]
+             7,679 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000773246 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           482,679 dTLB-loads                                                   [93.41%]
+             6,722 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000663824 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           537,173 dTLB-loads                                                   [91.50%]
+             7,031 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000739264 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           411,732 dTLB-loads                                                   [94.77%]
+             5,093 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000754253 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           634,866 dTLB-loads                                                   [91.02%]
+             8,696 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000850807 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           425,354 dTLB-loads                                                   [93.16%]
+             5,766 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000737798 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           772,051 dTLB-loads                                                   [91.97%]
+             9,785 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000680770 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           459,564 dTLB-loads                                                   [91.31%]
+             6,365 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000644840 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           585,997 dTLB-loads                                                   [89.08%]
+             7,535 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000674240 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           467,445 dTLB-loads                                                   [91.41%]
+             6,573 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000696301 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           530,374 dTLB-loads                                                   [91.34%]
+             6,469 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000704848 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           479,287 dTLB-loads                                                   [93.63%]
+             6,808 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000562750 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           441,822 dTLB-loads                                                   [94.08%]
+             5,815 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000815146 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           561,651 dTLB-loads                                                   [90.99%]
+             7,484 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000849949 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           482,376 dTLB-loads                                                   [93.70%]
+             6,346 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000625107 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           536,360 dTLB-loads                                                  
+             7,602 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000615481 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           509,374 dTLB-loads                                                  
+             7,389 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000685951 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           602,337 dTLB-loads                                                  
+             8,457 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000654121 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           490,040 dTLB-loads                                                  
+             7,577 dTLB-load-misses          #    1.55% of all dTLB cache hits 
+
+       1.000705854 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           592,552 dTLB-loads                                                  
+             8,852 dTLB-load-misses          #    1.49% of all dTLB cache hits 
+
+       1.000657782 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           496,138 dTLB-loads                                                  
+             7,807 dTLB-load-misses          #    1.57% of all dTLB cache hits 
+
+       1.000681791 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           793,133 dTLB-loads                                                  
+            10,581 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000653927 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           528,693 dTLB-loads                                                  
+             7,513 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000623780 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           547,464 dTLB-loads                                                  
+             7,557 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000581940 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           508,801 dTLB-loads                                                  
+             7,746 dTLB-load-misses          #    1.52% of all dTLB cache hits 
+
+       1.000634362 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           561,803 dTLB-loads                                                  
+             8,612 dTLB-load-misses          #    1.53% of all dTLB cache hits 
+
+       1.000716829 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           487,992 dTLB-loads                                                  
+             7,526 dTLB-load-misses          #    1.54% of all dTLB cache hits 
+
+       1.000613481 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           629,392 dTLB-loads                                                  
+             9,441 dTLB-load-misses          #    1.50% of all dTLB cache hits 
+
+       1.000665149 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           501,986 dTLB-loads                                                  
+             7,204 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000671103 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           595,268 dTLB-loads                                                  
+             8,922 dTLB-load-misses          #    1.50% of all dTLB cache hits 
+
+       1.000636851 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           502,409 dTLB-loads                                                  
+             6,979 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000526550 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           563,434 dTLB-loads                                                  
+             8,067 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000674142 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           494,642 dTLB-loads                                                  
+             7,560 dTLB-load-misses          #    1.53% of all dTLB cache hits 
+
+       1.000683540 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           544,176 dTLB-loads                                                  
+             7,812 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000652972 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           497,657 dTLB-loads                                                  
+             6,860 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000605040 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           700,931 dTLB-loads                                                  
+            11,328 dTLB-load-misses          #    1.62% of all dTLB cache hits 
+
+       1.000730802 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           804,456 dTLB-loads                                                  
+            11,414 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000635452 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           692,191 dTLB-loads                                                  
+             9,938 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000581859 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           557,212 dTLB-loads                                                  
+             7,849 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000628006 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           724,139 dTLB-loads                                                  
+            11,000 dTLB-load-misses          #    1.52% of all dTLB cache hits 
+
+       1.000622551 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           565,372 dTLB-loads                                                  
+             8,883 dTLB-load-misses          #    1.57% of all dTLB cache hits 
+
+       1.000730165 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           616,204 dTLB-loads                                                  
+             9,011 dTLB-load-misses          #    1.46% of all dTLB cache hits 
+
+       1.000634175 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           571,101 dTLB-loads                                                  
+             8,199 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000653585 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           686,334 dTLB-loads                                                  
+             9,891 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000709047 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           506,480 dTLB-loads                                                  
+             7,148 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000568219 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           609,533 dTLB-loads                                                  
+             8,432 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000677081 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           488,007 dTLB-loads                                                  
+             6,673 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000577894 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           586,634 dTLB-loads                                                  
+             8,512 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000553282 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           481,478 dTLB-loads                                                  
+             6,729 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000618648 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           586,230 dTLB-loads                                                  
+             8,160 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000706845 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           502,672 dTLB-loads                                                  
+             6,729 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000607548 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           730,533 dTLB-loads                                                  
+             9,447 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000605634 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           481,690 dTLB-loads                                                  
+             7,226 dTLB-load-misses          #    1.50% of all dTLB cache hits 
+
+       1.000625624 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           588,588 dTLB-loads                                                  
+             8,441 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000631284 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           501,383 dTLB-loads                                                  
+             7,018 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000541663 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           577,518 dTLB-loads                                                  
+             8,034 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000625264 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           522,880 dTLB-loads                                                  
+             7,125 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000682440 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           499,414 dTLB-loads                                                  
+             7,604 dTLB-load-misses          #    1.52% of all dTLB cache hits 
+
+       1.000628351 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           545,914 dTLB-loads                                                  
+             8,149 dTLB-load-misses          #    1.49% of all dTLB cache hits 
+
+       1.000660751 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           510,795 dTLB-loads                                                  
+             7,187 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000639080 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           585,134 dTLB-loads                                                  
+             8,640 dTLB-load-misses          #    1.48% of all dTLB cache hits 
+
+       1.000611179 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           510,758 dTLB-loads                                                  
+             7,287 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000609443 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           576,194 dTLB-loads                                                  
+             7,584 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.001034950 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           484,924 dTLB-loads                                                  
+             6,679 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000668946 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           547,208 dTLB-loads                                                  
+             7,338 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000575680 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           463,743 dTLB-loads                                                  
+             7,008 dTLB-load-misses          #    1.51% of all dTLB cache hits 
+
+       1.000963551 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           757,300 dTLB-loads                                                  
+             9,667 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000584450 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           514,685 dTLB-loads                                                  
+             7,030 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000649534 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           581,762 dTLB-loads                                                  
+             7,959 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000606346 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           521,262 dTLB-loads                                                  
+             7,197 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000537531 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           659,695 dTLB-loads                                                  
+             7,181 dTLB-load-misses          #    1.09% of all dTLB cache hits 
+
+       1.000620652 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           490,254 dTLB-loads                                                  
+             6,979 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000655680 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           557,715 dTLB-loads                                                  
+             7,505 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000625607 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           526,583 dTLB-loads                                                  
+             7,058 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000628751 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           577,682 dTLB-loads                                                  
+             7,545 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000604885 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           497,726 dTLB-loads                                                  
+             6,916 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000578818 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           707,869 dTLB-loads                                                  
+            10,050 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000624136 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           496,355 dTLB-loads                                                  
+             7,161 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000621742 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           518,673 dTLB-loads                                                  
+             6,823 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000667905 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           494,467 dTLB-loads                                                  
+             6,708 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000621482 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           674,097 dTLB-loads                                                  
+             9,067 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000542206 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           659,288 dTLB-loads                                                  
+             8,404 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000586894 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           461,495 dTLB-loads                                                  
+             6,710 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000741147 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           492,430 dTLB-loads                                                  
+             6,861 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000661036 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           445,354 dTLB-loads                                                  
+             5,953 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000648527 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           617,534 dTLB-loads                                                  
+             9,316 dTLB-load-misses          #    1.51% of all dTLB cache hits 
+
+       1.000652836 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           466,178 dTLB-loads                                                  
+             6,532 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000613734 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           517,791 dTLB-loads                                                  
+             7,127 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000575859 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           459,081 dTLB-loads                                                  
+             6,118 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000862089 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           523,656 dTLB-loads                                                  
+             6,941 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000747364 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           451,116 dTLB-loads                                                  
+             6,356 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000646764 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           522,900 dTLB-loads                                                  
+             7,136 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000638353 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           431,044 dTLB-loads                                                  
+             5,845 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000515007 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           588,110 dTLB-loads                                                  
+             8,297 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000852229 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           471,451 dTLB-loads                                                  
+             6,278 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000598484 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           554,579 dTLB-loads                                                  
+             7,663 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000675255 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           703,443 dTLB-loads                                                  
+             9,631 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000891224 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           602,346 dTLB-loads                                                  
+             8,869 dTLB-load-misses          #    1.47% of all dTLB cache hits 
+
+       1.000626453 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           497,058 dTLB-loads                                                  
+             7,538 dTLB-load-misses          #    1.52% of all dTLB cache hits 
+
+       1.000625828 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           570,961 dTLB-loads                                                  
+             8,046 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000675463 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           441,855 dTLB-loads                                                  
+             6,337 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000709491 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           531,878 dTLB-loads                                                  
+             7,263 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000619375 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           534,617 dTLB-loads                                                  
+             7,317 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000612984 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           494,708 dTLB-loads                                                  
+             7,247 dTLB-load-misses          #    1.46% of all dTLB cache hits 
+
+       1.000796201 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           557,775 dTLB-loads                                                  
+             7,980 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000646187 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           434,749 dTLB-loads                                                  
+             6,084 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000563864 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           555,247 dTLB-loads                                                  
+             7,741 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000684477 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           523,399 dTLB-loads                                                  
+             6,970 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000837630 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           413,079 dTLB-loads                                                  
+             6,195 dTLB-load-misses          #    1.50% of all dTLB cache hits 
+
+       1.000787789 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           537,658 dTLB-loads                                                  
+             7,469 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000632024 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           643,792 dTLB-loads                                                  
+             8,179 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000613783 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           588,184 dTLB-loads                                                  
+             8,281 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000651896 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           515,174 dTLB-loads                                                  
+             7,369 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000733889 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           477,161 dTLB-loads                                                  
+             6,744 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000652205 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           504,187 dTLB-loads                                                  
+             6,907 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000686859 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           461,508 dTLB-loads                                                  
+             6,503 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000729261 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           517,394 dTLB-loads                                                  
+             6,882 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000748625 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           467,438 dTLB-loads                                                  
+             6,910 dTLB-load-misses          #    1.48% of all dTLB cache hits 
+
+       1.000683456 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           564,702 dTLB-loads                                                  
+             7,906 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000928051 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           440,054 dTLB-loads                                                  
+             6,011 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000782868 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           584,871 dTLB-loads                                                  
+             8,166 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000666892 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           477,759 dTLB-loads                                                  
+             6,517 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000716236 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           471,043 dTLB-loads                                                  
+             6,677 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000654271 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           515,281 dTLB-loads                                                  
+             7,079 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000942693 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           453,169 dTLB-loads                                                  
+             6,320 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000917849 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           723,665 dTLB-loads                                                  
+             8,987 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000925222 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           464,564 dTLB-loads                                                  
+             6,562 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000858446 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           446,514 dTLB-loads                                                  
+             6,019 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000597321 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           572,586 dTLB-loads                                                  
+             8,305 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000724893 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           457,529 dTLB-loads                                                  
+             6,430 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000655063 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           498,475 dTLB-loads                                                  
+             7,211 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000629952 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           466,099 dTLB-loads                                                  
+             6,410 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000874496 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           450,184 dTLB-loads                                                  
+             6,372 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000627124 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           610,980 dTLB-loads                                                  
+             9,114 dTLB-load-misses          #    1.49% of all dTLB cache hits 
+
+       1.000861085 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           500,446 dTLB-loads                                                  
+             6,989 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000627332 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           539,157 dTLB-loads                                                  
+             7,462 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000648345 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           446,493 dTLB-loads                                                  
+             6,488 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000701755 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           524,258 dTLB-loads                                                  
+             7,141 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000746826 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           441,193 dTLB-loads                                                  
+             6,370 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000674938 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           718,349 dTLB-loads                                                  
+             9,730 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000771787 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           427,639 dTLB-loads                                                  
+             5,867 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000586782 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           516,165 dTLB-loads                                                  
+             7,049 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000858760 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           542,908 dTLB-loads                                                  
+             7,270 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000617815 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           493,170 dTLB-loads                                                  
+             6,759 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000722428 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           533,216 dTLB-loads                                                  
+             7,057 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000607899 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           435,773 dTLB-loads                                                  
+             6,105 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000560663 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           516,624 dTLB-loads                                                  
+             7,100 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000719352 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           501,392 dTLB-loads                                                  
+             7,756 dTLB-load-misses          #    1.55% of all dTLB cache hits 
+
+       1.000709459 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           585,505 dTLB-loads                                                  
+             8,250 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000819212 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           456,998 dTLB-loads                                                  
+             5,924 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000614355 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           557,589 dTLB-loads                                                  
+             7,710 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000696341 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           416,313 dTLB-loads                                                  
+             5,831 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000785615 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           445,865 dTLB-loads                                                  
+             5,973 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000907325 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           530,338 dTLB-loads                                                  
+             6,996 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000713945 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           638,118 dTLB-loads                                                  
+             8,020 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000577197 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           610,046 dTLB-loads                                                  
+             8,352 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000794048 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           465,898 dTLB-loads                                                  
+             6,229 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000641404 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           477,988 dTLB-loads                                                  
+             6,295 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000633600 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           570,164 dTLB-loads                                                  
+             7,915 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000665874 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           480,001 dTLB-loads                                                  
+             6,506 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000667333 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           572,531 dTLB-loads                                                  
+             8,237 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000730404 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           469,498 dTLB-loads                                                  
+             6,137 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000633867 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           566,911 dTLB-loads                                                  
+             7,851 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000628772 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           474,865 dTLB-loads                                                  
+             6,343 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000638005 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           514,774 dTLB-loads                                                  
+             6,951 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000641928 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           440,040 dTLB-loads                                                  
+             5,932 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000917417 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           492,278 dTLB-loads                                                  
+             6,625 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000639616 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           572,325 dTLB-loads                                                  
+             9,680 dTLB-load-misses          #    1.69% of all dTLB cache hits 
+
+       1.000602262 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           688,803 dTLB-loads                                                   [89.99%]
+             8,417 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000696584 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           511,757 dTLB-loads                                                   [90.00%]
+             6,419 dTLB-load-misses          #    1.25% of all dTLB cache hits 
+
+       1.000620127 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           563,624 dTLB-loads                                                   [83.99%]
+             6,045 dTLB-load-misses          #    1.07% of all dTLB cache hits 
+
+       1.000591745 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           453,748 dTLB-loads                                                   [86.50%]
+             5,965 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000836275 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           574,277 dTLB-loads                                                   [85.76%]
+             6,955 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000669851 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           462,530 dTLB-loads                                                   [87.43%]
+             5,357 dTLB-load-misses          #    1.16% of all dTLB cache hits 
+
+       1.000593727 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           587,613 dTLB-loads                                                   [87.57%]
+             7,055 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000629074 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           463,042 dTLB-loads                                                   [87.56%]
+             5,522 dTLB-load-misses          #    1.19% of all dTLB cache hits 
+
+       1.000564122 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           541,612 dTLB-loads                                                   [84.64%]
+             6,550 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000715739 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           508,130 dTLB-loads                                                   [88.48%]
+             6,446 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000710377 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           548,697 dTLB-loads                                                   [86.18%]
+             6,927 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000646713 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           461,881 dTLB-loads                                                   [88.74%]
+             6,420 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000851812 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           549,575 dTLB-loads                                                   [87.13%]
+             6,379 dTLB-load-misses          #    1.16% of all dTLB cache hits 
+
+       1.000691866 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           553,637 dTLB-loads                                                   [88.16%]
+             7,114 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000673451 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           474,199 dTLB-loads                                                   [91.14%]
+             5,685 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000554713 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           901,562 dTLB-loads                                                   [89.95%]
+             9,008 dTLB-load-misses          #    1.00% of all dTLB cache hits 
+
+       1.000652550 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           450,150 dTLB-loads                                                   [87.38%]
+             5,330 dTLB-load-misses          #    1.18% of all dTLB cache hits 
+
+       1.000658923 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           578,107 dTLB-loads                                                   [88.13%]
+             7,065 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000700574 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           439,541 dTLB-loads                                                   [89.62%]
+             5,776 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000656786 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           603,359 dTLB-loads                                                   [84.61%]
+             7,348 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000729007 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           491,808 dTLB-loads                                                   [84.54%]
+             5,570 dTLB-load-misses          #    1.13% of all dTLB cache hits 
+
+       1.000659822 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           494,614 dTLB-loads                                                   [88.92%]
+             6,068 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000623027 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           455,509 dTLB-loads                                                   [89.75%]
+             5,810 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000816824 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           561,140 dTLB-loads                                                   [88.00%]
+             6,743 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000680717 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           476,549 dTLB-loads                                                   [81.57%]
+             5,442 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000683406 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           510,439 dTLB-loads                                                   [81.89%]
+             5,382 dTLB-load-misses          #    1.05% of all dTLB cache hits 
+
+       1.000560266 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           533,489 dTLB-loads                                                   [86.89%]
+             7,423 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000630654 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           553,169 dTLB-loads                                                   [84.78%]
+             6,650 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000658329 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           660,746 dTLB-loads                                                   [73.35%]
+             7,792 dTLB-load-misses          #    1.18% of all dTLB cache hits 
+
+       1.000685937 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           768,039 dTLB-loads                                                   [91.51%]
+            10,075 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000634333 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           423,185 dTLB-loads                                                   [90.36%]
+             5,402 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000632594 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           529,237 dTLB-loads                                                   [87.00%]
+             6,510 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000591089 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           419,017 dTLB-loads                                                   [88.77%]
+             4,980 dTLB-load-misses          #    1.19% of all dTLB cache hits 
+
+       1.000629004 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           495,494 dTLB-loads                                                   [88.28%]
+             5,663 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000672210 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           590,973 dTLB-loads                                                   [86.69%]
+             6,816 dTLB-load-misses          #    1.15% of all dTLB cache hits 
+
+       1.000812641 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           550,856 dTLB-loads                                                   [84.73%]
+             6,282 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000686171 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           499,146 dTLB-loads                                                   [90.74%]
+             6,526 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000679263 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           554,226 dTLB-loads                                                   [85.76%]
+             5,981 dTLB-load-misses          #    1.08% of all dTLB cache hits 
+
+       1.000710745 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         1,980,269 dTLB-loads                                                   [96.38%]
+            17,036 dTLB-load-misses          #    0.86% of all dTLB cache hits 
+
+       1.000647879 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       761,060,001 dTLB-loads                                                   [99.97%]
+        11,565,705 dTLB-load-misses          #    1.52% of all dTLB cache hits  [100.00%]
+
+       1.000904161 seconds time elapsed
+

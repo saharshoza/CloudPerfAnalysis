@@ -1,0 +1,1144 @@
+
+ Performance counter stats for process id '137379':
+
+           410,262 dTLB-loads                                                   [97.15%]
+             5,650 dTLB-load-misses          #    1.38% of all dTLB cache hits  [97.15%]
+
+       1.000720455 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           524,788 dTLB-loads                                                  
+             7,191 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000731837 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           407,637 dTLB-loads                                                  
+             5,143 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000790267 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           625,450 dTLB-loads                                                  
+             8,784 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000858869 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           392,087 dTLB-loads                                                  
+             5,413 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000719469 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           520,625 dTLB-loads                                                  
+             6,698 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000691819 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           383,850 dTLB-loads                                                  
+             4,724 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000688309 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           412,941 dTLB-loads                                                  
+             5,226 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000697269 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           483,597 dTLB-loads                                                  
+             6,250 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000771872 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           402,547 dTLB-loads                                                  
+             4,945 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000652021 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           770,129 dTLB-loads                                                  
+             8,925 dTLB-load-misses          #    1.16% of all dTLB cache hits 
+
+       1.000710556 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           405,685 dTLB-loads                                                  
+             5,562 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000630519 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           486,228 dTLB-loads                                                  
+             6,066 dTLB-load-misses          #    1.25% of all dTLB cache hits 
+
+       1.000628062 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           414,356 dTLB-loads                                                  
+             5,208 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000632010 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           510,733 dTLB-loads                                                  
+             6,617 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000675926 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           423,235 dTLB-loads                                                  
+             5,269 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000755379 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           507,891 dTLB-loads                                                  
+             6,499 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000787047 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       552,457,578 dTLB-loads                                                  
+           767,117 dTLB-load-misses          #    0.14% of all dTLB cache hits 
+
+       1.000696363 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           490,890 dTLB-loads                                                  
+             6,617 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000696893 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           816,314 dTLB-loads                                                  
+            12,628 dTLB-load-misses          #    1.55% of all dTLB cache hits 
+
+       1.000669808 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           405,333 dTLB-loads                                                  
+             4,931 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000692006 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           661,057 dTLB-loads                                                  
+             7,471 dTLB-load-misses          #    1.13% of all dTLB cache hits 
+
+       1.000892889 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           634,690 dTLB-loads                                                  
+             8,788 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000673338 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           400,269 dTLB-loads                                                  
+             4,804 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000695486 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           808,620 dTLB-loads                                                  
+             9,874 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000784799 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           434,259 dTLB-loads                                                  
+             5,704 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000866147 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           526,770 dTLB-loads                                                  
+             6,849 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000740545 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           475,210 dTLB-loads                                                  
+             6,413 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000627790 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           511,772 dTLB-loads                                                  
+             6,873 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000700185 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           518,832 dTLB-loads                                                  
+             7,854 dTLB-load-misses          #    1.51% of all dTLB cache hits 
+
+       1.000730166 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           653,502 dTLB-loads                                                  
+             9,680 dTLB-load-misses          #    1.48% of all dTLB cache hits 
+
+       1.000823423 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           489,237 dTLB-loads                                                  
+             6,844 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000761134 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           635,124 dTLB-loads                                                  
+             9,893 dTLB-load-misses          #    1.56% of all dTLB cache hits 
+
+       1.000728667 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           542,161 dTLB-loads                                                  
+             8,421 dTLB-load-misses          #    1.55% of all dTLB cache hits 
+
+       1.000769986 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           566,294 dTLB-loads                                                  
+             8,146 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000791960 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           606,919 dTLB-loads                                                  
+             9,355 dTLB-load-misses          #    1.54% of all dTLB cache hits 
+
+       1.000785542 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           663,073 dTLB-loads                                                  
+            10,381 dTLB-load-misses          #    1.57% of all dTLB cache hits 
+
+       1.000820846 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           821,332 dTLB-loads                                                  
+            12,042 dTLB-load-misses          #    1.47% of all dTLB cache hits 
+
+       1.000683837 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           903,521 dTLB-loads                                                  
+            14,524 dTLB-load-misses          #    1.61% of all dTLB cache hits 
+
+       1.000716853 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         1,067,606 dTLB-loads                                                  
+            14,673 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000790316 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           553,773 dTLB-loads                                                  
+             7,839 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000721783 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           719,280 dTLB-loads                                                  
+            10,147 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000711547 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           415,937 dTLB-loads                                                  
+             5,452 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000671625 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           700,142 dTLB-loads                                                  
+             9,703 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000707495 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           570,409 dTLB-loads                                                  
+             8,426 dTLB-load-misses          #    1.48% of all dTLB cache hits 
+
+       1.000675443 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           512,149 dTLB-loads                                                  
+             6,852 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000732104 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           587,907 dTLB-loads                                                  
+             7,832 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000731598 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           687,156 dTLB-loads                                                  
+             9,410 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000714375 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           454,452 dTLB-loads                                                  
+             5,896 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000746025 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           659,671 dTLB-loads                                                  
+             9,247 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000631267 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           497,910 dTLB-loads                                                  
+             7,027 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000743462 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           516,757 dTLB-loads                                                  
+             6,443 dTLB-load-misses          #    1.25% of all dTLB cache hits 
+
+       1.000576947 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           634,988 dTLB-loads                                                  
+             9,349 dTLB-load-misses          #    1.47% of all dTLB cache hits 
+
+       1.000679157 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           527,521 dTLB-loads                                                  
+             7,129 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000621950 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           727,948 dTLB-loads                                                  
+             8,266 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000698478 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           592,655 dTLB-loads                                                  
+             9,534 dTLB-load-misses          #    1.61% of all dTLB cache hits 
+
+       1.000746029 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           413,057 dTLB-loads                                                  
+             5,451 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000636397 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           492,370 dTLB-loads                                                  
+             6,778 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000730597 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           429,527 dTLB-loads                                                  
+             5,530 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000635630 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           430,148 dTLB-loads                                                  
+             5,191 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000754471 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           496,886 dTLB-loads                                                  
+             6,044 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000603490 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           542,466 dTLB-loads                                                  
+             8,624 dTLB-load-misses          #    1.59% of all dTLB cache hits 
+
+       1.000749529 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           507,570 dTLB-loads                                                  
+             6,514 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000676596 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           408,640 dTLB-loads                                                  
+             5,118 dTLB-load-misses          #    1.25% of all dTLB cache hits 
+
+       1.000605643 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           588,820 dTLB-loads                                                  
+             7,633 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000720148 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           435,899 dTLB-loads                                                  
+             5,720 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000715734 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           505,186 dTLB-loads                                                  
+             7,489 dTLB-load-misses          #    1.48% of all dTLB cache hits 
+
+       1.000721069 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           388,000 dTLB-loads                                                  
+             5,007 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000794649 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           755,282 dTLB-loads                                                  
+             9,140 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000996621 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           383,854 dTLB-loads                                                  
+             4,958 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000772802 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           499,523 dTLB-loads                                                  
+             6,369 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000887655 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           396,151 dTLB-loads                                                  
+             5,896 dTLB-load-misses          #    1.49% of all dTLB cache hits  [99.17%]
+
+       1.000978235 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           547,030 dTLB-loads                                                  
+             7,092 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000644996 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           401,966 dTLB-loads                                                  
+             5,843 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000756388 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           467,551 dTLB-loads                                                  
+             5,965 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000900683 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           564,821 dTLB-loads                                                  
+             7,633 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000703336 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           434,636 dTLB-loads                                                  
+             5,900 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000852206 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           457,450 dTLB-loads                                                  
+             6,533 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000669435 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           388,769 dTLB-loads                                                  
+             5,097 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000663618 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           501,512 dTLB-loads                                                  
+             7,012 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000664629 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           402,927 dTLB-loads                                                  
+             5,487 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000693885 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           420,907 dTLB-loads                                                  
+             5,925 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000638900 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           532,744 dTLB-loads                                                  
+             7,368 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000672960 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           645,010 dTLB-loads                                                  
+             7,897 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000727637 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           565,843 dTLB-loads                                                  
+             8,108 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000679687 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           421,857 dTLB-loads                                                  
+             6,056 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000687457 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           372,548 dTLB-loads                                                  
+             5,470 dTLB-load-misses          #    1.47% of all dTLB cache hits 
+
+       1.000698476 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           525,950 dTLB-loads                                                  
+             6,980 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000699449 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           486,239 dTLB-loads                                                  
+             6,882 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000818595 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           548,064 dTLB-loads                                                  
+             7,708 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000683834 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           401,230 dTLB-loads                                                  
+             5,810 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000640631 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           549,298 dTLB-loads                                                  
+             7,407 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000727920 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           389,912 dTLB-loads                                                  
+             5,821 dTLB-load-misses          #    1.49% of all dTLB cache hits 
+
+       1.000947598 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           503,838 dTLB-loads                                                  
+             7,094 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000608141 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           427,313 dTLB-loads                                                  
+             5,900 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000591351 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           487,061 dTLB-loads                                                  
+             6,008 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000648630 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           390,875 dTLB-loads                                                  
+             4,695 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000660411 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           852,148 dTLB-loads                                                  
+            11,039 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000617979 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           515,789 dTLB-loads                                                  
+             7,448 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000571151 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           488,549 dTLB-loads                                                  
+             6,782 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000654358 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           428,932 dTLB-loads                                                  
+             5,531 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000671023 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           518,464 dTLB-loads                                                  
+             6,808 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000663127 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           392,679 dTLB-loads                                                  
+             4,962 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000677991 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           582,955 dTLB-loads                                                  
+             7,883 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000687253 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           395,943 dTLB-loads                                                  
+             5,667 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000760952 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           610,334 dTLB-loads                                                  
+             8,294 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000545163 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           503,056 dTLB-loads                                                  
+             6,460 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000637291 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           454,269 dTLB-loads                                                  
+             6,440 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000852114 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           493,395 dTLB-loads                                                  
+             5,876 dTLB-load-misses          #    1.19% of all dTLB cache hits 
+
+       1.000617793 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           405,557 dTLB-loads                                                  
+             5,445 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000755551 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           621,400 dTLB-loads                                                  
+             8,540 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000737585 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           527,354 dTLB-loads                                                  
+             6,990 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000772520 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           668,750 dTLB-loads                                                  
+             7,699 dTLB-load-misses          #    1.15% of all dTLB cache hits 
+
+       1.000873693 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           515,715 dTLB-loads                                                  
+             6,557 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000935830 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           320,778 dTLB-loads                                                  
+             5,073 dTLB-load-misses          #    1.58% of all dTLB cache hits 
+
+       1.000805798 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           553,168 dTLB-loads                                                  
+             7,635 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000829353 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           514,434 dTLB-loads                                                  
+             6,490 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000624968 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           413,275 dTLB-loads                                                  
+             5,283 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000668316 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           547,025 dTLB-loads                                                  
+             7,164 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000874121 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           955,300 dTLB-loads                                                  
+            11,192 dTLB-load-misses          #    1.17% of all dTLB cache hits 
+
+       1.000843940 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           485,742 dTLB-loads                                                  
+             5,927 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000676931 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           399,935 dTLB-loads                                                  
+             4,977 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000605303 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           499,152 dTLB-loads                                                  
+             6,093 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000603474 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           397,094 dTLB-loads                                                  
+             4,968 dTLB-load-misses          #    1.25% of all dTLB cache hits 
+
+       1.000643135 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           492,752 dTLB-loads                                                  
+             5,937 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000680619 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           385,440 dTLB-loads                                                  
+             4,701 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000741888 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           762,442 dTLB-loads                                                  
+             8,923 dTLB-load-misses          #    1.17% of all dTLB cache hits 
+
+       1.000771785 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           389,581 dTLB-loads                                                  
+             4,733 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000645222 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           533,038 dTLB-loads                                                  
+             6,855 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000683203 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           392,802 dTLB-loads                                                  
+             4,769 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000695854 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           507,294 dTLB-loads                                                  
+             6,294 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000669355 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           386,046 dTLB-loads                                                  
+             4,657 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000888745 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           513,394 dTLB-loads                                                  
+             6,270 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000693425 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           403,768 dTLB-loads                                                  
+             4,964 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000771933 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           528,774 dTLB-loads                                                  
+             6,564 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000630727 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           386,656 dTLB-loads                                                  
+             4,719 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000660865 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           522,097 dTLB-loads                                                  
+             6,449 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000635009 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           408,328 dTLB-loads                                                  
+             5,045 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000659803 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           496,577 dTLB-loads                                                  
+             5,949 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000687370 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           392,391 dTLB-loads                                                  
+             4,787 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000822824 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           523,795 dTLB-loads                                                  
+             6,448 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000801193 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       210,955,911 dTLB-loads                                                  
+         2,371,156 dTLB-load-misses          #    1.12% of all dTLB cache hits 
+
+       1.000786390 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       152,638,712 dTLB-loads                                                   [100.00%]
+         1,433,598 dTLB-load-misses          #    0.94% of all dTLB cache hits 
+
+       1.000644091 seconds time elapsed
+

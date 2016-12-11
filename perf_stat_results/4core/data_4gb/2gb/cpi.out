@@ -1,0 +1,1208 @@
+
+ Performance counter stats for process id '137379':
+
+         5,769,985 cycles:uk                
+         2,349,730 instructions:uk           #    0.41  insns per cycle        
+
+       1.000736610 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,121,839 cycles:uk                
+         3,113,099 instructions:uk           #    0.38  insns per cycle        
+
+       1.000636562 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,724,712 cycles:uk                
+         2,307,797 instructions:uk           #    0.40  insns per cycle        
+
+       1.000687483 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,358,377 cycles:uk                
+         3,548,956 instructions:uk           #    0.38  insns per cycle        
+
+       1.000650555 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,242,147 cycles:uk                
+         2,489,210 instructions:uk           #    0.40  insns per cycle        
+
+       1.000729082 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,181,100 cycles:uk                
+         2,972,471 instructions:uk           #    0.41  insns per cycle        
+
+       1.000766103 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,989,225 cycles:uk                
+         2,345,539 instructions:uk           #    0.39  insns per cycle        
+
+       1.000637878 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       587,939,863 cycles:uk                
+       632,406,298 instructions:uk           #    1.08  insns per cycle        
+
+       1.000729604 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,786,740 cycles:uk                
+         2,823,666 instructions:uk           #    0.36  insns per cycle        
+
+       1.000692226 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        77,966,845 cycles:uk                
+        53,512,558 instructions:uk           #    0.69  insns per cycle        
+
+       1.000720585 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,769,763 cycles:uk                
+         2,723,430 instructions:uk           #    0.40  insns per cycle        
+
+       1.000750037 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,809,680 cycles:uk                
+         4,012,990 instructions:uk           #    0.41  insns per cycle        
+
+       1.000832746 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,107,814 cycles:uk                
+         2,444,706 instructions:uk           #    0.34  insns per cycle        
+
+       1.000646506 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,926,145 cycles:uk                
+         2,922,831 instructions:uk           #    0.33  insns per cycle        
+
+       1.000738389 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        12,708,167 cycles:uk                
+         4,586,864 instructions:uk           #    0.36  insns per cycle        
+
+       1.000611204 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        18,844,143 cycles:uk                
+         9,344,383 instructions:uk           #    0.50  insns per cycle        
+
+       1.000719316 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,255,527 cycles:uk                
+         2,574,970 instructions:uk           #    0.31  insns per cycle        
+
+       1.000663467 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        12,542,592 cycles:uk                
+         3,943,428 instructions:uk           #    0.31  insns per cycle        
+
+       1.000719307 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,002,506 cycles:uk                
+         2,737,295 instructions:uk           #    0.30  insns per cycle        
+
+       1.000730598 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,220,477 cycles:uk                
+         3,168,737 instructions:uk           #    0.28  insns per cycle        
+
+       1.000724543 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,191,050 cycles:uk                
+         2,548,082 instructions:uk           #    0.28  insns per cycle        
+
+       1.000806971 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,843,320 cycles:uk                
+         3,519,496 instructions:uk           #    0.30  insns per cycle        
+
+       1.000759358 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,463,975 cycles:uk                
+         3,642,865 instructions:uk           #    0.35  insns per cycle        
+
+       1.000635946 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        13,264,640 cycles:uk                
+         4,178,013 instructions:uk           #    0.31  insns per cycle        
+
+       1.000792710 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,666,075 cycles:uk                
+         3,642,015 instructions:uk           #    0.31  insns per cycle        
+
+       1.000665459 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,575,856 cycles:uk                
+         3,892,118 instructions:uk           #    0.34  insns per cycle        
+
+       1.000702411 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,208,588 cycles:uk                
+         2,219,715 instructions:uk           #    0.31  insns per cycle        
+
+       1.000626773 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,745,163 cycles:uk                
+         3,778,374 instructions:uk           #    0.35  insns per cycle        
+
+       1.000755024 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        12,352,019 cycles:uk                
+         4,449,285 instructions:uk           #    0.36  insns per cycle        
+
+       1.000627766 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,517,134 cycles:uk                
+         2,244,856 instructions:uk           #    0.34  insns per cycle        
+
+       1.000684401 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        12,158,510 cycles:uk                
+         3,942,491 instructions:uk           #    0.32  insns per cycle        
+
+       1.000677000 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,168,648 cycles:uk                
+         2,534,003 instructions:uk           #    0.31  insns per cycle        
+
+       1.000713233 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,741,636 cycles:uk                
+         3,232,070 instructions:uk           #    0.30  insns per cycle        
+
+       1.000707682 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,875,259 cycles:uk                
+         2,804,761 instructions:uk           #    0.32  insns per cycle        
+
+       1.000746331 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,080,884 cycles:uk                
+         3,521,033 instructions:uk           #    0.32  insns per cycle        
+
+       1.000725344 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,778,188 cycles:uk                
+         2,500,570 instructions:uk           #    0.32  insns per cycle        
+
+       1.000847082 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,623,202 cycles:uk                
+         3,540,509 instructions:uk           #    0.30  insns per cycle        
+
+       1.000679669 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,751,105 cycles:uk                
+         3,212,157 instructions:uk           #    0.33  insns per cycle        
+
+       1.000791715 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,669,332 cycles:uk                
+         3,558,394 instructions:uk           #    0.30  insns per cycle        
+
+       1.000819419 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,364,045 cycles:uk                
+         2,201,575 instructions:uk           #    0.30  insns per cycle        
+
+       1.000977183 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        12,672,017 cycles:uk                
+         3,864,922 instructions:uk           #    0.30  insns per cycle        
+
+       1.000792737 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,267,111 cycles:uk                
+         2,142,896 instructions:uk           #    0.29  insns per cycle        
+
+       1.000844348 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,980,687 cycles:uk                
+         3,070,041 instructions:uk           #    0.34  insns per cycle        
+
+       1.000758745 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        12,009,476 cycles:uk                
+         4,169,344 instructions:uk           #    0.35  insns per cycle        
+
+       1.000604876 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,476,029 cycles:uk                
+         3,502,956 instructions:uk           #    0.41  insns per cycle        
+
+       1.000939596 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,906,749 cycles:uk                
+         3,688,230 instructions:uk           #    0.31  insns per cycle        
+
+       1.000654721 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,651,219 cycles:uk                
+         2,190,565 instructions:uk           #    0.29  insns per cycle        
+
+       1.000963408 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,809,800 cycles:uk                
+         3,494,216 instructions:uk           #    0.32  insns per cycle        
+
+       1.000705565 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,631,157 cycles:uk                
+         3,654,427 instructions:uk           #    0.34  insns per cycle        
+
+       1.000816691 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,841,497 cycles:uk                
+         3,171,384 instructions:uk           #    0.36  insns per cycle        
+
+       1.000651619 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,421,262 cycles:uk                
+         2,006,011 instructions:uk           #    0.45  insns per cycle        
+
+       1.000669687 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,829,574 cycles:uk                
+         2,738,351 instructions:uk           #    0.40  insns per cycle        
+
+       1.000660890 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,208,318 cycles:uk                
+         1,734,275 instructions:uk           #    0.24  insns per cycle        
+
+       1.000828139 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,115,827 cycles:uk                
+         2,854,964 instructions:uk           #    0.31  insns per cycle        
+
+       1.000894533 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,877,193 cycles:uk                
+         1,990,472 instructions:uk           #    0.29  insns per cycle        
+
+       1.000715878 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,141,410 cycles:uk                
+         3,039,020 instructions:uk           #    0.37  insns per cycle        
+
+       1.000681540 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,663,817 cycles:uk                
+         2,079,942 instructions:uk           #    0.45  insns per cycle        
+
+       1.000665266 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,982,279 cycles:uk                
+         3,059,449 instructions:uk           #    0.44  insns per cycle        
+
+       1.000944822 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        35,814,519 cycles:uk                
+        37,130,009 instructions:uk           #    1.04  insns per cycle        
+
+       1.000676615 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,932,458 cycles:uk                
+         3,148,948 instructions:uk           #    0.35  insns per cycle        
+
+       1.000763043 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,479,542 cycles:uk                
+         2,169,959 instructions:uk           #    0.26  insns per cycle        
+
+       1.000737181 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,721,326 cycles:uk                
+         3,093,140 instructions:uk           #    0.32  insns per cycle        
+
+       1.000777173 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,601,783 cycles:uk                
+         2,112,626 instructions:uk           #    0.32  insns per cycle        
+
+       1.000627088 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        14,391,991 cycles:uk                
+         6,683,463 instructions:uk           #    0.46  insns per cycle        
+
+       1.000649570 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,315,049 cycles:uk                
+         2,018,634 instructions:uk           #    0.32  insns per cycle        
+
+       1.000791957 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,977,872 cycles:uk                
+         6,461,750 instructions:uk           #    0.54  insns per cycle        
+
+       1.000714311 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,723,582 cycles:uk                
+         3,105,591 instructions:uk           #    0.36  insns per cycle        
+
+       1.000615083 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,321,355 cycles:uk                
+         2,137,279 instructions:uk           #    0.34  insns per cycle        
+
+       1.000779519 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,968,744 cycles:uk                
+         2,437,870 instructions:uk           #    0.41  insns per cycle        
+
+       1.000711943 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,863,129 cycles:uk                
+         2,056,239 instructions:uk           #    0.42  insns per cycle        
+
+       1.000735424 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,445,042 cycles:uk                
+         1,825,707 instructions:uk           #    0.28  insns per cycle        
+
+       1.000617372 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,406,197 cycles:uk                
+         2,978,905 instructions:uk           #    0.40  insns per cycle        
+
+       1.000686742 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,281,145 cycles:uk                
+         3,625,007 instructions:uk           #    0.35  insns per cycle        
+
+       1.000724018 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        15,833,389 cycles:uk                
+         3,698,045 instructions:uk           #    0.23  insns per cycle        
+
+       1.000588350 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,568,287 cycles:uk                
+         1,947,710 instructions:uk           #    0.43  insns per cycle        
+
+       1.000663910 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,751,319 cycles:uk                
+         2,523,056 instructions:uk           #    0.26  insns per cycle        
+
+       1.000757723 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,438,308 cycles:uk                
+         2,771,786 instructions:uk           #    0.33  insns per cycle        
+
+       1.000747144 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,055,944 cycles:uk                
+         2,325,993 instructions:uk           #    0.29  insns per cycle        
+
+       1.000659238 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,594,658 cycles:uk                
+         3,054,917 instructions:uk           #    0.32  insns per cycle        
+
+       1.000845279 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,772,067 cycles:uk                
+         2,275,623 instructions:uk           #    0.29  insns per cycle        
+
+       1.000708639 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,645,400 cycles:uk                
+         2,623,131 instructions:uk           #    0.27  insns per cycle        
+
+       1.000722332 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,435,613 cycles:uk                
+         2,106,285 instructions:uk           #    0.33  insns per cycle        
+
+       1.000606956 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,159,687 cycles:uk                
+         2,254,995 instructions:uk           #    0.31  insns per cycle        
+
+       1.000774995 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,703,282 cycles:uk                
+         2,621,256 instructions:uk           #    0.34  insns per cycle        
+
+       1.000611168 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,312,010 cycles:uk                
+         1,525,213 instructions:uk           #    0.24  insns per cycle        
+
+       1.001320690 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,683,672 cycles:uk                
+         2,924,804 instructions:uk           #    0.34  insns per cycle        
+
+       1.000668930 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,206,395 cycles:uk                
+         1,953,395 instructions:uk           #    0.38  insns per cycle        
+
+       1.000661868 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,608,935 cycles:uk                
+         3,839,594 instructions:uk           #    0.36  insns per cycle        
+
+       1.000921428 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,480,759 cycles:uk                
+         2,081,166 instructions:uk           #    0.32  insns per cycle        
+
+       1.000693751 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,340,179 cycles:uk                
+         3,323,687 instructions:uk           #    0.36  insns per cycle        
+
+       1.000580139 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,429,734 cycles:uk                
+         2,370,489 instructions:uk           #    0.25  insns per cycle        
+
+       1.000741332 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,553,595 cycles:uk                
+         2,261,211 instructions:uk           #    0.30  insns per cycle        
+
+       1.000789406 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,973,287 cycles:uk                
+         2,805,376 instructions:uk           #    0.26  insns per cycle        
+
+       1.000740695 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,692,081 cycles:uk                
+         2,104,655 instructions:uk           #    0.31  insns per cycle        
+
+       1.000723104 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,361,893 cycles:uk                
+         3,213,069 instructions:uk           #    0.28  insns per cycle        
+
+       1.000646145 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,556,713 cycles:uk                
+         2,797,097 instructions:uk           #    0.43  insns per cycle        
+
+       1.000834717 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,853,534 cycles:uk                
+         1,992,165 instructions:uk           #    0.41  insns per cycle        
+
+       1.000637649 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,091,274 cycles:uk                
+         3,145,780 instructions:uk           #    0.44  insns per cycle        
+
+       1.000796324 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,035,222 cycles:uk                
+         2,129,519 instructions:uk           #    0.30  insns per cycle        
+
+       1.000760023 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,972,621 cycles:uk                
+         2,685,384 instructions:uk           #    0.34  insns per cycle        
+
+       1.000567359 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,098,771 cycles:uk                
+         3,093,904 instructions:uk           #    0.28  insns per cycle        
+
+       1.000817792 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,930,593 cycles:uk                
+         3,111,411 instructions:uk           #    0.31  insns per cycle        
+
+       1.000710058 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        12,888,161 cycles:uk                
+         3,842,171 instructions:uk           #    0.30  insns per cycle        
+
+       1.000883815 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,621,544 cycles:uk                
+         1,938,880 instructions:uk           #    0.42  insns per cycle        
+
+       1.000788598 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,596,939 cycles:uk                
+         2,871,042 instructions:uk           #    0.38  insns per cycle        
+
+       1.000665670 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,190,153 cycles:uk                
+         2,250,668 instructions:uk           #    0.31  insns per cycle        
+
+       1.000798279 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,830,093 cycles:uk                
+         3,053,180 instructions:uk           #    0.35  insns per cycle        
+
+       1.000638323 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,773,203 cycles:uk                
+         1,696,846 instructions:uk           #    0.29  insns per cycle        
+
+       1.000679962 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,831,072 cycles:uk                
+         3,187,412 instructions:uk           #    0.29  insns per cycle        
+
+       1.000697631 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,486,223 cycles:uk                
+         2,196,185 instructions:uk           #    0.29  insns per cycle        
+
+       1.000688401 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        10,216,383 cycles:uk                
+         2,967,614 instructions:uk           #    0.29  insns per cycle        
+
+       1.000724203 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,789,791 cycles:uk                
+         1,966,559 instructions:uk           #    0.41  insns per cycle        
+
+       1.000732303 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,125,726 cycles:uk                
+         2,771,341 instructions:uk           #    0.39  insns per cycle        
+
+       1.000811409 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,195,955 cycles:uk                
+         2,642,665 instructions:uk           #    0.43  insns per cycle        
+
+       1.000887876 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,486,843 cycles:uk                
+         2,690,418 instructions:uk           #    0.28  insns per cycle        
+
+       1.000796551 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,493,806 cycles:uk                
+         2,321,354 instructions:uk           #    0.27  insns per cycle        
+
+       1.000673357 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,061,209 cycles:uk                
+         3,770,701 instructions:uk           #    0.42  insns per cycle        
+
+       1.000718057 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,028,935 cycles:uk                
+         2,836,064 instructions:uk           #    0.31  insns per cycle        
+
+       1.000665100 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,324,066 cycles:uk                
+         1,929,476 instructions:uk           #    0.36  insns per cycle        
+
+       1.000691060 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,076,944 cycles:uk                
+         2,612,356 instructions:uk           #    0.43  insns per cycle        
+
+       1.000799280 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,745,682 cycles:uk                
+         2,917,118 instructions:uk           #    0.33  insns per cycle        
+
+       1.000722748 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,577,939 cycles:uk                
+         1,916,041 instructions:uk           #    0.34  insns per cycle        
+
+       1.000617290 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,198,839 cycles:uk                
+         2,461,950 instructions:uk           #    0.27  insns per cycle        
+
+       1.000663291 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,992,723 cycles:uk                
+         1,944,841 instructions:uk           #    0.32  insns per cycle        
+
+       1.000631259 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,334,754 cycles:uk                
+         2,507,943 instructions:uk           #    0.30  insns per cycle        
+
+       1.000810673 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,216,461 cycles:uk                
+         2,881,294 instructions:uk           #    0.31  insns per cycle        
+
+       1.000945802 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,982,713 cycles:uk                
+         3,155,478 instructions:uk           #    0.35  insns per cycle        
+
+       1.000652968 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,694,753 cycles:uk                
+         3,122,185 instructions:uk           #    0.32  insns per cycle        
+
+       1.000624385 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,865,820 cycles:uk                
+         1,934,291 instructions:uk           #    0.40  insns per cycle        
+
+       1.000582899 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,518,496 cycles:uk                
+         2,438,391 instructions:uk           #    0.37  insns per cycle        
+
+       1.000666437 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,104,062 cycles:uk                
+         2,008,030 instructions:uk           #    0.33  insns per cycle        
+
+       1.000658921 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         9,697,883 cycles:uk                
+         3,967,299 instructions:uk           #    0.41  insns per cycle        
+
+       1.000689847 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,627,541 cycles:uk                
+         1,935,264 instructions:uk           #    0.42  insns per cycle        
+
+       1.000657195 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,901,182 cycles:uk                
+         2,525,373 instructions:uk           #    0.43  insns per cycle        
+
+       1.000699213 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,666,226 cycles:uk                
+         2,481,148 instructions:uk           #    0.44  insns per cycle        
+
+       1.000829795 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,157,784 cycles:uk                
+         1,927,632 instructions:uk           #    0.46  insns per cycle        
+
+       1.000728970 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,684,442 cycles:uk                
+         2,800,907 instructions:uk           #    0.42  insns per cycle        
+
+       1.000869748 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,971,182 cycles:uk                
+         2,097,212 instructions:uk           #    0.42  insns per cycle        
+
+       1.000635203 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,092,696 cycles:uk                
+         2,302,435 instructions:uk           #    0.45  insns per cycle        
+
+       1.000758996 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,543,766 cycles:uk                
+         1,909,403 instructions:uk           #    0.42  insns per cycle        
+
+       1.000704091 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,919,409 cycles:uk                
+         2,892,605 instructions:uk           #    0.42  insns per cycle        
+
+       1.000681495 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,686,342 cycles:uk                
+         1,986,636 instructions:uk           #    0.42  insns per cycle        
+
+       1.000890964 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        69,165,101 cycles:uk                
+        84,718,127 instructions:uk           #    1.22  insns per cycle        
+
+       1.000795707 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,514,680 cycles:uk                
+         1,862,168 instructions:uk           #    0.41  insns per cycle        
+
+       1.000664191 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        14,514,460 cycles:uk                
+        14,014,985 instructions:uk           #    0.97  insns per cycle        
+
+       1.000575398 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         7,035,565 cycles:uk                
+         3,154,022 instructions:uk           #    0.45  insns per cycle        
+
+       1.000832134 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,100,019 cycles:uk                
+         2,217,583 instructions:uk           #    0.43  insns per cycle        
+
+       1.000641576 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,685,854 cycles:uk                
+         2,693,751 instructions:uk           #    0.47  insns per cycle        
+
+       1.000885904 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,235,793 cycles:uk                
+         2,602,522 instructions:uk           #    0.42  insns per cycle        
+
+       1.000668197 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        37,881,406 cycles:uk                
+        23,175,358 instructions:uk           #    0.61  insns per cycle        
+
+       1.000683363 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+     2,619,885,257 cycles:uk                 [100.00%]
+     2,475,935,372 instructions:uk           #    0.95  insns per cycle         [100.00%]
+
+       1.000678769 seconds time elapsed
+

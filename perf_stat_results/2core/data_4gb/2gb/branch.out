@@ -1,0 +1,1776 @@
+
+ Performance counter stats for process id '79575':
+
+       474,764,498 branches:uk                                                  [100.00%]
+         2,057,883 branch-misses:uk          #    0.43% of all branches        
+
+       1.000740947 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        89,861,369 branches:uk                                                  [100.00%]
+           398,431 branch-misses:uk          #    0.44% of all branches        
+
+       1.000652080 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           504,312 branches:uk                                                 
+            60,239 branch-misses:uk          #   11.94% of all branches        
+
+       1.000814604 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           319,452 branches:uk                                                 
+            44,744 branch-misses:uk          #   14.01% of all branches        
+
+       1.000653713 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           466,690 branches:uk                                                 
+            68,591 branch-misses:uk          #   14.70% of all branches        
+
+       1.000684316 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           313,431 branches:uk                                                 
+            45,680 branch-misses:uk          #   14.57% of all branches        
+
+       1.000599399 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           408,086 branches:uk                                                 
+            60,179 branch-misses:uk          #   14.75% of all branches        
+
+       1.000725212 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           347,343 branches:uk                                                 
+            49,981 branch-misses:uk          #   14.39% of all branches        
+
+       1.000715388 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           392,085 branches:uk                                                 
+            57,756 branch-misses:uk          #   14.73% of all branches        
+
+       1.000776769 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           309,304 branches:uk                                                 
+            44,294 branch-misses:uk          #   14.32% of all branches        
+
+       1.000774540 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           465,260 branches:uk                                                 
+            69,078 branch-misses:uk          #   14.85% of all branches        
+
+       1.000684938 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+       226,665,678 branches:uk                                                 
+        11,207,957 branch-misses:uk          #    4.94% of all branches        
+
+       1.000638983 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           417,609 branches:uk                                                 
+            59,183 branch-misses:uk          #   14.17% of all branches        
+
+       1.000746218 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,870,953 branches:uk                                                 
+           185,301 branch-misses:uk          #    4.79% of all branches        
+
+       1.000946356 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           356,437 branches:uk                                                 
+            46,103 branch-misses:uk          #   12.93% of all branches        
+
+       1.000798364 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           694,257 branches:uk                                                 
+            95,740 branch-misses:uk          #   13.79% of all branches        
+
+       1.000749265 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           394,895 branches:uk                                                 
+            49,733 branch-misses:uk          #   12.59% of all branches        
+
+       1.000658042 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           399,179 branches:uk                                                 
+            52,160 branch-misses:uk          #   13.07% of all branches        
+
+       1.000670495 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           362,628 branches:uk                                                 
+            46,424 branch-misses:uk          #   12.80% of all branches        
+
+       1.000791267 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           470,199 branches:uk                                                 
+            64,586 branch-misses:uk          #   13.74% of all branches         [98.62%]
+
+       1.000649136 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           318,504 branches:uk                                                 
+            43,231 branch-misses:uk          #   13.57% of all branches        
+
+       1.000745065 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           335,525 branches:uk                                                 
+            44,788 branch-misses:uk          #   13.35% of all branches        
+
+       1.000837985 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           428,295 branches:uk                                                 
+            60,979 branch-misses:uk          #   14.24% of all branches        
+
+       1.000815259 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           312,956 branches:uk                                                 
+            40,643 branch-misses:uk          #   12.99% of all branches        
+
+       1.000941259 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           475,867 branches:uk                                                 
+            66,785 branch-misses:uk          #   14.03% of all branches        
+
+       1.000662024 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           363,840 branches:uk                                                 
+            48,768 branch-misses:uk          #   13.40% of all branches        
+
+       1.000765506 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           444,693 branches:uk                                                 
+            59,376 branch-misses:uk          #   13.35% of all branches        
+
+       1.000630738 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           378,513 branches:uk                                                 
+            48,876 branch-misses:uk          #   12.91% of all branches        
+
+       1.000691951 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           725,472 branches:uk                                                 
+           100,814 branch-misses:uk          #   13.90% of all branches        
+
+       1.000748924 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           398,603 branches:uk                                                 
+            53,153 branch-misses:uk          #   13.33% of all branches        
+
+       1.000723708 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           488,466 branches:uk                                                 
+            67,522 branch-misses:uk          #   13.82% of all branches        
+
+       1.000678817 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           401,651 branches:uk                                                 
+            51,960 branch-misses:uk          #   12.94% of all branches        
+
+       1.000696316 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           463,098 branches:uk                                                 
+            61,667 branch-misses:uk          #   13.32% of all branches        
+
+       1.000649308 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           388,194 branches:uk                                                 
+            50,001 branch-misses:uk          #   12.88% of all branches        
+
+       1.000709630 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           532,848 branches:uk                                                 
+            73,248 branch-misses:uk          #   13.75% of all branches        
+
+       1.000703902 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           379,210 branches:uk                                                 
+            50,673 branch-misses:uk          #   13.36% of all branches        
+
+       1.000627358 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           434,602 branches:uk                                                 
+            60,993 branch-misses:uk          #   14.03% of all branches        
+
+       1.000661936 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           372,232 branches:uk                                                 
+            49,280 branch-misses:uk          #   13.24% of all branches        
+
+       1.000729112 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           459,872 branches:uk                                                 
+            67,220 branch-misses:uk          #   14.62% of all branches        
+
+       1.000750902 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           429,202 branches:uk                                                 
+            56,977 branch-misses:uk          #   13.28% of all branches        
+
+       1.000678264 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           630,086 branches:uk                                                 
+            85,675 branch-misses:uk          #   13.60% of all branches        
+
+       1.000655850 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           442,308 branches:uk                                                 
+            54,196 branch-misses:uk          #   12.25% of all branches        
+
+       1.000684539 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           585,199 branches:uk                                                 
+            77,708 branch-misses:uk          #   13.28% of all branches        
+
+       1.000702480 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           697,251 branches:uk                                                 
+            91,270 branch-misses:uk          #   13.09% of all branches        
+
+       1.000697966 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           700,374 branches:uk                                                 
+            91,042 branch-misses:uk          #   13.00% of all branches        
+
+       1.000738529 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           484,388 branches:uk                                                 
+            70,022 branch-misses:uk          #   14.46% of all branches        
+
+       1.000668529 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           376,197 branches:uk                                                 
+            51,014 branch-misses:uk          #   13.56% of all branches        
+
+       1.000637673 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           517,136 branches:uk                                                 
+            72,428 branch-misses:uk          #   14.01% of all branches        
+
+       1.000717698 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           392,530 branches:uk                                                 
+            52,052 branch-misses:uk          #   13.26% of all branches        
+
+       1.000795808 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           396,506 branches:uk                                                 
+            55,535 branch-misses:uk          #   14.01% of all branches        
+
+       1.000647807 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           386,946 branches:uk                                                 
+            51,705 branch-misses:uk          #   13.36% of all branches        
+
+       1.000660436 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           519,250 branches:uk                                                 
+            73,973 branch-misses:uk          #   14.25% of all branches        
+
+       1.000616137 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           385,016 branches:uk                                                 
+            51,860 branch-misses:uk          #   13.47% of all branches        
+
+       1.000677019 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           505,864 branches:uk                                                 
+            71,262 branch-misses:uk          #   14.09% of all branches        
+
+       1.000668205 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           416,478 branches:uk                                                 
+            52,934 branch-misses:uk          #   12.71% of all branches        
+
+       1.000619405 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           413,995 branches:uk                                                 
+            57,621 branch-misses:uk          #   13.92% of all branches        
+
+       1.000847637 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           377,736 branches:uk                                                 
+            49,627 branch-misses:uk          #   13.14% of all branches        
+
+       1.000632126 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           527,854 branches:uk                                                 
+            73,954 branch-misses:uk          #   14.01% of all branches        
+
+       1.000749973 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           572,450 branches:uk                                                 
+            77,179 branch-misses:uk          #   13.48% of all branches        
+
+       1.000814103 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           413,537 branches:uk                                                 
+            59,456 branch-misses:uk          #   14.38% of all branches        
+
+       1.000568985 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           440,916 branches:uk                                                 
+            60,445 branch-misses:uk          #   13.71% of all branches        
+
+       1.000821244 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           454,068 branches:uk                                                 
+            62,415 branch-misses:uk          #   13.75% of all branches        
+
+       1.000640595 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           379,259 branches:uk                                                 
+            51,948 branch-misses:uk          #   13.70% of all branches        
+
+       1.000760020 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           506,909 branches:uk                                                 
+            71,560 branch-misses:uk          #   14.12% of all branches        
+
+       1.000661346 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         1,261,139 branches:uk                                                 
+           112,696 branch-misses:uk          #    8.94% of all branches        
+
+       1.000627025 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           407,924 branches:uk                                                 
+            56,718 branch-misses:uk          #   13.90% of all branches        
+
+       1.000635841 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           356,705 branches:uk                                                 
+            50,176 branch-misses:uk          #   14.07% of all branches        
+
+       1.000686387 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           362,156 branches:uk                                                 
+            49,368 branch-misses:uk          #   13.63% of all branches        
+
+       1.000939322 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           440,219 branches:uk                                                 
+            64,841 branch-misses:uk          #   14.73% of all branches        
+
+       1.000751419 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           334,697 branches:uk                                                 
+            46,728 branch-misses:uk          #   13.96% of all branches        
+
+       1.000641157 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           370,960 branches:uk                                                 
+            51,167 branch-misses:uk          #   13.79% of all branches        
+
+       1.000831852 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           335,858 branches:uk                                                 
+            48,363 branch-misses:uk          #   14.40% of all branches        
+
+       1.000915581 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           508,602 branches:uk                                                 
+            73,597 branch-misses:uk          #   14.47% of all branches        
+
+       1.000878286 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           568,641 branches:uk                                                 
+            74,127 branch-misses:uk          #   13.04% of all branches        
+
+       1.000917394 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           487,980 branches:uk                                                 
+            68,738 branch-misses:uk          #   14.09% of all branches        
+
+       1.000659245 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           332,559 branches:uk                                                 
+            46,129 branch-misses:uk          #   13.87% of all branches        
+
+       1.000622990 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           376,669 branches:uk                                                 
+            55,104 branch-misses:uk          #   14.63% of all branches        
+
+       1.000786660 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           337,841 branches:uk                                                 
+            45,729 branch-misses:uk          #   13.54% of all branches        
+
+       1.000690892 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           402,308 branches:uk                                                 
+            55,675 branch-misses:uk          #   13.84% of all branches        
+
+       1.000720499 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           468,960 branches:uk                                                 
+            64,421 branch-misses:uk          #   13.74% of all branches        
+
+       1.000810333 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         1,338,664 branches:uk                                                 
+           130,861 branch-misses:uk          #    9.78% of all branches        
+
+       1.000719268 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           311,301 branches:uk                                                 
+            40,560 branch-misses:uk          #   13.03% of all branches        
+
+       1.000628160 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           434,212 branches:uk                                                 
+            59,250 branch-misses:uk          #   13.65% of all branches        
+
+       1.000713828 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           874,589 branches:uk                                                 
+            88,375 branch-misses:uk          #   10.10% of all branches         [99.11%]
+
+       1.000618885 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           444,659 branches:uk                                                 
+            65,492 branch-misses:uk          #   14.73% of all branches        
+
+       1.000815474 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           396,543 branches:uk                                                 
+            52,818 branch-misses:uk          #   13.32% of all branches        
+
+       1.000838594 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           375,199 branches:uk                                                 
+            50,678 branch-misses:uk          #   13.51% of all branches        
+
+       1.000726426 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        69,683,288 branches:uk                                                 
+         1,575,160 branch-misses:uk          #    2.26% of all branches        
+
+       1.000567125 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           343,258 branches:uk                                                 
+            46,782 branch-misses:uk          #   13.63% of all branches        
+
+       1.000582553 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           419,383 branches:uk                                                 
+            57,280 branch-misses:uk          #   13.66% of all branches        
+
+       1.000725671 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           399,262 branches:uk                                                 
+            52,776 branch-misses:uk          #   13.22% of all branches        
+
+       1.000663741 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           342,537 branches:uk                                                 
+            43,212 branch-misses:uk          #   12.62% of all branches        
+
+       1.000680024 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           414,815 branches:uk                                                 
+            52,860 branch-misses:uk          #   12.74% of all branches        
+
+       1.000689996 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           330,324 branches:uk                                                 
+            41,744 branch-misses:uk          #   12.64% of all branches        
+
+       1.000702665 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           438,971 branches:uk                                                 
+            60,662 branch-misses:uk          #   13.82% of all branches        
+
+       1.000576393 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           319,146 branches:uk                                                 
+            41,180 branch-misses:uk          #   12.90% of all branches        
+
+       1.000684033 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           382,777 branches:uk                                                 
+            52,153 branch-misses:uk          #   13.62% of all branches        
+
+       1.000694461 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           429,237 branches:uk                                                 
+            60,393 branch-misses:uk          #   14.07% of all branches         [99.21%]
+
+       1.000877731 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           357,024 branches:uk                                                 
+            40,845 branch-misses:uk          #   11.44% of all branches        
+
+       1.000697191 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           457,984 branches:uk                                                 
+            59,017 branch-misses:uk          #   12.89% of all branches        
+
+       1.000687653 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           392,867 branches:uk                                                 
+            49,845 branch-misses:uk          #   12.69% of all branches        
+
+       1.000747900 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           499,957 branches:uk                                                 
+            64,548 branch-misses:uk          #   12.91% of all branches        
+
+       1.000720020 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           438,969 branches:uk                                                 
+            58,232 branch-misses:uk          #   13.27% of all branches        
+
+       1.000767675 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           320,710 branches:uk                                                 
+            38,315 branch-misses:uk          #   11.95% of all branches        
+
+       1.000840823 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           432,531 branches:uk                                                 
+            57,602 branch-misses:uk          #   13.32% of all branches        
+
+       1.000658316 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           319,224 branches:uk                                                 
+            40,724 branch-misses:uk          #   12.76% of all branches        
+
+       1.000691602 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           419,003 branches:uk                                                 
+            57,811 branch-misses:uk          #   13.80% of all branches        
+
+       1.000707608 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           339,499 branches:uk                                                 
+            43,956 branch-misses:uk          #   12.95% of all branches        
+
+       1.000651209 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           418,909 branches:uk                                                 
+            53,462 branch-misses:uk          #   12.76% of all branches        
+
+       1.000651321 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           312,022 branches:uk                                                 
+            40,210 branch-misses:uk          #   12.89% of all branches        
+
+       1.000703634 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           526,730 branches:uk                                                 
+            66,121 branch-misses:uk          #   12.55% of all branches        
+
+       1.000624312 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           366,392 branches:uk                                                 
+            47,010 branch-misses:uk          #   12.83% of all branches        
+
+       1.000752903 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           354,593 branches:uk                                                 
+            45,628 branch-misses:uk          #   12.87% of all branches        
+
+       1.000690590 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           449,758 branches:uk                                                 
+            60,435 branch-misses:uk          #   13.44% of all branches        
+
+       1.000621562 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           323,108 branches:uk                                                 
+            40,667 branch-misses:uk          #   12.59% of all branches        
+
+       1.000712778 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        11,620,642 branches:uk                                                 
+           523,101 branch-misses:uk          #    4.50% of all branches        
+
+       1.000705310 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           540,278 branches:uk                                                 
+            65,121 branch-misses:uk          #   12.05% of all branches        
+
+       1.000744157 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           394,984 branches:uk                                                 
+            45,942 branch-misses:uk          #   11.63% of all branches        
+
+       1.000842842 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           303,838 branches:uk                                                 
+            33,975 branch-misses:uk          #   11.18% of all branches        
+
+       1.000684280 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           379,212 branches:uk                                                 
+            45,881 branch-misses:uk          #   12.10% of all branches        
+
+       1.000637498 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           398,850 branches:uk                                                 
+            45,568 branch-misses:uk          #   11.42% of all branches        
+
+       1.000753786 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           285,610 branches:uk                                                 
+            33,825 branch-misses:uk          #   11.84% of all branches        
+
+       1.000696007 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           421,961 branches:uk                                                 
+            50,620 branch-misses:uk          #   12.00% of all branches        
+
+       1.000706873 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           339,647 branches:uk                                                 
+            39,683 branch-misses:uk          #   11.68% of all branches        
+
+       1.000719573 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           384,488 branches:uk                                                 
+            46,283 branch-misses:uk          #   12.04% of all branches        
+
+       1.000798879 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           391,751 branches:uk                                                 
+            48,057 branch-misses:uk          #   12.27% of all branches        
+
+       1.000973935 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           290,611 branches:uk                                                 
+            34,734 branch-misses:uk          #   11.95% of all branches        
+
+       1.000633258 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           371,972 branches:uk                                                 
+            45,291 branch-misses:uk          #   12.18% of all branches        
+
+       1.000889500 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           292,692 branches:uk                                                 
+            34,354 branch-misses:uk          #   11.74% of all branches        
+
+       1.000700015 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           409,019 branches:uk                                                 
+            51,830 branch-misses:uk          #   12.67% of all branches         [89.81%]
+
+       1.000750373 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           398,208 branches:uk                                                 
+            49,061 branch-misses:uk          #   12.32% of all branches        
+
+       1.000689680 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           520,371 branches:uk                                                 
+            63,983 branch-misses:uk          #   12.30% of all branches        
+
+       1.000760981 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           429,028 branches:uk                                                 
+            49,861 branch-misses:uk          #   11.62% of all branches        
+
+       1.000638156 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           339,799 branches:uk                                                 
+            39,112 branch-misses:uk          #   11.51% of all branches        
+
+       1.000683896 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           363,952 branches:uk                                                 
+            42,442 branch-misses:uk          #   11.66% of all branches        
+
+       1.000695599 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           301,765 branches:uk                                                 
+            36,110 branch-misses:uk          #   11.97% of all branches        
+
+       1.000584502 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           405,555 branches:uk                                                 
+            48,035 branch-misses:uk          #   11.84% of all branches        
+
+       1.000646240 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           284,801 branches:uk                                                 
+            32,412 branch-misses:uk          #   11.38% of all branches        
+
+       1.000683397 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           417,452 branches:uk                                                 
+            50,234 branch-misses:uk          #   12.03% of all branches        
+
+       1.000877468 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           324,407 branches:uk                                                 
+            37,225 branch-misses:uk          #   11.47% of all branches        
+
+       1.000764208 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           314,260 branches:uk                                                 
+            36,586 branch-misses:uk          #   11.64% of all branches         [99.30%]
+
+       1.000709810 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           432,345 branches:uk                                                 
+            51,857 branch-misses:uk          #   11.99% of all branches        
+
+       1.000718664 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           299,235 branches:uk                                                 
+            35,546 branch-misses:uk          #   11.88% of all branches        
+
+       1.000714790 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           392,320 branches:uk                                                 
+            45,614 branch-misses:uk          #   11.63% of all branches        
+
+       1.000641125 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           296,182 branches:uk                                                 
+            35,883 branch-misses:uk          #   12.12% of all branches        
+
+       1.000927800 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           574,921 branches:uk                                                 
+            72,246 branch-misses:uk          #   12.57% of all branches        
+
+       1.000597746 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           405,580 branches:uk                                                 
+            48,882 branch-misses:uk          #   12.05% of all branches        
+
+       1.000688174 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           331,693 branches:uk                                                 
+            39,806 branch-misses:uk          #   12.00% of all branches        
+
+       1.000628532 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           395,723 branches:uk                                                 
+            48,252 branch-misses:uk          #   12.19% of all branches        
+
+       1.000780259 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           297,770 branches:uk                                                 
+            35,829 branch-misses:uk          #   12.03% of all branches        
+
+       1.000698144 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           380,831 branches:uk                                                 
+            47,131 branch-misses:uk          #   12.38% of all branches        
+
+       1.000648877 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           300,450 branches:uk                                                 
+            36,582 branch-misses:uk          #   12.18% of all branches        
+
+       1.000667482 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           378,152 branches:uk                                                 
+            47,536 branch-misses:uk          #   12.57% of all branches        
+
+       1.000742100 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           292,930 branches:uk                                                 
+            36,355 branch-misses:uk          #   12.41% of all branches        
+
+       1.000783023 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           394,100 branches:uk                                                 
+            49,717 branch-misses:uk          #   12.62% of all branches        
+
+       1.000778540 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           397,672 branches:uk                                                 
+            47,355 branch-misses:uk          #   11.91% of all branches        
+
+       1.000798946 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        16,902,919 branches:uk                                                 
+           776,547 branch-misses:uk          #    4.59% of all branches        
+
+       1.000655240 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           389,459 branches:uk                                                 
+            43,724 branch-misses:uk          #   11.23% of all branches         [99.48%]
+
+       1.000612646 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           271,306 branches:uk                                                 
+            29,150 branch-misses:uk          #   10.74% of all branches        
+
+       1.000644682 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           410,102 branches:uk                                                 
+            44,033 branch-misses:uk          #   10.74% of all branches        
+
+       1.000816535 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           479,864 branches:uk                                                 
+            56,753 branch-misses:uk          #   11.83% of all branches        
+
+       1.000899167 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           392,825 branches:uk                                                 
+            44,382 branch-misses:uk          #   11.30% of all branches        
+
+       1.000845190 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           297,440 branches:uk                                                 
+            34,457 branch-misses:uk          #   11.58% of all branches        
+
+       1.000558713 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           366,468 branches:uk                                                 
+            42,940 branch-misses:uk          #   11.72% of all branches        
+
+       1.000767341 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           301,470 branches:uk                                                 
+            31,449 branch-misses:uk          #   10.43% of all branches        
+
+       1.000800484 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           432,200 branches:uk                                                 
+            49,338 branch-misses:uk          #   11.42% of all branches        
+
+       1.000749246 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           295,499 branches:uk                                                 
+            31,990 branch-misses:uk          #   10.83% of all branches        
+
+       1.000656325 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           387,875 branches:uk                                                 
+            41,160 branch-misses:uk          #   10.61% of all branches        
+
+       1.000760655 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           298,360 branches:uk                                                 
+            30,232 branch-misses:uk          #   10.13% of all branches        
+
+       1.000862969 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           360,118 branches:uk                                                 
+            39,549 branch-misses:uk          #   10.98% of all branches        
+
+       1.000709435 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           325,355 branches:uk                                                 
+            35,948 branch-misses:uk          #   11.05% of all branches        
+
+       1.000755381 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           323,426 branches:uk                                                 
+            36,209 branch-misses:uk          #   11.20% of all branches        
+
+       1.000734405 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           395,532 branches:uk                                                 
+            45,452 branch-misses:uk          #   11.49% of all branches        
+
+       1.000619119 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           261,703 branches:uk                                                 
+            23,631 branch-misses:uk          #    9.03% of all branches        
+
+       1.000663936 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           332,534 branches:uk                                                 
+            36,755 branch-misses:uk          #   11.05% of all branches        
+
+       1.000872221 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           461,822 branches:uk                                                 
+            54,539 branch-misses:uk          #   11.81% of all branches        
+
+       1.000670609 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           353,372 branches:uk                                                 
+            40,877 branch-misses:uk          #   11.57% of all branches        
+
+       1.000866475 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           292,386 branches:uk                                                 
+            34,651 branch-misses:uk          #   11.85% of all branches        
+
+       1.000769404 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           361,098 branches:uk                                                 
+            41,380 branch-misses:uk          #   11.46% of all branches        
+
+       1.000700394 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           271,892 branches:uk                                                 
+            30,147 branch-misses:uk          #   11.09% of all branches        
+
+       1.000691559 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         6,587,203 branches:uk                                                 
+           374,786 branch-misses:uk          #    5.69% of all branches        
+
+       1.000722586 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           289,942 branches:uk                                                 
+            32,178 branch-misses:uk          #   11.10% of all branches        
+
+       1.000890644 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           377,941 branches:uk                                                 
+            40,353 branch-misses:uk          #   10.68% of all branches        
+
+       1.000681746 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           279,071 branches:uk                                                 
+            28,446 branch-misses:uk          #   10.19% of all branches        
+
+       1.000770727 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           331,138 branches:uk                                                 
+            36,123 branch-misses:uk          #   10.91% of all branches        
+
+       1.000738044 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           361,459 branches:uk                                                 
+            40,633 branch-misses:uk          #   11.24% of all branches        
+
+       1.000546005 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           273,185 branches:uk                                                 
+            29,914 branch-misses:uk          #   10.95% of all branches        
+
+       1.000870757 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           378,918 branches:uk                                                 
+            42,863 branch-misses:uk          #   11.31% of all branches        
+
+       1.000712172 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           277,003 branches:uk                                                 
+            30,630 branch-misses:uk          #   11.06% of all branches        
+
+       1.000833352 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           525,249 branches:uk                                                 
+            61,824 branch-misses:uk          #   11.77% of all branches        
+
+       1.000610927 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           417,267 branches:uk                                                 
+            43,282 branch-misses:uk          #   10.37% of all branches        
+
+       1.000626461 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           281,642 branches:uk                                                 
+            30,915 branch-misses:uk          #   10.98% of all branches        
+
+       1.000879726 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           381,230 branches:uk                                                 
+            42,658 branch-misses:uk          #   11.19% of all branches        
+
+       1.000698179 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           273,745 branches:uk                                                 
+            29,789 branch-misses:uk          #   10.88% of all branches        
+
+       1.000748123 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           333,643 branches:uk                                                 
+            36,076 branch-misses:uk          #   10.81% of all branches        
+
+       1.000580219 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           387,222 branches:uk                                                 
+            44,164 branch-misses:uk          #   11.41% of all branches        
+
+       1.000585654 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           267,353 branches:uk                                                 
+            29,278 branch-misses:uk          #   10.95% of all branches        
+
+       1.000616812 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           367,297 branches:uk                                                 
+            39,434 branch-misses:uk          #   10.74% of all branches        
+
+       1.000734682 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           280,305 branches:uk                                                 
+            30,854 branch-misses:uk          #   11.01% of all branches        
+
+       1.000665069 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           333,970 branches:uk                                                 
+            36,556 branch-misses:uk          #   10.95% of all branches        
+
+       1.000668958 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           283,980 branches:uk                                                 
+            30,678 branch-misses:uk          #   10.80% of all branches        
+
+       1.000669565 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           363,758 branches:uk                                                 
+            41,596 branch-misses:uk          #   11.44% of all branches        
+
+       1.000581261 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           271,368 branches:uk                                                 
+            29,895 branch-misses:uk          #   11.02% of all branches        
+
+       1.000693111 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           385,246 branches:uk                                                 
+            43,694 branch-misses:uk          #   11.34% of all branches        
+
+       1.000838317 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           457,275 branches:uk                                                 
+            55,433 branch-misses:uk          #   12.12% of all branches        
+
+       1.000757330 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           304,047 branches:uk                                                 
+            34,833 branch-misses:uk          #   11.46% of all branches        
+
+       1.000559457 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           318,400 branches:uk                                                 
+            34,919 branch-misses:uk          #   10.97% of all branches        
+
+       1.000593206 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           372,786 branches:uk                                                 
+            43,062 branch-misses:uk          #   11.55% of all branches        
+
+       1.000667800 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           269,633 branches:uk                                                 
+            29,396 branch-misses:uk          #   10.90% of all branches        
+
+       1.000646064 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           347,339 branches:uk                                                 
+            38,752 branch-misses:uk          #   11.16% of all branches        
+
+       1.000711013 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           354,061 branches:uk                                                 
+            40,324 branch-misses:uk          #   11.39% of all branches        
+
+       1.000634098 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           265,248 branches:uk                                                 
+            29,574 branch-misses:uk          #   11.15% of all branches        
+
+       1.000657884 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           390,244 branches:uk                                                 
+            46,135 branch-misses:uk          #   11.82% of all branches        
+
+       1.000692384 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           273,980 branches:uk                                                 
+            30,143 branch-misses:uk          #   11.00% of all branches        
+
+       1.000763199 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           339,831 branches:uk                                                 
+            37,747 branch-misses:uk          #   11.11% of all branches        
+
+       1.000642406 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           361,618 branches:uk                                                 
+            41,486 branch-misses:uk          #   11.47% of all branches        
+
+       1.000559763 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           287,672 branches:uk                                                 
+            30,929 branch-misses:uk          #   10.75% of all branches        
+
+       1.000656159 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           395,937 branches:uk                                                 
+            44,576 branch-misses:uk          #   11.26% of all branches        
+
+       1.000628618 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           463,761 branches:uk                                                 
+            56,594 branch-misses:uk          #   12.20% of all branches        
+
+       1.000680894 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        14,439,508 branches:uk                                                 
+           425,333 branch-misses:uk          #    2.95% of all branches         [97.07%]
+
+       1.000724646 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+       522,358,775 branches:uk                                                  [100.00%]
+         1,588,195 branch-misses:uk          #    0.30% of all branches        
+
+       1.000684444 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        78,016,892 branches:uk                                                  [100.00%]
+           284,172 branch-misses:uk          #    0.36% of all branches        
+
+       1.000586596 seconds time elapsed
+

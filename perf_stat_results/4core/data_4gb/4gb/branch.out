@@ -1,0 +1,1024 @@
+
+ Performance counter stats for process id '137379':
+
+       560,854,584 branches:uk                                                  [100.00%]
+         1,736,979 branch-misses:uk          #    0.31% of all branches         [99.97%]
+
+       1.000600781 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        15,349,025 branches:uk                                                  [100.00%]
+            74,478 branch-misses:uk          #    0.49% of all branches        
+
+       1.000690212 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           316,993 branches:uk                                                 
+            30,159 branch-misses:uk          #    9.51% of all branches        
+
+       1.000656248 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           256,639 branches:uk                                                 
+            26,870 branch-misses:uk          #   10.47% of all branches        
+
+       1.000621492 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           250,630 branches:uk                                                 
+            24,584 branch-misses:uk          #    9.81% of all branches        
+
+       1.000687495 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           317,001 branches:uk                                                 
+            30,329 branch-misses:uk          #    9.57% of all branches        
+
+       1.000913626 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           231,225 branches:uk                                                 
+            22,690 branch-misses:uk          #    9.81% of all branches        
+
+       1.000695749 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           240,025 branches:uk                                                 
+            22,462 branch-misses:uk          #    9.36% of all branches        
+
+       1.000766688 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           316,361 branches:uk                                                 
+            29,987 branch-misses:uk          #    9.48% of all branches        
+
+       1.000873175 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           241,378 branches:uk                                                 
+            22,955 branch-misses:uk          #    9.51% of all branches        
+
+       1.000833625 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           304,397 branches:uk                                                 
+            29,512 branch-misses:uk          #    9.70% of all branches        
+
+       1.000664502 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           254,974 branches:uk                                                 
+            23,931 branch-misses:uk          #    9.39% of all branches        
+
+       1.000896973 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           291,353 branches:uk                                                 
+            26,219 branch-misses:uk          #    9.00% of all branches        
+
+       1.000620663 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       437,294,298 branches:uk                                                 
+        21,927,744 branch-misses:uk          #    5.01% of all branches        
+
+       1.000744897 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           348,994 branches:uk                                                 
+            34,673 branch-misses:uk          #    9.94% of all branches        
+
+       1.000809549 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         2,129,334 branches:uk                                                 
+           214,086 branch-misses:uk          #   10.05% of all branches        
+
+       1.000633426 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           256,472 branches:uk                                                 
+            24,001 branch-misses:uk          #    9.36% of all branches        
+
+       1.000824395 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           297,024 branches:uk                                                 
+            28,929 branch-misses:uk          #    9.74% of all branches        
+
+       1.000861807 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           330,393 branches:uk                                                 
+            33,725 branch-misses:uk          #   10.21% of all branches        
+
+       1.000684278 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           297,479 branches:uk                                                 
+            28,050 branch-misses:uk          #    9.43% of all branches        
+
+       1.000626999 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           255,958 branches:uk                                                 
+            25,603 branch-misses:uk          #   10.00% of all branches        
+
+       1.000680551 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           389,829 branches:uk                                                 
+            42,000 branch-misses:uk          #   10.77% of all branches        
+
+       1.000759189 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           353,138 branches:uk                                                 
+            35,989 branch-misses:uk          #   10.19% of all branches        
+
+       1.000859379 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           400,939 branches:uk                                                 
+            41,371 branch-misses:uk          #   10.32% of all branches        
+
+       1.000926506 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           289,568 branches:uk                                                 
+            29,687 branch-misses:uk          #   10.25% of all branches        
+
+       1.000760929 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           355,124 branches:uk                                                 
+            36,687 branch-misses:uk          #   10.33% of all branches        
+
+       1.000789149 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           371,685 branches:uk                                                 
+            38,360 branch-misses:uk          #   10.32% of all branches        
+
+       1.000778752 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           427,803 branches:uk                                                 
+            44,604 branch-misses:uk          #   10.43% of all branches        
+
+       1.000686453 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           470,513 branches:uk                                                 
+            53,276 branch-misses:uk          #   11.32% of all branches        
+
+       1.000917624 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           295,386 branches:uk                                                 
+            28,403 branch-misses:uk          #    9.62% of all branches        
+
+       1.000811125 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           447,055 branches:uk                                                 
+            48,415 branch-misses:uk          #   10.83% of all branches        
+
+       1.000636310 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           582,949 branches:uk                                                 
+            62,432 branch-misses:uk          #   10.71% of all branches        
+
+       1.000747302 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           511,895 branches:uk                                                 
+            53,414 branch-misses:uk          #   10.43% of all branches        
+
+       1.000983199 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           578,765 branches:uk                                                 
+            60,645 branch-misses:uk          #   10.48% of all branches        
+
+       1.000761639 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           263,290 branches:uk                                                 
+            26,462 branch-misses:uk          #   10.05% of all branches        
+
+       1.000653059 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           433,723 branches:uk                                                 
+            44,555 branch-misses:uk          #   10.27% of all branches        
+
+       1.000694418 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           353,972 branches:uk                                                 
+            36,721 branch-misses:uk          #   10.37% of all branches        
+
+       1.000696325 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           331,285 branches:uk                                                 
+            31,922 branch-misses:uk          #    9.64% of all branches        
+
+       1.000622142 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           364,931 branches:uk                                                 
+            36,605 branch-misses:uk          #   10.03% of all branches        
+
+       1.000656655 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           450,636 branches:uk                                                 
+            45,733 branch-misses:uk          #   10.15% of all branches        
+
+       1.000664961 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           284,122 branches:uk                                                 
+            28,572 branch-misses:uk          #   10.06% of all branches        
+
+       1.000730857 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           400,477 branches:uk                                                 
+            40,838 branch-misses:uk          #   10.20% of all branches        
+
+       1.000627392 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           379,593 branches:uk                                                 
+            38,042 branch-misses:uk          #   10.02% of all branches        
+
+       1.000717926 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           490,762 branches:uk                                                 
+            55,185 branch-misses:uk          #   11.24% of all branches        
+
+       1.000625783 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           319,492 branches:uk                                                 
+            31,100 branch-misses:uk          #    9.73% of all branches        
+
+       1.000743854 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           505,136 branches:uk                                                 
+            50,041 branch-misses:uk          #    9.91% of all branches        
+
+       1.000706981 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           256,424 branches:uk                                                 
+            24,082 branch-misses:uk          #    9.39% of all branches        
+
+       1.000675544 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           318,818 branches:uk                                                 
+            28,825 branch-misses:uk          #    9.04% of all branches        
+
+       1.000716404 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           336,649 branches:uk                                                 
+            31,749 branch-misses:uk          #    9.43% of all branches        
+
+       1.000666180 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           269,313 branches:uk                                                 
+            25,376 branch-misses:uk          #    9.42% of all branches        
+
+       1.000723015 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           259,041 branches:uk                                                 
+            23,494 branch-misses:uk          #    9.07% of all branches        
+
+       1.000740388 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           377,840 branches:uk                                                 
+            34,492 branch-misses:uk          #    9.13% of all branches        
+
+       1.000747511 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           254,382 branches:uk                                                 
+            22,535 branch-misses:uk          #    8.86% of all branches        
+
+       1.000891159 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           247,911 branches:uk                                                 
+            23,231 branch-misses:uk          #    9.37% of all branches        
+
+       1.000682432 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           316,129 branches:uk                                                 
+            30,707 branch-misses:uk          #    9.71% of all branches        
+
+       1.000652530 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           261,640 branches:uk                                                 
+            26,019 branch-misses:uk          #    9.94% of all branches        
+
+       1.000716502 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           468,733 branches:uk                                                 
+            51,361 branch-misses:uk          #   10.96% of all branches        
+
+       1.000773166 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           201,183 branches:uk                                                 
+            18,479 branch-misses:uk          #    9.19% of all branches        
+
+       1.001023728 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           305,906 branches:uk                                                 
+            28,450 branch-misses:uk          #    9.30% of all branches        
+
+       1.000955849 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           247,239 branches:uk                                                 
+            23,396 branch-misses:uk          #    9.46% of all branches        
+
+       1.000663903 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           376,282 branches:uk                                                 
+            37,077 branch-misses:uk          #    9.85% of all branches        
+
+       1.000992344 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           271,697 branches:uk                                                 
+            24,295 branch-misses:uk          #    8.94% of all branches        
+
+       1.000734911 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           335,819 branches:uk                                                 
+            32,097 branch-misses:uk          #    9.56% of all branches        
+
+       1.000713688 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           251,961 branches:uk                                                 
+            23,807 branch-misses:uk          #    9.45% of all branches        
+
+       1.000692087 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           347,880 branches:uk                                                 
+            32,426 branch-misses:uk          #    9.32% of all branches        
+
+       1.000781702 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           237,723 branches:uk                                                 
+            21,320 branch-misses:uk          #    8.97% of all branches        
+
+       1.000713478 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           326,720 branches:uk                                                 
+            32,026 branch-misses:uk          #    9.80% of all branches        
+
+       1.000666866 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           261,768 branches:uk                                                 
+            26,541 branch-misses:uk          #   10.14% of all branches        
+
+       1.000698429 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           284,467 branches:uk                                                 
+            28,395 branch-misses:uk          #    9.98% of all branches        
+
+       1.000634229 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           273,505 branches:uk                                                 
+            26,215 branch-misses:uk          #    9.58% of all branches        
+
+       1.000643451 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           336,952 branches:uk                                                 
+            29,567 branch-misses:uk          #    8.77% of all branches        
+
+       1.000644295 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           483,655 branches:uk                                                 
+            54,057 branch-misses:uk          #   11.18% of all branches        
+
+       1.000664082 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           283,001 branches:uk                                                 
+            28,640 branch-misses:uk          #   10.12% of all branches        
+
+       1.000704975 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           312,846 branches:uk                                                 
+            28,537 branch-misses:uk          #    9.12% of all branches        
+
+       1.000716061 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           269,307 branches:uk                                                 
+            25,238 branch-misses:uk          #    9.37% of all branches        
+
+       1.000706782 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           298,463 branches:uk                                                 
+            29,208 branch-misses:uk          #    9.79% of all branches        
+
+       1.000776157 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           235,578 branches:uk                                                 
+            22,960 branch-misses:uk          #    9.75% of all branches        
+
+       1.000741808 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           317,808 branches:uk                                                 
+            29,885 branch-misses:uk          #    9.40% of all branches        
+
+       1.000695761 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           245,131 branches:uk                                                 
+            21,095 branch-misses:uk          #    8.61% of all branches        
+
+       1.000688583 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           368,142 branches:uk                                                 
+            35,460 branch-misses:uk          #    9.63% of all branches        
+
+       1.000662867 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           288,160 branches:uk                                                 
+            28,567 branch-misses:uk          #    9.91% of all branches        
+
+       1.000694230 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           322,754 branches:uk                                                 
+            31,060 branch-misses:uk          #    9.62% of all branches        
+
+       1.000787544 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           233,987 branches:uk                                                 
+            21,693 branch-misses:uk          #    9.27% of all branches        
+
+       1.000683137 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           293,786 branches:uk                                                 
+            27,547 branch-misses:uk          #    9.38% of all branches        
+
+       1.000760863 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           270,796 branches:uk                                                 
+            25,178 branch-misses:uk          #    9.30% of all branches        
+
+       1.000747923 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           347,999 branches:uk                                                 
+            34,668 branch-misses:uk          #    9.96% of all branches        
+
+       1.000642410 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           399,260 branches:uk                                                 
+            44,599 branch-misses:uk          #   11.17% of all branches        
+
+       1.000753993 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           330,127 branches:uk                                                 
+            31,235 branch-misses:uk          #    9.46% of all branches        
+
+       1.000602451 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           270,733 branches:uk                                                 
+            26,036 branch-misses:uk          #    9.62% of all branches        
+
+       1.000688310 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           285,908 branches:uk                                                 
+            25,460 branch-misses:uk          #    8.90% of all branches        
+
+       1.000682325 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           247,166 branches:uk                                                 
+            23,657 branch-misses:uk          #    9.57% of all branches        
+
+       1.000694050 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           309,009 branches:uk                                                 
+            30,050 branch-misses:uk          #    9.72% of all branches        
+
+       1.000627828 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           252,861 branches:uk                                                 
+            24,482 branch-misses:uk          #    9.68% of all branches        
+
+       1.000772478 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           355,109 branches:uk                                                 
+            33,893 branch-misses:uk          #    9.54% of all branches        
+
+       1.000666076 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           489,208 branches:uk                                                 
+            48,258 branch-misses:uk          #    9.86% of all branches        
+
+       1.000705848 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         6,829,244 branches:uk                                                 
+           340,792 branch-misses:uk          #    4.99% of all branches        
+
+       1.000733409 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           317,884 branches:uk                                                 
+            29,870 branch-misses:uk          #    9.40% of all branches        
+
+       1.000626067 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           247,052 branches:uk                                                 
+            23,374 branch-misses:uk          #    9.46% of all branches        
+
+       1.000666023 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           308,263 branches:uk                                                 
+            27,961 branch-misses:uk          #    9.07% of all branches        
+
+       1.000616592 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           250,121 branches:uk                                                 
+            23,650 branch-misses:uk          #    9.46% of all branches        
+
+       1.000658930 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           306,702 branches:uk                                                 
+            28,964 branch-misses:uk          #    9.44% of all branches        
+
+       1.000581690 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           398,367 branches:uk                                                 
+            44,544 branch-misses:uk          #   11.18% of all branches        
+
+       1.000639209 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           315,962 branches:uk                                                 
+            30,283 branch-misses:uk          #    9.58% of all branches        
+
+       1.000674867 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           294,499 branches:uk                                                 
+            25,511 branch-misses:uk          #    8.66% of all branches        
+
+       1.000693140 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           318,778 branches:uk                                                 
+            30,590 branch-misses:uk          #    9.60% of all branches        
+
+       1.000658598 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           232,619 branches:uk                                                 
+            21,887 branch-misses:uk          #    9.41% of all branches        
+
+       1.000678183 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           235,674 branches:uk                                                 
+            22,269 branch-misses:uk          #    9.45% of all branches        
+
+       1.000690992 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           305,302 branches:uk                                                 
+            29,063 branch-misses:uk          #    9.52% of all branches        
+
+       1.000635752 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           242,187 branches:uk                                                 
+            22,503 branch-misses:uk          #    9.29% of all branches        
+
+       1.000820106 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           314,366 branches:uk                                                 
+            29,995 branch-misses:uk          #    9.54% of all branches        
+
+       1.000760456 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           244,394 branches:uk                                                 
+            23,002 branch-misses:uk          #    9.41% of all branches        
+
+       1.000760745 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           239,856 branches:uk                                                 
+            22,586 branch-misses:uk          #    9.42% of all branches        
+
+       1.000672837 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           287,648 branches:uk                                                 
+            26,950 branch-misses:uk          #    9.37% of all branches        
+
+       1.000607051 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           252,154 branches:uk                                                 
+            23,216 branch-misses:uk          #    9.21% of all branches        
+
+       1.000691342 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           310,605 branches:uk                                                 
+            28,400 branch-misses:uk          #    9.14% of all branches        
+
+       1.000637794 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           398,251 branches:uk                                                 
+            43,940 branch-misses:uk          #   11.03% of all branches        
+
+       1.000665570 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           312,997 branches:uk                                                 
+            30,230 branch-misses:uk          #    9.66% of all branches        
+
+       1.000541849 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           237,992 branches:uk                                                 
+            22,020 branch-misses:uk          #    9.25% of all branches        
+
+       1.000711408 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           300,180 branches:uk                                                 
+            27,502 branch-misses:uk          #    9.16% of all branches        
+
+       1.000623436 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           255,093 branches:uk                                                 
+            23,722 branch-misses:uk          #    9.30% of all branches        
+
+       1.000671819 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           284,008 branches:uk                                                 
+            26,164 branch-misses:uk          #    9.21% of all branches        
+
+       1.000724514 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           243,864 branches:uk                                                 
+            22,740 branch-misses:uk          #    9.32% of all branches        
+
+       1.000678023 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           311,193 branches:uk                                                 
+            28,796 branch-misses:uk          #    9.25% of all branches        
+
+       1.000696485 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           288,162 branches:uk                                                 
+            28,714 branch-misses:uk          #    9.96% of all branches        
+
+       1.000640949 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       160,834,294 branches:uk                                                 
+           662,003 branch-misses:uk          #    0.41% of all branches        
+
+       1.000701294 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       141,481,790 branches:uk                                                 
+           467,767 branch-misses:uk          #    0.33% of all branches        
+
+       1.000790193 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       191,511,915 branches:uk                                                  [100.00%]
+           698,204 branch-misses:uk          #    0.36% of all branches        
+
+       1.000645586 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        46,811,396 branches:uk                                                  [100.00%]
+           276,234 branch-misses:uk          #    0.59% of all branches         [100.00%]
+
+       1.000882864 seconds time elapsed
+

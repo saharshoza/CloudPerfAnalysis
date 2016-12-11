@@ -1,0 +1,1352 @@
+
+ Performance counter stats for process id '79575':
+
+        10,708,504 LLC-loads                                                    [99.97%]
+           636,870 LLC-stores                                                   [99.97%]
+
+       1.000636205 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,309 LLC-loads                                                   
+             2,723 LLC-stores                                                  
+
+       1.000616070 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,030 LLC-loads                                                   
+             2,786 LLC-stores                                                  
+
+       1.000701947 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            56,843 LLC-loads                                                   
+             7,497 LLC-stores                                                  
+
+       1.000819004 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,928 LLC-loads                                                   
+             2,818 LLC-stores                                                  
+
+       1.000701098 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,787 LLC-loads                                                   
+             2,994 LLC-stores                                                  
+
+       1.000726606 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,509 LLC-loads                                                   
+             2,561 LLC-stores                                                  
+
+       1.000803613 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,245 LLC-loads                                                   
+             2,907 LLC-stores                                                  
+
+       1.000646143 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,463 LLC-loads                                                   
+             2,779 LLC-stores                                                  
+
+       1.000628719 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         7,413,503 LLC-loads                                                   
+         2,356,482 LLC-stores                                                  
+
+       1.000685764 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            53,745 LLC-loads                                                   
+             3,836 LLC-stores                                                  
+
+       1.000673879 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            87,546 LLC-loads                                                   
+            10,132 LLC-stores                                                  
+
+       1.000765097 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,054 LLC-loads                                                   
+             3,032 LLC-stores                                                  
+
+       1.000703824 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,077 LLC-loads                                                   
+             2,500 LLC-stores                                                  
+
+       1.000731553 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            57,394 LLC-loads                                                   
+             3,933 LLC-stores                                                  
+
+       1.000703581 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,484 LLC-loads                                                   
+             2,756 LLC-stores                                                  
+
+       1.000626424 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,898 LLC-loads                                                   
+             2,881 LLC-stores                                                  
+
+       1.000688682 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            48,854 LLC-loads                                                   
+             3,142 LLC-stores                                                  
+
+       1.000650919 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            67,464 LLC-loads                                                   
+             8,044 LLC-stores                                                  
+
+       1.000729941 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,215 LLC-loads                                                   
+             2,792 LLC-stores                                                  
+
+       1.000678067 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            52,151 LLC-loads                                                   
+             3,428 LLC-stores                                                  
+
+       1.000615136 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,574 LLC-loads                                                   
+             3,100 LLC-stores                                                  
+
+       1.000682547 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            52,354 LLC-loads                                                   
+             3,669 LLC-stores                                                  
+
+       1.000795066 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,398 LLC-loads                                                   
+             3,117 LLC-stores                                                  
+
+       1.000633248 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            50,933 LLC-loads                                                   
+             3,409 LLC-stores                                                  
+
+       1.000648199 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            51,895 LLC-loads                                                   
+             3,281 LLC-stores                                                  
+
+       1.000709609 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,711 LLC-loads                                                   
+             3,230 LLC-stores                                                  
+
+       1.000655478 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,832 LLC-loads                                                   
+             3,234 LLC-stores                                                  
+
+       1.000759208 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,487 LLC-loads                                                   
+             3,322 LLC-stores                                                  
+
+       1.000618966 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,728 LLC-loads                                                   
+             3,308 LLC-stores                                                  
+
+       1.000613387 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            49,943 LLC-loads                                                   
+             3,472 LLC-stores                                                  
+
+       1.000688723 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,129 LLC-loads                                                   
+             2,900 LLC-stores                                                  
+
+       1.000707755 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,740 LLC-loads                                                   
+             3,175 LLC-stores                                                  
+
+       1.000642764 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            74,399 LLC-loads                                                   
+             8,962 LLC-stores                                                  
+
+       1.000634730 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            68,529 LLC-loads                                                   
+             4,591 LLC-stores                                                  
+
+       1.000744918 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            64,529 LLC-loads                                                   
+             4,476 LLC-stores                                                  
+
+       1.000653894 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            65,213 LLC-loads                                                   
+             4,378 LLC-stores                                                  
+
+       1.000801215 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            56,549 LLC-loads                                                   
+             3,819 LLC-stores                                                  
+
+       1.000644702 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            69,488 LLC-loads                                                   
+             4,677 LLC-stores                                                  
+
+       1.000665752 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,264 LLC-loads                                                   
+             2,736 LLC-stores                                                  
+
+       1.000700407 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            50,627 LLC-loads                                                   
+             3,396 LLC-stores                                                  
+
+       1.000707852 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            58,252 LLC-loads                                                   
+             4,230 LLC-stores                                                  
+
+       1.000666713 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            74,797 LLC-loads                                                   
+             5,845 LLC-stores                                                  
+
+       1.000655574 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            50,200 LLC-loads                                                   
+             3,411 LLC-stores                                                  
+
+       1.000657680 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            50,841 LLC-loads                                                   
+             3,433 LLC-stores                                                  
+
+       1.000669939 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,964 LLC-loads                                                   
+             2,810 LLC-stores                                                  
+
+       1.000606991 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            48,006 LLC-loads                                                   
+             3,028 LLC-stores                                                  
+
+       1.000620803 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            49,104 LLC-loads                                                   
+             3,204 LLC-stores                                                  
+
+       1.000698466 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            65,949 LLC-loads                                                   
+             8,189 LLC-stores                                                  
+
+       1.000681656 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,795 LLC-loads                                                   
+             2,963 LLC-stores                                                  
+
+       1.000623502 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,348 LLC-loads                                                   
+             2,865 LLC-stores                                                  
+
+       1.000610807 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,820 LLC-loads                                                   
+             3,114 LLC-stores                                                  
+
+       1.000672647 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,687 LLC-loads                                                   
+             3,132 LLC-stores                                                  
+
+       1.000607577 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            50,017 LLC-loads                                                   
+             3,226 LLC-stores                                                  
+
+       1.000709418 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            49,225 LLC-loads                                                   
+             3,164 LLC-stores                                                  
+
+       1.000693811 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,499 LLC-loads                                                   
+             3,036 LLC-stores                                                  
+
+       1.000744782 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,896 LLC-loads                                                   
+             2,649 LLC-stores                                                  
+
+       1.000698937 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            59,586 LLC-loads                                                   
+             4,176 LLC-stores                                                  
+
+       1.000834714 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            37,122 LLC-loads                                                   
+             2,181 LLC-stores                                                  
+
+       1.000714734 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,548 LLC-loads                                                   
+             2,711 LLC-stores                                                  
+
+       1.000620110 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            34,443 LLC-loads                                                   
+             2,227 LLC-stores                                                  
+
+       1.000715483 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,176 LLC-loads                                                   
+             2,603 LLC-stores                                                  
+
+       1.000682056 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,155 LLC-loads                                                   
+             2,830 LLC-stores                                                  
+
+       1.000662687 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            85,956 LLC-loads                                                   
+            11,406 LLC-stores                                                  
+
+       1.000658571 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,084 LLC-loads                                                   
+             2,740 LLC-stores                                                  
+
+       1.000688674 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,829 LLC-loads                                                   
+             2,706 LLC-stores                                                  
+
+       1.000781157 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,778 LLC-loads                                                   
+             2,581 LLC-stores                                                  
+
+       1.000774620 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,327 LLC-loads                                                   
+             2,948 LLC-stores                                                  
+
+       1.000720145 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,515 LLC-loads                                                   
+             2,843 LLC-stores                                                  
+
+       1.000567337 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            48,679 LLC-loads                                                   
+             3,007 LLC-stores                                                  
+
+       1.000883783 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,672 LLC-loads                                                   
+             2,455 LLC-stores                                                  
+
+       1.000739905 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,401 LLC-loads                                                   
+             2,532 LLC-stores                                                  
+
+       1.000686974 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,619 LLC-loads                                                   
+             2,664 LLC-stores                                                  
+
+       1.000792533 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,636 LLC-loads                                                   
+             2,514 LLC-stores                                                  
+
+       1.000658626 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,965 LLC-loads                                                   
+             2,749 LLC-stores                                                  
+
+       1.000821361 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,889 LLC-loads                                                   
+             2,685 LLC-stores                                                  
+
+       1.000592904 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            48,985 LLC-loads                                                   
+             3,202 LLC-stores                                                  
+
+       1.000710934 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,770 LLC-loads                                                   
+             2,882 LLC-stores                                                  
+
+       1.000684626 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            53,990 LLC-loads                                                   
+             7,098 LLC-stores                                                  
+
+       1.000684196 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,041 LLC-loads                                                   
+             2,446 LLC-stores                                                  
+
+       1.000599109 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,430 LLC-loads                                                   
+             2,731 LLC-stores                                                  
+
+       1.000638523 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,944 LLC-loads                                                   
+             2,773 LLC-stores                                                  
+
+       1.000662946 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,835 LLC-loads                                                   
+             3,310 LLC-stores                                                  
+
+       1.000662125 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,194 LLC-loads                                                   
+             2,889 LLC-stores                                                  
+
+       1.000722751 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,269 LLC-loads                                                   
+             2,548 LLC-stores                                                  
+
+       1.000657133 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,382 LLC-loads                                                   
+             2,729 LLC-stores                                                  
+
+       1.000881720 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            37,585 LLC-loads                                                   
+             2,380 LLC-stores                                                  
+
+       1.000697694 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,287 LLC-loads                                                   
+             2,500 LLC-stores                                                  
+
+       1.000673811 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,436 LLC-loads                                                   
+             2,948 LLC-stores                                                  
+
+       1.000682255 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,121 LLC-loads                                                   
+             2,796 LLC-stores                                                  
+
+       1.000745994 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            53,207 LLC-loads                                                   
+             3,299 LLC-stores                                                  
+
+       1.000866827 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,970 LLC-loads                                                   
+             2,659 LLC-stores                                                  
+
+       1.000710244 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,976 LLC-loads                                                   
+             2,988 LLC-stores                                                  
+
+       1.000668376 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            55,329 LLC-loads                                                   
+             8,048 LLC-stores                                                  
+
+       1.000690719 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,962 LLC-loads                                                   
+             2,864 LLC-stores                                                  
+
+       1.000720842 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            36,461 LLC-loads                                                   
+             2,167 LLC-stores                                                  
+
+       1.000691493 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            49,469 LLC-loads                                                   
+             3,323 LLC-stores                                                  
+
+       1.000632490 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            38,020 LLC-loads                                                   
+             2,136 LLC-stores                                                  
+
+       1.000710006 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,804 LLC-loads                                                   
+             2,851 LLC-stores                                                  
+
+       1.000631261 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            38,416 LLC-loads                                                   
+             2,447 LLC-stores                                                  
+
+       1.000717868 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            53,261 LLC-loads                                                   
+             4,673 LLC-stores                                                  
+
+       1.000746561 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,217 LLC-loads                                                   
+             2,696 LLC-stores                                                  
+
+       1.000669299 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,910 LLC-loads                                                   
+             3,160 LLC-stores                                                  
+
+       1.000639482 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,058 LLC-loads                                                   
+             3,015 LLC-stores                                                  
+
+       1.000591537 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,804 LLC-loads                                                   
+             2,987 LLC-stores                                                  
+
+       1.000718404 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,037 LLC-loads                                                   
+             2,844 LLC-stores                                                  
+
+       1.000593517 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,008 LLC-loads                                                   
+             2,944 LLC-stores                                                  
+
+       1.000885263 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            38,928 LLC-loads                                                   
+             2,706 LLC-stores                                                  
+
+       1.000750982 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            59,148 LLC-loads                                                   
+             7,902 LLC-stores                                                  
+
+       1.000704091 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,436 LLC-loads                                                   
+             2,645 LLC-stores                                                  
+
+       1.000655035 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            38,260 LLC-loads                                                   
+             2,518 LLC-stores                                                  
+
+       1.000652786 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,827 LLC-loads                                                   
+             2,913 LLC-stores                                                  
+
+       1.000791605 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,923 LLC-loads                                                   
+             3,362 LLC-stores                                                  
+
+       1.000883774 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,801 LLC-loads                                                   
+             3,155 LLC-stores                                                  
+
+       1.000797892 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            49,939 LLC-loads                                                   
+             3,448 LLC-stores                                                  
+
+       1.000748813 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,789 LLC-loads                                                   
+             3,231 LLC-stores                                                  
+
+       1.000637965 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,473 LLC-loads                                                   
+             2,775 LLC-stores                                                  
+
+       1.000822595 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,243 LLC-loads                                                   
+             2,752 LLC-stores                                                  
+
+       1.000652616 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,787 LLC-loads                                                   
+             2,932 LLC-stores                                                  
+
+       1.000676173 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            38,485 LLC-loads                                                   
+             3,064 LLC-stores                                                  
+
+       1.000695246 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,901 LLC-loads                                                   
+             2,760 LLC-stores                                                  
+
+       1.000709940 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,806 LLC-loads                                                   
+             3,267 LLC-stores                                                  
+
+       1.000636147 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            48,473 LLC-loads                                                   
+             3,359 LLC-stores                                                  
+
+       1.000678209 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            61,152 LLC-loads                                                   
+             7,849 LLC-stores                                                  
+
+       1.000691483 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,837 LLC-loads                                                   
+             2,739 LLC-stores                                                  
+
+       1.000703524 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,835 LLC-loads                                                   
+             2,972 LLC-stores                                                  
+
+       1.000812205 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,920 LLC-loads                                                   
+             3,000 LLC-stores                                                  
+
+       1.000736374 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,842 LLC-loads                                                   
+             2,803 LLC-stores                                                  
+
+       1.000773176 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,270 LLC-loads                                                   
+             3,263 LLC-stores                                                  
+
+       1.000880340 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            45,357 LLC-loads                                                   
+             2,931 LLC-stores                                                  
+
+       1.000610025 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,930 LLC-loads                                                   
+             2,945 LLC-stores                                                  
+
+       1.000650591 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            46,850 LLC-loads                                                   
+             3,321 LLC-stores                                                  
+
+       1.000699067 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,706 LLC-loads                                                   
+             2,618 LLC-stores                                                  
+
+       1.000679360 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,228 LLC-loads                                                   
+             2,739 LLC-stores                                                  
+
+       1.000757414 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,989 LLC-loads                                                   
+             2,714 LLC-stores                                                  
+
+       1.000729048 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,900 LLC-loads                                                   
+             2,775 LLC-stores                                                  
+
+       1.000825909 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,436 LLC-loads                                                   
+             3,085 LLC-stores                                                  
+
+       1.000849325 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,363 LLC-loads                                                   
+             3,173 LLC-stores                                                  
+
+       1.000747116 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            58,507 LLC-loads                                                   
+             7,817 LLC-stores                                                  
+
+       1.000637083 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,571 LLC-loads                                                   
+             2,823 LLC-stores                                                  
+
+       1.000919598 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,960 LLC-loads                                                   
+             3,002 LLC-stores                                                  
+
+       1.000773212 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,339 LLC-loads                                                   
+             2,596 LLC-stores                                                  
+
+       1.000643216 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            52,035 LLC-loads                                                   
+             3,560 LLC-stores                                                  
+
+       1.000822926 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,124 LLC-loads                                                   
+             2,735 LLC-stores                                                  
+
+       1.000625097 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,684 LLC-loads                                                   
+             2,704 LLC-stores                                                  
+
+       1.000689193 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,070 LLC-loads                                                   
+             2,791 LLC-stores                                                  
+
+       1.000636394 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,637 LLC-loads                                                   
+             2,903 LLC-stores                                                  
+
+       1.000547431 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,262 LLC-loads                                                   
+             2,762 LLC-stores                                                  
+
+       1.000686481 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            44,156 LLC-loads                                                   
+             2,858 LLC-stores                                                  
+
+       1.000614655 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,822 LLC-loads                                                   
+             2,524 LLC-stores                                                  
+
+       1.000863820 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,415 LLC-loads                                                   
+             2,772 LLC-stores                                                  
+
+       1.000828761 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,145 LLC-loads                                                   
+             2,605 LLC-stores                                                  
+
+       1.000646507 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            54,023 LLC-loads                                                   
+             7,132 LLC-stores                                                  
+
+       1.000675557 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            43,911 LLC-loads                                                   
+             3,041 LLC-stores                                                  
+
+       1.000665941 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,194 LLC-loads                                                   
+             2,616 LLC-stores                                                  
+
+       1.000665733 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,910 LLC-loads                                                   
+             2,839 LLC-stores                                                  
+
+       1.000680391 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            38,565 LLC-loads                                                   
+             2,363 LLC-stores                                                  
+
+       1.000787051 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,283 LLC-loads                                                   
+             2,792 LLC-stores                                                  
+
+       1.000820292 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            41,644 LLC-loads                                                   
+             2,700 LLC-stores                                                  
+
+       1.000855766 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            42,282 LLC-loads                                                   
+             2,753 LLC-stores                                                  
+
+       1.000787563 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            47,962 LLC-loads                                                   
+             3,575 LLC-stores                                                  
+
+       1.000606062 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,490 LLC-loads                                                   
+             2,634 LLC-stores                                                  
+
+       1.000833768 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,935 LLC-loads                                                   
+             2,800 LLC-stores                                                  
+
+       1.000673626 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,157 LLC-loads                                                   
+             2,599 LLC-stores                                                  
+
+       1.000672159 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,493 LLC-loads                                                   
+             2,470 LLC-stores                                                  
+
+       1.000639164 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            39,792 LLC-loads                                                   
+             2,514 LLC-stores                                                  
+
+       1.000759515 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+            40,587 LLC-loads                                                   
+             2,646 LLC-stores                                                  
+
+       1.000645660 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         1,137,578 LLC-loads                                                   
+            98,561 LLC-stores                                                  
+
+       1.000773597 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         8,238,991 LLC-loads                                                    [100.00%]
+           783,289 LLC-stores                                                  
+
+       1.000562854 seconds time elapsed
+

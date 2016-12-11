@@ -1,0 +1,1480 @@
+
+ Performance counter stats for process id '79575':
+
+       528,558,751 dTLB-stores                                                  [99.99%]
+         1,055,572 dTLB-store-misses                                           
+
+       1.000670000 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,832,352 dTLB-stores                                                  [98.20%]
+             7,620 dTLB-store-misses                                           
+
+       1.000640940 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           206,908 dTLB-stores                                                  [89.06%]
+               663 dTLB-store-misses                                           
+
+       1.000704240 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           201,620 dTLB-stores                                                  [90.81%]
+               615 dTLB-store-misses                                           
+
+       1.000910247 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           196,665 dTLB-stores                                                  [93.06%]
+               542 dTLB-store-misses                                           
+
+       1.000714592 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           221,142 dTLB-stores                                                  [89.75%]
+               607 dTLB-store-misses                                           
+
+       1.000623119 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           172,374 dTLB-stores                                                  [94.32%]
+               589 dTLB-store-misses                                           
+
+       1.000734156 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           376,742 dTLB-stores                                                  [92.93%]
+             1,164 dTLB-store-misses                                           
+
+       1.000715134 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           180,989 dTLB-stores                                                  [90.77%]
+               502 dTLB-store-misses                                           
+
+       1.000713784 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           226,765 dTLB-stores                                                  [90.27%]
+               669 dTLB-store-misses                                           
+
+       1.000663444 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           199,298 dTLB-stores                                                  [92.57%]
+               557 dTLB-store-misses                                           
+
+       1.000821503 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           195,339 dTLB-stores                                                  [91.97%]
+               587 dTLB-store-misses                                           
+
+       1.000642326 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           202,259 dTLB-stores                                                  [91.55%]
+               682 dTLB-store-misses                                           
+
+       1.000628290 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+       149,002,643 dTLB-stores                                                  [99.96%]
+            80,997 dTLB-store-misses                                           
+
+       1.000760733 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,975 dTLB-stores                                                  [93.18%]
+               992 dTLB-store-misses                                           
+
+       1.000726003 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           470,904 dTLB-stores                                                  [95.16%]
+             2,298 dTLB-store-misses                                           
+
+       1.000641679 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           200,650 dTLB-stores                                                  [90.33%]
+               583 dTLB-store-misses                                           
+
+       1.000637553 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           257,777 dTLB-stores                                                  [91.18%]
+             1,029 dTLB-store-misses                                           
+
+       1.000769631 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           234,499 dTLB-stores                                                  [88.57%]
+               801 dTLB-store-misses                                           
+
+       1.000648984 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           226,911 dTLB-stores                                                  [94.87%]
+               975 dTLB-store-misses                                           
+
+       1.000874568 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           223,469 dTLB-stores                                                  [90.29%]
+               852 dTLB-store-misses                                           
+
+       1.000739368 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           221,272 dTLB-stores                                                  [90.53%]
+               929 dTLB-store-misses                                           
+
+       1.000687064 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           406,890 dTLB-stores                                                  [96.01%]
+             1,668 dTLB-store-misses                                           
+
+       1.000705379 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           229,116 dTLB-stores                                                  [93.44%]
+               908 dTLB-store-misses                                           
+
+       1.000737576 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           272,393 dTLB-stores                                                  [89.77%]
+             1,139 dTLB-store-misses                                           
+
+       1.000749890 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           196,664 dTLB-stores                                                  [91.47%]
+               710 dTLB-store-misses                                           
+
+       1.000658304 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,924 dTLB-stores                                                  [92.22%]
+             1,033 dTLB-store-misses                                           
+
+       1.000676081 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           249,577 dTLB-stores                                                  [93.21%]
+             1,113 dTLB-store-misses                                           
+
+       1.000748670 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           258,697 dTLB-stores                                                  [89.26%]
+             1,157 dTLB-store-misses                                           
+
+       1.000638394 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           250,865 dTLB-stores                                                  [92.38%]
+             1,185 dTLB-store-misses                                           
+
+       1.000640945 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           227,791 dTLB-stores                                                  [89.20%]
+               818 dTLB-store-misses                                           
+
+       1.000714571 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           238,888 dTLB-stores                                                  [93.04%]
+             1,129 dTLB-store-misses                                           
+
+       1.000727379 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           245,886 dTLB-stores                                                  [91.42%]
+             1,124 dTLB-store-misses                                           
+
+       1.000708706 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           252,876 dTLB-stores                                                  [93.50%]
+             1,126 dTLB-store-misses                                           
+
+       1.000663670 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           244,512 dTLB-stores                                                  [90.30%]
+             1,196 dTLB-store-misses                                           
+
+       1.000688523 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           227,116 dTLB-stores                                                  [92.77%]
+             1,097 dTLB-store-misses                                           
+
+       1.000705990 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           348,590 dTLB-stores                                                  [94.21%]
+             1,622 dTLB-store-misses                                           
+
+       1.000652747 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           529,701 dTLB-stores                                                  [95.98%]
+             2,419 dTLB-store-misses                                           
+
+       1.000845847 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           368,456 dTLB-stores                                                  [93.98%]
+             1,665 dTLB-store-misses                                           
+
+       1.000649477 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           363,861 dTLB-stores                                                  [94.78%]
+             1,731 dTLB-store-misses                                           
+
+       1.000627035 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           368,857 dTLB-stores                                                  [93.68%]
+             1,743 dTLB-store-misses                                           
+
+       1.000747088 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           341,402 dTLB-stores                                                  [91.41%]
+             1,556 dTLB-store-misses                                           
+
+       1.000709631 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           267,202 dTLB-stores                                                  [92.64%]
+             1,013 dTLB-store-misses                                           
+
+       1.000633231 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           246,219 dTLB-stores                                                  [88.03%]
+               992 dTLB-store-misses                                           
+
+       1.000722401 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           205,656 dTLB-stores                                                  [85.78%]
+               647 dTLB-store-misses                                           
+
+       1.000736123 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           264,907 dTLB-stores                                                  [89.80%]
+             1,067 dTLB-store-misses                                           
+
+       1.000709167 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           260,866 dTLB-stores                                                  [89.84%]
+               992 dTLB-store-misses                                           
+
+       1.000610558 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           266,989 dTLB-stores                                                  [89.47%]
+             1,026 dTLB-store-misses                                           
+
+       1.000802579 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           256,927 dTLB-stores                                                  [91.06%]
+             1,047 dTLB-store-misses                                           
+
+       1.000645078 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           211,535 dTLB-stores                                                  [88.11%]
+               672 dTLB-store-misses                                           
+
+       1.000724755 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           264,098 dTLB-stores                                                  [90.42%]
+             1,072 dTLB-store-misses                                           
+
+       1.000664090 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           503,299 dTLB-stores                                                  [93.22%]
+             1,683 dTLB-store-misses                                           
+
+       1.000702106 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,731 dTLB-stores                                                  [87.05%]
+               842 dTLB-store-misses                                           
+
+       1.000694195 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           277,026 dTLB-stores                                                  [89.23%]
+             1,089 dTLB-store-misses                                           
+
+       1.000629794 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           235,075 dTLB-stores                                                  [87.33%]
+               801 dTLB-store-misses                                           
+
+       1.000713573 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           244,243 dTLB-stores                                                  [87.65%]
+             1,179 dTLB-store-misses                                           
+
+       1.001013248 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           253,913 dTLB-stores                                                  [91.79%]
+             1,059 dTLB-store-misses                                           
+
+       1.000677532 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,647 dTLB-stores                                                  [88.61%]
+               938 dTLB-store-misses                                           
+
+       1.000680403 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           273,441 dTLB-stores                                                  [88.39%]
+             1,081 dTLB-store-misses                                           
+
+       1.000658436 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           231,307 dTLB-stores                                                  [90.09%]
+               854 dTLB-store-misses                                           
+
+       1.000899121 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           243,387 dTLB-stores                                                  [86.89%]
+               882 dTLB-store-misses                                           
+
+       1.000839184 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           314,097 dTLB-stores                                                  [91.67%]
+             1,216 dTLB-store-misses                                           
+
+       1.000695594 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           220,906 dTLB-stores                                                  [85.02%]
+               853 dTLB-store-misses                                           
+
+       1.000825619 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           200,126 dTLB-stores                                                  [90.79%]
+               690 dTLB-store-misses                                           
+
+       1.000884985 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           206,246 dTLB-stores                                                  [87.21%]
+               764 dTLB-store-misses                                           
+
+       1.000766460 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           182,301 dTLB-stores                                                  [87.45%]
+               473 dTLB-store-misses                                           
+
+       1.000650342 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           421,157 dTLB-stores                                                  [90.13%]
+             1,183 dTLB-store-misses                                           
+
+       1.000690352 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           178,179 dTLB-stores                                                  [89.35%]
+               446 dTLB-store-misses                                           
+
+       1.000773995 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           237,707 dTLB-stores                                                  [84.66%]
+               584 dTLB-store-misses                                           
+
+       1.000699869 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           181,902 dTLB-stores                                                  [89.39%]
+               498 dTLB-store-misses                                           
+
+       1.000632526 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           200,154 dTLB-stores                                                  [87.46%]
+               664 dTLB-store-misses                                           
+
+       1.000873154 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           197,728 dTLB-stores                                                  [89.16%]
+               516 dTLB-store-misses                                           
+
+       1.000686672 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           234,278 dTLB-stores                                                  [91.40%]
+               772 dTLB-store-misses                                           
+
+       1.000753447 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           224,931 dTLB-stores                                                  [88.82%]
+               608 dTLB-store-misses                                           
+
+       1.000674167 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           244,282 dTLB-stores                                                  [93.31%]
+               792 dTLB-store-misses                                           
+
+       1.000643823 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           246,056 dTLB-stores                                                  [92.42%]
+               965 dTLB-store-misses                                           
+
+       1.000709715 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           227,188 dTLB-stores                                                  [91.32%]
+               729 dTLB-store-misses                                           
+
+       1.000554295 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           210,309 dTLB-stores                                                  [90.63%]
+               616 dTLB-store-misses                                           
+
+       1.000757918 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           229,316 dTLB-stores                                                  [89.24%]
+               617 dTLB-store-misses                                           
+
+       1.000689823 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           217,137 dTLB-stores                                                  [90.94%]
+               605 dTLB-store-misses                                           
+
+       1.000700152 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           370,918 dTLB-stores                                                  [94.76%]
+             1,591 dTLB-store-misses                                           
+
+       1.000770469 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           188,212 dTLB-stores                                                  [92.03%]
+               510 dTLB-store-misses                                           
+
+       1.000572676 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           217,286 dTLB-stores                                                  [90.89%]
+               584 dTLB-store-misses                                           
+
+       1.000829222 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           222,997 dTLB-stores                                                  [91.76%]
+               660 dTLB-store-misses                                           
+
+       1.000809239 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           210,605 dTLB-stores                                                  [90.65%]
+               562 dTLB-store-misses                                           
+
+       1.000831337 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           283,396 dTLB-stores                                                  [93.12%]
+             1,134 dTLB-store-misses                                           
+
+       1.000730102 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           203,454 dTLB-stores                                                  [88.83%]
+               749 dTLB-store-misses                                           
+
+       1.000783720 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           239,712 dTLB-stores                                                  [91.77%]
+               699 dTLB-store-misses                                           
+
+       1.000672353 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           199,327 dTLB-stores                                                  [90.13%]
+               548 dTLB-store-misses                                           
+
+       1.000924651 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           256,075 dTLB-stores                                                  [89.36%]
+               755 dTLB-store-misses                                           
+
+       1.000751049 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           200,867 dTLB-stores                                                  [91.53%]
+               788 dTLB-store-misses                                           
+
+       1.000632013 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           210,016 dTLB-stores                                                  [91.68%]
+               612 dTLB-store-misses                                           
+
+       1.000650567 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           213,353 dTLB-stores                                                  [93.47%]
+               567 dTLB-store-misses                                           
+
+       1.000883218 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           223,487 dTLB-stores                                                  [90.36%]
+               606 dTLB-store-misses                                           
+
+       1.000639622 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           213,938 dTLB-stores                                                  [92.44%]
+               650 dTLB-store-misses                                           
+
+       1.000688909 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           400,559 dTLB-stores                                                  [93.61%]
+             1,392 dTLB-store-misses                                           
+
+       1.000765607 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           250,415 dTLB-stores                                                  [93.14%]
+               963 dTLB-store-misses                                           
+
+       1.000684873 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           204,393 dTLB-stores                                                  [93.55%]
+               831 dTLB-store-misses                                           
+
+       1.001177634 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           214,291 dTLB-stores                                                  [90.04%]
+               696 dTLB-store-misses                                           
+
+       1.000729766 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           204,668 dTLB-stores                                                  [95.59%]
+               601 dTLB-store-misses                                           
+
+       1.000755736 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           642,953 dTLB-stores                                                  [93.35%]
+             2,700 dTLB-store-misses                                           
+
+       1.000674168 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           234,193 dTLB-stores                                                  [84.45%]
+               662 dTLB-store-misses                                           
+
+       1.000663149 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           191,031 dTLB-stores                                                  [88.58%]
+               463 dTLB-store-misses                                           
+
+       1.000822737 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           249,899 dTLB-stores                                                  [87.88%]
+             1,025 dTLB-store-misses                                           
+
+       1.000712108 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           200,501 dTLB-stores                                                  [84.62%]
+               653 dTLB-store-misses                                           
+
+       1.000639012 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           183,659 dTLB-stores                                                  [87.93%]
+               701 dTLB-store-misses                                           
+
+       1.000656737 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           212,919 dTLB-stores                                                  [87.06%]
+               726 dTLB-store-misses                                           
+
+       1.000627940 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           213,859 dTLB-stores                                                  [83.51%]
+               947 dTLB-store-misses                                           
+
+       1.000675320 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           224,336 dTLB-stores                                                  [90.06%]
+               973 dTLB-store-misses                                           
+
+       1.000709884 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           203,185 dTLB-stores                                                  [85.08%]
+               728 dTLB-store-misses                                           
+
+       1.000914647 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           409,734 dTLB-stores                                                  [94.97%]
+             1,759 dTLB-store-misses                                           
+
+       1.000864950 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           216,169 dTLB-stores                                                  [86.32%]
+               678 dTLB-store-misses                                           
+
+       1.000753662 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           210,400 dTLB-stores                                                  [86.12%]
+               643 dTLB-store-misses                                           
+
+       1.000747280 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           206,914 dTLB-stores                                                  [88.35%]
+               503 dTLB-store-misses                                           
+
+       1.000648013 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           208,379 dTLB-stores                                                  [86.16%]
+               597 dTLB-store-misses                                           
+
+       1.000933314 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           256,981 dTLB-stores                                                  [89.94%]
+             1,090 dTLB-store-misses                                           
+
+       1.000796893 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           191,512 dTLB-stores                                                  [92.81%]
+               512 dTLB-store-misses                                           
+
+       1.000678936 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           234,467 dTLB-stores                                                  [92.35%]
+               646 dTLB-store-misses                                           
+
+       1.000937082 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           255,942 dTLB-stores                                                  [94.91%]
+               939 dTLB-store-misses                                           
+
+       1.000679529 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           231,703 dTLB-stores                                                  [93.09%]
+             1,048 dTLB-store-misses                                           
+
+       1.000756979 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           220,011 dTLB-stores                                                  [91.71%]
+               718 dTLB-store-misses                                           
+
+       1.000605781 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           211,553 dTLB-stores                                                  [92.89%]
+               615 dTLB-store-misses                                           
+
+       1.000794058 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           221,275 dTLB-stores                                                  [89.94%]
+               599 dTLB-store-misses                                           
+
+       1.000581840 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           213,647 dTLB-stores                                                  [91.06%]
+               672 dTLB-store-misses                                           
+
+       1.000767413 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           379,104 dTLB-stores                                                  [92.98%]
+             1,142 dTLB-store-misses                                           
+
+       1.000751852 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           202,165 dTLB-stores                                                  [92.77%]
+               726 dTLB-store-misses                                           
+
+       1.000876249 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           256,516 dTLB-stores                                                  [90.46%]
+               879 dTLB-store-misses                                           
+
+       1.000792229 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           312,281 dTLB-stores                                                  [95.14%]
+             1,199 dTLB-store-misses                                           
+
+       1.000648817 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           233,671 dTLB-stores                                                  [91.60%]
+               848 dTLB-store-misses                                           
+
+       1.000680725 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           206,000 dTLB-stores                                                  [91.95%]
+               752 dTLB-store-misses                                           
+
+       1.000771229 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           218,088 dTLB-stores                                                  [90.47%]
+               712 dTLB-store-misses                                           
+
+       1.000712449 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           225,195 dTLB-stores                                                  [90.15%]
+               688 dTLB-store-misses                                           
+
+       1.000722496 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           211,878 dTLB-stores                                                  [91.97%]
+               603 dTLB-store-misses                                           
+
+       1.000760968 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           269,320 dTLB-stores                                                  [92.67%]
+               987 dTLB-store-misses                                           
+
+       1.000832591 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           206,973 dTLB-stores                                                  [94.62%]
+               927 dTLB-store-misses                                           
+
+       1.000707404 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           252,458 dTLB-stores                                                  [88.97%]
+               818 dTLB-store-misses                                           
+
+       1.000640549 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           194,942 dTLB-stores                                                  [92.64%]
+               543 dTLB-store-misses                                           
+
+       1.000842382 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           231,644 dTLB-stores                                                  [91.91%]
+               636 dTLB-store-misses                                           
+
+       1.000586231 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           189,194 dTLB-stores                                                  [92.24%]
+               607 dTLB-store-misses                                           
+
+       1.000917504 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           412,874 dTLB-stores                                                  [93.55%]
+             1,902 dTLB-store-misses                                           
+
+       1.000701630 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           254,153 dTLB-stores                                                  [92.32%]
+               875 dTLB-store-misses                                           
+
+       1.000818208 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           207,306 dTLB-stores                                                  [94.19%]
+               686 dTLB-store-misses                                           
+
+       1.000573360 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,226 dTLB-stores                                                  [88.81%]
+               917 dTLB-store-misses                                           
+
+       1.000652085 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           225,414 dTLB-stores                                                  [92.25%]
+               767 dTLB-store-misses                                           
+
+       1.000693530 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           221,506 dTLB-stores                                                  [90.15%]
+               649 dTLB-store-misses                                           
+
+       1.000602675 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           216,983 dTLB-stores                                                  [91.69%]
+               754 dTLB-store-misses                                           
+
+       1.000778348 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           200,858 dTLB-stores                                                  [92.30%]
+               684 dTLB-store-misses                                           
+
+       1.000896659 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,139 dTLB-stores                                                  [91.73%]
+             1,142 dTLB-store-misses                                           
+
+       1.000729695 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           213,403 dTLB-stores                                                  [88.75%]
+               793 dTLB-store-misses                                           
+
+       1.000810402 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           212,955 dTLB-stores                                                  [94.80%]
+               790 dTLB-store-misses                                           
+
+       1.000631386 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           238,838 dTLB-stores                                                  [92.95%]
+               853 dTLB-store-misses                                           
+
+       1.000819423 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           218,564 dTLB-stores                                                  [90.77%]
+               768 dTLB-store-misses                                           
+
+       1.000637391 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           191,089 dTLB-stores                                                  [91.86%]
+               934 dTLB-store-misses                                           
+
+       1.000678179 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           222,948 dTLB-stores                                                  [88.77%]
+               765 dTLB-store-misses                                           
+
+       1.000794169 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           366,750 dTLB-stores                                                  [94.46%]
+             1,008 dTLB-store-misses                                           
+
+       1.000610195 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           198,308 dTLB-stores                                                  [93.89%]
+               521 dTLB-store-misses                                           
+
+       1.000771964 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           249,258 dTLB-stores                                                  [90.04%]
+               880 dTLB-store-misses                                           
+
+       1.000693401 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           227,158 dTLB-stores                                                  [92.63%]
+               905 dTLB-store-misses                                           
+
+       1.000723544 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           295,644 dTLB-stores                                                  [93.10%]
+             1,261 dTLB-store-misses                                           
+
+       1.000816822 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           210,146 dTLB-stores                                                  [85.28%]
+               583 dTLB-store-misses                                           
+
+       1.000700314 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           211,888 dTLB-stores                                                  [85.01%]
+               633 dTLB-store-misses                                           
+
+       1.000702963 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           198,664 dTLB-stores                                                  [89.86%]
+               569 dTLB-store-misses                                           
+
+       1.000566332 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           208,818 dTLB-stores                                                  [84.55%]
+               524 dTLB-store-misses                                           
+
+       1.000841212 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           200,866 dTLB-stores                                                  [89.20%]
+               494 dTLB-store-misses                                           
+
+       1.000678076 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           202,535 dTLB-stores                                                  [81.70%]
+               601 dTLB-store-misses                                           
+
+       1.000667680 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           209,258 dTLB-stores                                                  [89.08%]
+               593 dTLB-store-misses                                           
+
+       1.000703886 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           290,106 dTLB-stores                                                  [88.17%]
+             1,088 dTLB-store-misses                                           
+
+       1.000948390 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           193,586 dTLB-stores                                                  [86.48%]
+               729 dTLB-store-misses                                           
+
+       1.000699044 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           358,613 dTLB-stores                                                  [90.92%]
+             1,285 dTLB-store-misses                                           
+
+       1.000703277 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           190,402 dTLB-stores                                                  [88.79%]
+               758 dTLB-store-misses                                           
+
+       1.000649186 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           187,403 dTLB-stores                                                  [86.19%]
+               568 dTLB-store-misses                                           
+
+       1.000853106 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           225,603 dTLB-stores                                                  [86.16%]
+               568 dTLB-store-misses                                           
+
+       1.000667388 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           218,032 dTLB-stores                                                  [88.85%]
+               619 dTLB-store-misses                                           
+
+       1.000744801 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           263,612 dTLB-stores                                                  [87.15%]
+             1,009 dTLB-store-misses                                           
+
+       1.000660619 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           185,850 dTLB-stores                                                  [88.40%]
+               575 dTLB-store-misses                                           
+
+       1.000565210 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           205,977 dTLB-stores                                                  [87.24%]
+               532 dTLB-store-misses                                           
+
+       1.000676551 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           196,260 dTLB-stores                                                  [86.58%]
+               631 dTLB-store-misses                                           
+
+       1.000731720 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           214,122 dTLB-stores                                                  [82.88%]
+               599 dTLB-store-misses                                           
+
+       1.000810509 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           206,833 dTLB-stores                                                  [88.15%]
+               587 dTLB-store-misses                                           
+
+       1.000992950 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           226,749 dTLB-stores                                                  [83.80%]
+               618 dTLB-store-misses                                           
+
+       1.000661159 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           250,259 dTLB-stores                                                  [89.32%]
+               571 dTLB-store-misses                                           
+
+       1.000899398 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           223,939 dTLB-stores                                                  [90.77%]
+               855 dTLB-store-misses                                            [86.78%]
+
+       1.000619403 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           224,421 dTLB-stores                                                  [87.83%]
+               712 dTLB-store-misses                                           
+
+       1.000871880 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         1,305,805 dTLB-stores                                                  [94.82%]
+             3,485 dTLB-store-misses                                           
+
+       1.000819744 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+       446,267,578 dTLB-stores                                                  [99.99%]
+           740,788 dTLB-store-misses                                            [99.98%]
+
+       1.000786524 seconds time elapsed
+

@@ -1,0 +1,1568 @@
+
+ Performance counter stats for process id '62213':
+
+       526,997,508 L1-dcache-stores                                             [100.00%]
+         8,811,709 L1-dcache-store-misses                                      
+
+       1.000658026 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,396 L1-dcache-stores                                            
+             8,224 L1-dcache-store-misses                                      
+
+       1.000676455 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           244,699 L1-dcache-stores                                            
+             6,761 L1-dcache-store-misses                                      
+
+       1.000680198 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,797 L1-dcache-stores                                            
+             7,334 L1-dcache-store-misses                                      
+
+       1.000702983 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,904 L1-dcache-stores                                            
+             7,228 L1-dcache-store-misses                                      
+
+       1.000670086 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           276,249 L1-dcache-stores                                            
+             7,533 L1-dcache-store-misses                                      
+
+       1.000873085 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           246,918 L1-dcache-stores                                            
+             6,606 L1-dcache-store-misses                                      
+
+       1.000943525 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,474 L1-dcache-stores                                            
+             7,998 L1-dcache-store-misses                                      
+
+       1.000611409 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           245,178 L1-dcache-stores                                            
+             6,862 L1-dcache-store-misses                                      
+
+       1.000584237 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,715 L1-dcache-stores                                            
+             7,889 L1-dcache-store-misses                                      
+
+       1.000606462 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       346,205,825 L1-dcache-stores                                            
+        34,498,310 L1-dcache-store-misses                                      
+
+       1.000702053 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,236 L1-dcache-stores                                            
+             8,742 L1-dcache-store-misses                                      
+
+       1.000737404 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         1,035,742 L1-dcache-stores                                            
+           220,070 L1-dcache-store-misses                                      
+
+       1.000705028 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           346,617 L1-dcache-stores                                            
+            10,698 L1-dcache-store-misses                                      
+
+       1.000915919 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           243,547 L1-dcache-stores                                            
+             6,955 L1-dcache-store-misses                                      
+
+       1.000617920 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           305,815 L1-dcache-stores                                            
+             8,857 L1-dcache-store-misses                                      
+
+       1.000594350 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           247,023 L1-dcache-stores                                            
+             7,305 L1-dcache-store-misses                                      
+
+       1.000679582 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,337 L1-dcache-stores                                            
+             8,931 L1-dcache-store-misses                                      
+
+       1.000685191 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,337 L1-dcache-stores                                            
+             7,344 L1-dcache-store-misses                                      
+
+       1.000657275 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           305,826 L1-dcache-stores                                            
+             9,069 L1-dcache-store-misses                                      
+
+       1.000662508 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,186 L1-dcache-stores                                            
+             7,320 L1-dcache-store-misses                                      
+
+       1.000632402 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,689 L1-dcache-stores                                            
+             8,072 L1-dcache-store-misses                                      
+
+       1.000572545 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           343,294 L1-dcache-stores                                            
+            14,483 L1-dcache-store-misses                                      
+
+       1.000624808 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,580 L1-dcache-stores                                            
+             8,638 L1-dcache-store-misses                                      
+
+       1.000644291 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           246,801 L1-dcache-stores                                            
+             6,790 L1-dcache-store-misses                                      
+
+       1.000625225 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           406,653 L1-dcache-stores                                            
+            40,843 L1-dcache-store-misses                                      
+
+       1.000689200 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,360 L1-dcache-stores                                            
+             7,625 L1-dcache-store-misses                                      
+
+       1.000624724 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           311,933 L1-dcache-stores                                            
+             9,025 L1-dcache-store-misses                                      
+
+       1.000692681 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           329,491 L1-dcache-stores                                            
+            10,186 L1-dcache-store-misses                                      
+
+       1.000591052 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           298,598 L1-dcache-stores                                            
+             8,639 L1-dcache-store-misses                                      
+
+       1.000645428 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           257,219 L1-dcache-stores                                            
+             8,115 L1-dcache-store-misses                                      
+
+       1.000710467 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,768 L1-dcache-stores                                            
+             8,834 L1-dcache-store-misses                                      
+
+       1.000629767 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           246,355 L1-dcache-stores                                            
+             7,430 L1-dcache-store-misses                                      
+
+       1.000684936 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           307,320 L1-dcache-stores                                            
+             9,737 L1-dcache-store-misses                                      
+
+       1.000685236 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,321 L1-dcache-stores                                            
+             8,122 L1-dcache-store-misses                                      
+
+       1.000622673 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,532 L1-dcache-stores                                            
+             7,777 L1-dcache-store-misses                                      
+
+       1.000640508 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,268 L1-dcache-stores                                            
+             9,356 L1-dcache-store-misses                                      
+
+       1.000626719 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,902 L1-dcache-stores                                            
+             7,826 L1-dcache-store-misses                                      
+
+       1.000675721 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           307,086 L1-dcache-stores                                            
+             9,475 L1-dcache-store-misses                                      
+
+       1.000696806 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           272,773 L1-dcache-stores                                            
+             8,040 L1-dcache-store-misses                                      
+
+       1.000657307 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           518,969 L1-dcache-stores                                            
+            42,561 L1-dcache-store-misses                                      
+
+       1.000610120 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           276,274 L1-dcache-stores                                            
+             8,242 L1-dcache-store-misses                                      
+
+       1.000699249 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           313,751 L1-dcache-stores                                            
+             9,855 L1-dcache-store-misses                                      
+
+       1.000644000 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,803 L1-dcache-stores                                            
+             7,992 L1-dcache-store-misses                                      
+
+       1.000689262 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,104 L1-dcache-stores                                            
+             8,996 L1-dcache-store-misses                                      
+
+       1.000644387 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,393 L1-dcache-stores                                            
+             8,136 L1-dcache-store-misses                                      
+
+       1.000727914 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           307,130 L1-dcache-stores                                            
+             9,675 L1-dcache-store-misses                                      
+
+       1.000669348 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,150 L1-dcache-stores                                            
+             9,894 L1-dcache-store-misses                                      
+
+       1.000650206 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           333,126 L1-dcache-stores                                            
+            10,374 L1-dcache-store-misses                                      
+
+       1.000580365 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           361,439 L1-dcache-stores                                            
+            10,639 L1-dcache-store-misses                                      
+
+       1.000706389 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           324,979 L1-dcache-stores                                            
+             9,027 L1-dcache-store-misses                                      
+
+       1.000703619 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           362,494 L1-dcache-stores                                            
+            10,554 L1-dcache-store-misses                                      
+
+       1.000645957 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           314,112 L1-dcache-stores                                            
+             8,720 L1-dcache-store-misses                                      
+
+       1.000617687 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,742 L1-dcache-stores                                            
+             9,742 L1-dcache-store-misses                                      
+
+       1.000744065 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           320,391 L1-dcache-stores                                            
+             9,139 L1-dcache-store-misses                                      
+
+       1.000617274 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           466,064 L1-dcache-stores                                            
+            45,519 L1-dcache-store-misses                                      
+
+       1.000729142 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           319,963 L1-dcache-stores                                            
+             9,166 L1-dcache-store-misses                                      
+
+       1.000705654 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           322,055 L1-dcache-stores                                            
+            10,224 L1-dcache-store-misses                                      
+
+       1.000633466 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           240,819 L1-dcache-stores                                            
+             9,048 L1-dcache-store-misses                                      
+
+       1.000681868 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           319,506 L1-dcache-stores                                            
+            10,256 L1-dcache-store-misses                                      
+
+       1.000640009 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           283,099 L1-dcache-stores                                            
+             8,081 L1-dcache-store-misses                                      
+
+       1.000687350 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,211 L1-dcache-stores                                            
+             8,147 L1-dcache-store-misses                                      
+
+       1.000631341 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,134 L1-dcache-stores                                            
+             7,872 L1-dcache-store-misses                                      
+
+       1.000655019 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           320,212 L1-dcache-stores                                            
+             9,270 L1-dcache-store-misses                                      
+
+       1.000654721 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,535 L1-dcache-stores                                            
+             7,303 L1-dcache-store-misses                                      
+
+       1.000650998 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,727 L1-dcache-stores                                            
+             9,273 L1-dcache-store-misses                                      
+
+       1.000634910 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,406 L1-dcache-stores                                            
+             7,811 L1-dcache-store-misses                                      
+
+       1.000646318 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,538 L1-dcache-stores                                            
+             9,402 L1-dcache-store-misses                                      
+
+       1.000568021 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,600 L1-dcache-stores                                            
+             7,491 L1-dcache-store-misses                                      
+
+       1.000593094 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           423,768 L1-dcache-stores                                            
+            40,974 L1-dcache-store-misses                                      
+
+       1.000601159 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,941 L1-dcache-stores                                            
+             8,038 L1-dcache-store-misses                                      
+
+       1.000636662 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,823 L1-dcache-stores                                            
+             9,068 L1-dcache-store-misses                                      
+
+       1.000547045 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,772 L1-dcache-stores                                            
+             7,509 L1-dcache-store-misses                                      
+
+       1.000679759 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,565 L1-dcache-stores                                            
+             7,968 L1-dcache-store-misses                                      
+
+       1.000553125 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,031 L1-dcache-stores                                            
+             8,317 L1-dcache-store-misses                                      
+
+       1.000675184 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           303,890 L1-dcache-stores                                            
+             9,528 L1-dcache-store-misses                                      
+
+       1.000684998 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,415 L1-dcache-stores                                            
+             8,656 L1-dcache-store-misses                                      
+
+       1.000570358 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,400 L1-dcache-stores                                            
+             7,703 L1-dcache-store-misses                                      
+
+       1.000664689 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,256 L1-dcache-stores                                            
+             7,766 L1-dcache-store-misses                                      
+
+       1.000617176 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,324 L1-dcache-stores                                            
+             8,032 L1-dcache-store-misses                                      
+
+       1.000677612 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           322,560 L1-dcache-stores                                            
+             9,415 L1-dcache-store-misses                                      
+
+       1.000579165 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           327,220 L1-dcache-stores                                            
+            10,606 L1-dcache-store-misses                                      
+
+       1.000622383 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           312,992 L1-dcache-stores                                            
+             8,752 L1-dcache-store-misses                                      
+
+       1.000676088 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           272,690 L1-dcache-stores                                            
+             7,698 L1-dcache-store-misses                                      
+
+       1.000628969 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           398,844 L1-dcache-stores                                            
+            41,549 L1-dcache-store-misses                                      
+
+       1.000682085 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,145 L1-dcache-stores                                            
+             7,537 L1-dcache-store-misses                                      
+
+       1.000630550 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,742 L1-dcache-stores                                            
+             8,088 L1-dcache-store-misses                                      
+
+       1.000607801 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,261 L1-dcache-stores                                            
+             7,657 L1-dcache-store-misses                                      
+
+       1.000604369 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,484 L1-dcache-stores                                            
+             8,652 L1-dcache-store-misses                                      
+
+       1.000603122 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,585 L1-dcache-stores                                            
+             7,129 L1-dcache-store-misses                                      
+
+       1.000599726 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           349,324 L1-dcache-stores                                            
+             9,977 L1-dcache-store-misses                                      
+
+       1.000610088 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           253,622 L1-dcache-stores                                            
+             7,202 L1-dcache-store-misses                                      
+
+       1.000619925 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,821 L1-dcache-stores                                            
+             7,930 L1-dcache-store-misses                                      
+
+       1.000600750 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           236,182 L1-dcache-stores                                            
+             6,703 L1-dcache-store-misses                                      
+
+       1.000676924 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,981 L1-dcache-stores                                            
+             8,151 L1-dcache-store-misses                                      
+
+       1.000575096 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           235,848 L1-dcache-stores                                            
+             6,595 L1-dcache-store-misses                                      
+
+       1.000952314 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           283,644 L1-dcache-stores                                            
+             8,067 L1-dcache-store-misses                                      
+
+       1.000675489 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           251,869 L1-dcache-stores                                            
+             6,887 L1-dcache-store-misses                                      
+
+       1.000785749 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           317,131 L1-dcache-stores                                            
+             8,730 L1-dcache-store-misses                                      
+
+       1.000605045 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           344,237 L1-dcache-stores                                            
+            39,612 L1-dcache-store-misses                                      
+
+       1.000560267 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,048 L1-dcache-stores                                            
+             9,772 L1-dcache-store-misses                                      
+
+       1.000910680 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           230,835 L1-dcache-stores                                            
+             6,474 L1-dcache-store-misses                                      
+
+       1.000689548 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,858 L1-dcache-stores                                            
+             8,210 L1-dcache-store-misses                                      
+
+       1.000634317 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           228,266 L1-dcache-stores                                            
+             6,255 L1-dcache-store-misses                                      
+
+       1.000701136 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           363,200 L1-dcache-stores                                            
+            10,235 L1-dcache-store-misses                                      
+
+       1.000701215 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           253,516 L1-dcache-stores                                            
+             7,049 L1-dcache-store-misses                                      
+
+       1.000642599 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,821 L1-dcache-stores                                            
+             8,461 L1-dcache-store-misses                                      
+
+       1.000627283 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           221,451 L1-dcache-stores                                            
+             5,996 L1-dcache-store-misses                                      
+
+       1.000600612 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,052 L1-dcache-stores                                            
+             7,140 L1-dcache-store-misses                                      
+
+       1.000814463 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,909 L1-dcache-stores                                            
+             7,891 L1-dcache-store-misses                                      
+
+       1.000699977 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           239,212 L1-dcache-stores                                            
+             6,794 L1-dcache-store-misses                                      
+
+       1.000681433 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           310,525 L1-dcache-stores                                            
+             8,449 L1-dcache-store-misses                                      
+
+       1.000645790 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           238,156 L1-dcache-stores                                            
+             6,449 L1-dcache-store-misses                                      
+
+       1.000547316 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,695 L1-dcache-stores                                            
+             8,153 L1-dcache-store-misses                                      
+
+       1.000835970 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           361,363 L1-dcache-stores                                            
+            39,980 L1-dcache-store-misses                                      
+
+       1.000599551 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           241,567 L1-dcache-stores                                            
+             7,453 L1-dcache-store-misses                                      
+
+       1.000645152 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,683 L1-dcache-stores                                            
+             8,165 L1-dcache-store-misses                                      
+
+       1.000781569 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,498 L1-dcache-stores                                            
+             7,274 L1-dcache-store-misses                                      
+
+       1.000564131 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           232,284 L1-dcache-stores                                            
+             6,716 L1-dcache-store-misses                                      
+
+       1.000557156 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           335,521 L1-dcache-stores                                            
+            11,699 L1-dcache-store-misses                                      
+
+       1.000753257 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           239,901 L1-dcache-stores                                            
+             6,998 L1-dcache-store-misses                                      
+
+       1.000826348 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,116 L1-dcache-stores                                            
+             8,378 L1-dcache-store-misses                                      
+
+       1.000636467 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           229,336 L1-dcache-stores                                            
+             6,678 L1-dcache-store-misses                                      
+
+       1.000684204 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           320,850 L1-dcache-stores                                            
+             9,316 L1-dcache-store-misses                                      
+
+       1.000654617 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,106 L1-dcache-stores                                            
+             8,106 L1-dcache-store-misses                                      
+
+       1.000634609 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           239,715 L1-dcache-stores                                            
+             7,037 L1-dcache-store-misses                                      
+
+       1.000731338 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,658 L1-dcache-stores                                            
+             7,816 L1-dcache-store-misses                                      
+
+       1.000834335 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           238,489 L1-dcache-stores                                            
+             7,050 L1-dcache-store-misses                                      
+
+       1.000693341 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           321,757 L1-dcache-stores                                            
+             9,188 L1-dcache-store-misses                                      
+
+       1.000883708 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           404,352 L1-dcache-stores                                             [99.94%]
+            40,983 L1-dcache-store-misses                                      
+
+       1.000696334 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,582 L1-dcache-stores                                            
+            10,477 L1-dcache-store-misses                                      
+
+       1.000716738 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           243,371 L1-dcache-stores                                            
+            10,052 L1-dcache-store-misses                                      
+
+       1.000621666 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           327,092 L1-dcache-stores                                            
+             9,987 L1-dcache-store-misses                                      
+
+       1.000643164 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           235,942 L1-dcache-stores                                            
+             6,703 L1-dcache-store-misses                                      
+
+       1.000628725 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,988 L1-dcache-stores                                            
+             8,247 L1-dcache-store-misses                                      
+
+       1.000669523 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,753 L1-dcache-stores                                            
+             8,262 L1-dcache-store-misses                                      
+
+       1.000634009 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           226,788 L1-dcache-stores                                            
+             7,066 L1-dcache-store-misses                                      
+
+       1.000680761 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           312,923 L1-dcache-stores                                            
+             9,635 L1-dcache-store-misses                                      
+
+       1.000764420 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           235,080 L1-dcache-stores                                            
+             6,807 L1-dcache-store-misses                                      
+
+       1.000649643 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,194 L1-dcache-stores                                            
+             8,369 L1-dcache-store-misses                                      
+
+       1.000699577 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           278,322 L1-dcache-stores                                            
+             8,042 L1-dcache-store-misses                                      
+
+       1.000647717 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,793 L1-dcache-stores                                            
+            12,278 L1-dcache-store-misses                                      
+
+       1.000717331 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,679 L1-dcache-stores                                            
+            10,013 L1-dcache-store-misses                                      
+
+       1.000771951 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,063 L1-dcache-stores                                            
+             8,396 L1-dcache-store-misses                                      
+
+       1.000654963 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           378,561 L1-dcache-stores                                            
+            40,355 L1-dcache-store-misses                                      
+
+       1.000728814 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           297,348 L1-dcache-stores                                            
+             8,780 L1-dcache-store-misses                                      
+
+       1.000614593 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,383 L1-dcache-stores                                            
+             7,919 L1-dcache-store-misses                                      
+
+       1.000717442 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           287,557 L1-dcache-stores                                            
+             8,190 L1-dcache-store-misses                                      
+
+       1.000615584 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,734 L1-dcache-stores                                            
+             8,745 L1-dcache-store-misses                                      
+
+       1.000680076 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,650 L1-dcache-stores                                            
+             8,422 L1-dcache-store-misses                                      
+
+       1.000686911 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           237,662 L1-dcache-stores                                            
+             7,048 L1-dcache-store-misses                                      
+
+       1.000577213 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,290 L1-dcache-stores                                            
+             8,607 L1-dcache-store-misses                                      
+
+       1.000871094 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,387 L1-dcache-stores                                            
+             7,550 L1-dcache-store-misses                                      
+
+       1.000735964 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           299,908 L1-dcache-stores                                            
+             8,695 L1-dcache-store-misses                                      
+
+       1.000670248 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,144 L1-dcache-stores                                            
+             8,677 L1-dcache-store-misses                                      
+
+       1.000739253 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           261,220 L1-dcache-stores                                            
+             7,617 L1-dcache-store-misses                                      
+
+       1.000730300 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,973 L1-dcache-stores                                            
+             8,965 L1-dcache-store-misses                                      
+
+       1.000672556 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           241,396 L1-dcache-stores                                            
+             7,118 L1-dcache-store-misses                                      
+
+       1.000600941 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           320,889 L1-dcache-stores                                            
+             9,427 L1-dcache-store-misses                                      
+
+       1.000673498 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           382,830 L1-dcache-stores                                            
+            40,801 L1-dcache-store-misses                                      
+
+       1.000637457 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           272,562 L1-dcache-stores                                            
+             7,938 L1-dcache-store-misses                                      
+
+       1.000682855 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,712 L1-dcache-stores                                            
+             7,862 L1-dcache-store-misses                                      
+
+       1.000738105 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,321 L1-dcache-stores                                            
+             8,306 L1-dcache-store-misses                                      
+
+       1.000692004 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           248,798 L1-dcache-stores                                            
+             7,438 L1-dcache-store-misses                                      
+
+       1.000728058 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           299,818 L1-dcache-stores                                            
+             8,896 L1-dcache-store-misses                                      
+
+       1.001042834 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           241,794 L1-dcache-stores                                            
+             6,932 L1-dcache-store-misses                                      
+
+       1.000633823 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,064 L1-dcache-stores                                            
+             9,224 L1-dcache-store-misses                                      
+
+       1.000717485 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           238,577 L1-dcache-stores                                            
+             7,194 L1-dcache-store-misses                                      
+
+       1.000658063 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,761 L1-dcache-stores                                            
+             8,320 L1-dcache-store-misses                                      
+
+       1.000640344 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,822 L1-dcache-stores                                            
+             7,721 L1-dcache-store-misses                                      
+
+       1.000563483 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,615 L1-dcache-stores                                            
+             8,021 L1-dcache-store-misses                                      
+
+       1.000605290 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           232,718 L1-dcache-stores                                            
+             7,046 L1-dcache-store-misses                                      
+
+       1.000756852 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,017 L1-dcache-stores                                            
+             7,812 L1-dcache-store-misses                                      
+
+       1.000599453 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           392,569 L1-dcache-stores                                            
+            41,210 L1-dcache-store-misses                                      
+
+       1.000722296 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,382 L1-dcache-stores                                            
+             8,862 L1-dcache-store-misses                                      
+
+       1.000687214 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           223,055 L1-dcache-stores                                            
+             6,665 L1-dcache-store-misses                                      
+
+       1.000659373 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,845 L1-dcache-stores                                            
+             9,498 L1-dcache-store-misses                                      
+
+       1.000628670 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           232,577 L1-dcache-stores                                            
+             6,537 L1-dcache-store-misses                                      
+
+       1.000727386 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           332,971 L1-dcache-stores                                            
+             9,561 L1-dcache-store-misses                                      
+
+       1.000735503 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           231,953 L1-dcache-stores                                            
+             6,657 L1-dcache-store-misses                                      
+
+       1.000633287 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           280,011 L1-dcache-stores                                            
+             8,519 L1-dcache-store-misses                                      
+
+       1.000773453 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,332 L1-dcache-stores                                            
+             7,776 L1-dcache-store-misses                                      
+
+       1.000743879 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,248 L1-dcache-stores                                            
+             8,782 L1-dcache-store-misses                                      
+
+       1.000707192 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,950 L1-dcache-stores                                            
+             7,541 L1-dcache-store-misses                                      
+
+       1.000724863 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           315,371 L1-dcache-stores                                            
+             8,877 L1-dcache-store-misses                                      
+
+       1.000594292 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           241,526 L1-dcache-stores                                            
+             6,779 L1-dcache-store-misses                                      
+
+       1.000586185 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           319,637 L1-dcache-stores                                            
+             9,279 L1-dcache-store-misses                                      
+
+       1.000710762 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,254 L1-dcache-stores                                            
+             7,625 L1-dcache-store-misses                                      
+
+       1.000734056 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           419,446 L1-dcache-stores                                            
+            41,905 L1-dcache-store-misses                                      
+
+       1.000635572 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           227,964 L1-dcache-stores                                            
+             6,642 L1-dcache-store-misses                                      
+
+       1.000721304 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,771 L1-dcache-stores                                            
+             7,389 L1-dcache-store-misses                                      
+
+       1.000596066 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,151 L1-dcache-stores                                            
+             7,695 L1-dcache-store-misses                                      
+
+       1.000909004 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           245,853 L1-dcache-stores                                            
+             7,118 L1-dcache-store-misses                                      
+
+       1.000738671 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,180 L1-dcache-stores                                            
+             8,410 L1-dcache-store-misses                                      
+
+       1.000694023 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         1,063,215 L1-dcache-stores                                            
+           248,917 L1-dcache-store-misses                                      
+
+       1.000688056 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       426,694,668 L1-dcache-stores                                             [100.00%]
+         7,194,404 L1-dcache-store-misses                                       [100.00%]
+
+       1.000844736 seconds time elapsed
+

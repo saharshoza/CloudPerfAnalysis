@@ -1,0 +1,1872 @@
+
+ Performance counter stats for process id '62213':
+
+         2,893,124 cycles:uk                
+         1,472,593 instructions:uk           #    0.51  insns per cycle        
+
+       1.000708303 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,554,722 cycles:uk                
+         1,670,561 instructions:uk           #    0.47  insns per cycle        
+
+       1.000610130 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,152,676 cycles:uk                
+         1,449,608 instructions:uk           #    0.46  insns per cycle        
+
+       1.000672124 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,505,936 cycles:uk                
+         2,257,904 instructions:uk           #    0.41  insns per cycle        
+
+       1.000642590 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,084,801 cycles:uk                
+         1,416,688 instructions:uk           #    0.46  insns per cycle        
+
+       1.000697031 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,498,161 cycles:uk                
+         1,661,440 instructions:uk           #    0.47  insns per cycle        
+
+       1.000663318 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,867,141 cycles:uk                
+         1,434,515 instructions:uk           #    0.50  insns per cycle        
+
+       1.000610398 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,529,253 cycles:uk                
+         1,638,409 instructions:uk           #    0.46  insns per cycle        
+
+       1.000615644 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,189,826 cycles:uk                
+         1,487,270 instructions:uk           #    0.47  insns per cycle        
+
+       1.000611325 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+     2,394,407,529 cycles:uk                
+     2,367,446,617 instructions:uk           #    0.99  insns per cycle        
+
+       1.000685246 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,231,454 cycles:uk                
+         1,698,739 instructions:uk           #    0.40  insns per cycle        
+
+       1.000747578 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+        13,437,110 cycles:uk                
+         5,367,386 instructions:uk           #    0.40  insns per cycle        
+
+       1.000678976 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,538,231 cycles:uk                
+         1,654,101 instructions:uk           #    0.47  insns per cycle        
+
+       1.000664303 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,016,441 cycles:uk                
+         1,901,246 instructions:uk           #    0.47  insns per cycle        
+
+       1.000742460 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,473,674 cycles:uk                
+         2,599,499 instructions:uk           #    0.47  insns per cycle        
+
+       1.000827381 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,546,016 cycles:uk                
+         1,946,123 instructions:uk           #    0.43  insns per cycle        
+
+       1.000632612 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,688,449 cycles:uk                
+         1,591,805 instructions:uk           #    0.43  insns per cycle        
+
+       1.000598171 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,017,499 cycles:uk                
+         1,871,824 instructions:uk           #    0.47  insns per cycle        
+
+       1.000679110 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,959,682 cycles:uk                
+         2,566,672 instructions:uk           #    0.43  insns per cycle        
+
+       1.000629218 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,124,957 cycles:uk                
+         1,804,281 instructions:uk           #    0.44  insns per cycle        
+
+       1.000657126 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,468,812 cycles:uk                
+         1,540,874 instructions:uk           #    0.44  insns per cycle        
+
+       1.000731029 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,140,712 cycles:uk                
+         1,901,962 instructions:uk           #    0.46  insns per cycle        
+
+       1.000684428 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,038,886 cycles:uk                
+         1,343,853 instructions:uk           #    0.44  insns per cycle        
+
+       1.000638496 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,252,848 cycles:uk                
+         1,925,831 instructions:uk           #    0.45  insns per cycle        
+
+       1.000648420 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,611,745 cycles:uk                
+         1,553,009 instructions:uk           #    0.43  insns per cycle        
+
+       1.000609006 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,647,647 cycles:uk                
+         2,016,633 instructions:uk           #    0.43  insns per cycle        
+
+       1.000640884 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,667,839 cycles:uk                
+         1,580,983 instructions:uk           #    0.43  insns per cycle        
+
+       1.000716258 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,159,231 cycles:uk                
+         1,904,609 instructions:uk           #    0.46  insns per cycle        
+
+       1.000582440 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,558,532 cycles:uk                
+         1,547,486 instructions:uk           #    0.43  insns per cycle        
+
+       1.000648805 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,945,427 cycles:uk                
+         1,830,983 instructions:uk           #    0.46  insns per cycle        
+
+       1.000604282 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,520,115 cycles:uk                
+         1,566,943 instructions:uk           #    0.45  insns per cycle        
+
+       1.000620547 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,804,981 cycles:uk                
+         1,898,629 instructions:uk           #    0.50  insns per cycle        
+
+       1.000687056 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,504,674 cycles:uk                
+         1,369,758 instructions:uk           #    0.55  insns per cycle        
+
+       1.000641133 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         6,353,477 cycles:uk                
+         2,789,620 instructions:uk           #    0.44  insns per cycle        
+
+       1.000641996 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,126,691 cycles:uk                
+         1,506,071 instructions:uk           #    0.48  insns per cycle        
+
+       1.000659679 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,151,408 cycles:uk                
+         1,710,539 instructions:uk           #    0.54  insns per cycle        
+
+       1.000598184 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,286,898 cycles:uk                
+         1,533,662 instructions:uk           #    0.47  insns per cycle        
+
+       1.000742198 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,774,411 cycles:uk                
+         1,430,445 instructions:uk           #    0.52  insns per cycle        
+
+       1.000714270 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,120,547 cycles:uk                
+         1,787,691 instructions:uk           #    0.43  insns per cycle        
+
+       1.000725673 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,514,820 cycles:uk                
+         1,451,033 instructions:uk           #    0.58  insns per cycle        
+
+       1.000577009 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,653,036 cycles:uk                
+         2,146,837 instructions:uk           #    0.46  insns per cycle        
+
+       1.000754134 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,346,777 cycles:uk                
+         1,359,118 instructions:uk           #    0.58  insns per cycle        
+
+       1.000694395 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,893,116 cycles:uk                
+         1,625,461 instructions:uk           #    0.56  insns per cycle        
+
+       1.000871756 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,405,124 cycles:uk                
+         1,359,493 instructions:uk           #    0.57  insns per cycle        
+
+       1.000684994 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,124,464 cycles:uk                
+         1,698,363 instructions:uk           #    0.54  insns per cycle        
+
+       1.000818501 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,914,145 cycles:uk                
+         1,526,981 instructions:uk           #    0.52  insns per cycle        
+
+       1.000772377 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,063,152 cycles:uk                
+         1,692,326 instructions:uk           #    0.55  insns per cycle        
+
+       1.000759626 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,385,881 cycles:uk                
+         2,048,193 instructions:uk           #    0.47  insns per cycle        
+
+       1.000666156 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,473,905 cycles:uk                
+         1,397,303 instructions:uk           #    0.56  insns per cycle        
+
+       1.000940670 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,000,963 cycles:uk                
+         1,651,978 instructions:uk           #    0.55  insns per cycle        
+
+       1.000627691 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,562,294 cycles:uk                
+         1,375,290 instructions:uk           #    0.54  insns per cycle        
+
+       1.000623598 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,027,366 cycles:uk                
+         1,708,449 instructions:uk           #    0.56  insns per cycle        
+
+       1.000700841 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,351,355 cycles:uk                
+         1,343,726 instructions:uk           #    0.57  insns per cycle        
+
+       1.000782592 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,002,631 cycles:uk                
+         1,621,445 instructions:uk           #    0.54  insns per cycle        
+
+       1.000912793 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,669,131 cycles:uk                
+         1,414,243 instructions:uk           #    0.53  insns per cycle        
+
+       1.000810525 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,610,411 cycles:uk                
+         1,391,487 instructions:uk           #    0.53  insns per cycle        
+
+       1.000618951 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,083,323 cycles:uk                
+         1,666,308 instructions:uk           #    0.54  insns per cycle        
+
+       1.000666434 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,476,649 cycles:uk                
+         1,389,427 instructions:uk           #    0.56  insns per cycle        
+
+       1.000641479 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,063,426 cycles:uk                
+         1,669,767 instructions:uk           #    0.55  insns per cycle        
+
+       1.000917032 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,210,137 cycles:uk                
+         1,949,485 instructions:uk           #    0.61  insns per cycle        
+
+       1.000594461 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,782,066 cycles:uk                
+         1,557,307 instructions:uk           #    0.56  insns per cycle        
+
+       1.000606363 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,406,641 cycles:uk                
+         1,391,713 instructions:uk           #    0.58  insns per cycle        
+
+       1.000816864 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,674,037 cycles:uk                
+         2,167,607 instructions:uk           #    0.46  insns per cycle        
+
+       1.000848296 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,354,581 cycles:uk                
+         1,334,773 instructions:uk           #    0.57  insns per cycle        
+
+       1.000811550 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,017,918 cycles:uk                
+         1,687,814 instructions:uk           #    0.56  insns per cycle        
+
+       1.000869374 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,075,277 cycles:uk                
+         1,650,543 instructions:uk           #    0.54  insns per cycle        
+
+       1.000580290 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,009,968 cycles:uk                
+         1,531,094 instructions:uk           #    0.51  insns per cycle        
+
+       1.000770437 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,944,477 cycles:uk                
+         1,589,351 instructions:uk           #    0.54  insns per cycle        
+
+       1.000718443 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,549,020 cycles:uk                
+         1,414,730 instructions:uk           #    0.56  insns per cycle        
+
+       1.000752670 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,031,618 cycles:uk                
+         1,755,899 instructions:uk           #    0.58  insns per cycle        
+
+       1.000653441 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,546,024 cycles:uk                
+         1,369,818 instructions:uk           #    0.54  insns per cycle        
+
+       1.000673995 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,080,611 cycles:uk                
+         1,696,771 instructions:uk           #    0.55  insns per cycle        
+
+       1.000786846 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,479,004 cycles:uk                
+         1,363,204 instructions:uk           #    0.55  insns per cycle        
+
+       1.000652402 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,715,935 cycles:uk                
+         1,555,432 instructions:uk           #    0.57  insns per cycle        
+
+       1.000896009 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,837,538 cycles:uk                
+         1,587,268 instructions:uk           #    0.56  insns per cycle        
+
+       1.000650423 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,564,717 cycles:uk                
+         1,443,236 instructions:uk           #    0.56  insns per cycle        
+
+       1.000680209 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,907,001 cycles:uk                
+         1,835,777 instructions:uk           #    0.47  insns per cycle        
+
+       1.000690697 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,140,374 cycles:uk                
+         2,165,313 instructions:uk           #    0.42  insns per cycle        
+
+       1.000948346 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,151,694 cycles:uk                
+         1,851,606 instructions:uk           #    0.45  insns per cycle        
+
+       1.000638552 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,162,139 cycles:uk                
+         1,493,817 instructions:uk           #    0.47  insns per cycle        
+
+       1.000695427 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,410,621 cycles:uk                
+         2,185,080 instructions:uk           #    0.50  insns per cycle        
+
+       1.000766250 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,739,438 cycles:uk                
+         1,641,175 instructions:uk           #    0.44  insns per cycle        
+
+       1.000603423 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,124,628 cycles:uk                
+         1,693,161 instructions:uk           #    0.41  insns per cycle        
+
+       1.000661559 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,909,140 cycles:uk                
+         1,609,028 instructions:uk           #    0.41  insns per cycle        
+
+       1.000705392 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,987,221 cycles:uk                
+         2,187,693 instructions:uk           #    0.44  insns per cycle        
+
+       1.000662251 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,188,675 cycles:uk                
+         1,811,832 instructions:uk           #    0.43  insns per cycle        
+
+       1.000630212 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,960,481 cycles:uk                
+         2,161,181 instructions:uk           #    0.44  insns per cycle        
+
+       1.000633180 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,290,648 cycles:uk                
+         1,801,489 instructions:uk           #    0.42  insns per cycle        
+
+       1.000704165 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,816,183 cycles:uk                
+         2,245,512 instructions:uk           #    0.47  insns per cycle        
+
+       1.000648410 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,710,449 cycles:uk                
+         1,949,774 instructions:uk           #    0.41  insns per cycle        
+
+       1.000697860 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,601,660 cycles:uk                
+         1,952,896 instructions:uk           #    0.42  insns per cycle        
+
+       1.000611847 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,799,039 cycles:uk                
+         2,068,657 instructions:uk           #    0.43  insns per cycle        
+
+       1.000826145 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         6,876,798 cycles:uk                
+         2,683,738 instructions:uk           #    0.39  insns per cycle        
+
+       1.000665277 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,291,842 cycles:uk                
+         1,859,176 instructions:uk           #    0.43  insns per cycle        
+
+       1.000630093 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,016,471 cycles:uk                
+         1,887,518 instructions:uk           #    0.47  insns per cycle        
+
+       1.000635156 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,636,614 cycles:uk                
+         1,611,148 instructions:uk           #    0.44  insns per cycle        
+
+       1.000652131 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,092,367 cycles:uk                
+         1,811,822 instructions:uk           #    0.44  insns per cycle        
+
+       1.000676844 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,592,303 cycles:uk                
+         1,624,265 instructions:uk           #    0.45  insns per cycle        
+
+       1.000575429 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,037,046 cycles:uk                
+         1,792,754 instructions:uk           #    0.44  insns per cycle        
+
+       1.000644237 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,784,223 cycles:uk                 [99.95%]
+         1,821,331 instructions:uk           #    0.38  insns per cycle        
+
+       1.000646219 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,251,803 cycles:uk                
+         1,842,840 instructions:uk           #    0.43  insns per cycle        
+
+       1.000616011 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,202,480 cycles:uk                
+         1,434,719 instructions:uk           #    0.45  insns per cycle        
+
+       1.000721734 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,312,828 cycles:uk                
+         1,974,309 instructions:uk           #    0.46  insns per cycle        
+
+       1.000613388 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,245,392 cycles:uk                
+         1,513,649 instructions:uk           #    0.47  insns per cycle        
+
+       1.000558872 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,700,476 cycles:uk                
+         1,781,111 instructions:uk           #    0.48  insns per cycle        
+
+       1.000656148 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,228,900 cycles:uk                
+         1,524,998 instructions:uk           #    0.47  insns per cycle        
+
+       1.000645217 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,016,046 cycles:uk                
+         1,852,305 instructions:uk           #    0.46  insns per cycle        
+
+       1.000564578 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,503,939 cycles:uk                
+         2,116,651 instructions:uk           #    0.38  insns per cycle        
+
+       1.000643792 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,837,912 cycles:uk                
+         1,807,869 instructions:uk           #    0.47  insns per cycle        
+
+       1.000680183 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,363,541 cycles:uk                
+         1,560,889 instructions:uk           #    0.46  insns per cycle        
+
+       1.000695247 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,060,265 cycles:uk                
+         1,950,556 instructions:uk           #    0.48  insns per cycle        
+
+       1.000708144 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,163,507 cycles:uk                
+         1,565,405 instructions:uk           #    0.49  insns per cycle        
+
+       1.000613787 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,141,399 cycles:uk                
+         1,725,365 instructions:uk           #    0.42  insns per cycle        
+
+       1.000637256 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,358,233 cycles:uk                
+         1,602,922 instructions:uk           #    0.48  insns per cycle        
+
+       1.000638391 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,056,142 cycles:uk                
+         1,930,799 instructions:uk           #    0.48  insns per cycle        
+
+       1.000954686 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,841,946 cycles:uk                
+         1,832,907 instructions:uk           #    0.48  insns per cycle        
+
+       1.000603915 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,877,520 cycles:uk                
+         1,470,176 instructions:uk           #    0.51  insns per cycle        
+
+       1.000856182 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,003,183 cycles:uk                
+         1,958,596 instructions:uk           #    0.49  insns per cycle        
+
+       1.000589520 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,481,482 cycles:uk                
+         1,546,187 instructions:uk           #    0.44  insns per cycle        
+
+       1.000615622 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,695,836 cycles:uk                
+         1,727,863 instructions:uk           #    0.47  insns per cycle        
+
+       1.000724862 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,306,416 cycles:uk                
+         1,544,807 instructions:uk           #    0.47  insns per cycle        
+
+       1.000762359 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,714,962 cycles:uk                
+         2,475,761 instructions:uk           #    0.43  insns per cycle        
+
+       1.000636397 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,499,011 cycles:uk                
+         1,591,518 instructions:uk           #    0.45  insns per cycle        
+
+       1.000705774 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,558,482 cycles:uk                
+         1,722,235 instructions:uk           #    0.48  insns per cycle        
+
+       1.000646170 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,164,195 cycles:uk                
+         1,563,074 instructions:uk           #    0.49  insns per cycle        
+
+       1.000613739 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,152,842 cycles:uk                
+         1,513,965 instructions:uk           #    0.48  insns per cycle        
+
+       1.000722367 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,033,623 cycles:uk                
+         1,841,231 instructions:uk           #    0.46  insns per cycle        
+
+       1.000698828 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,688,765 cycles:uk                
+         1,647,846 instructions:uk           #    0.45  insns per cycle        
+
+       1.000693627 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,950,617 cycles:uk                
+         1,814,413 instructions:uk           #    0.46  insns per cycle        
+
+       1.000645212 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,078,653 cycles:uk                
+         1,547,698 instructions:uk           #    0.50  insns per cycle        
+
+       1.000633286 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,378,876 cycles:uk                
+         1,896,671 instructions:uk           #    0.43  insns per cycle        
+
+       1.000653045 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,511,821 cycles:uk                
+         1,533,500 instructions:uk           #    0.44  insns per cycle        
+
+       1.000574071 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,718,221 cycles:uk                
+         1,688,204 instructions:uk           #    0.45  insns per cycle        
+
+       1.000691801 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,804,169 cycles:uk                
+         1,453,197 instructions:uk           #    0.52  insns per cycle        
+
+       1.000731404 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,817,481 cycles:uk                
+         1,730,745 instructions:uk           #    0.45  insns per cycle        
+
+       1.000896023 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,394,737 cycles:uk                
+         1,610,277 instructions:uk           #    0.47  insns per cycle        
+
+       1.000783439 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         6,050,309 cycles:uk                
+         2,363,151 instructions:uk           #    0.39  insns per cycle        
+
+       1.000622222 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,606,078 cycles:uk                
+         1,313,452 instructions:uk           #    0.50  insns per cycle        
+
+       1.000648478 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,953,204 cycles:uk                
+         1,702,567 instructions:uk           #    0.58  insns per cycle        
+
+       1.000776652 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,837,786 cycles:uk                
+         1,348,868 instructions:uk           #    0.48  insns per cycle        
+
+       1.000667003 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,002,614 cycles:uk                
+         1,552,159 instructions:uk           #    0.52  insns per cycle        
+
+       1.000662280 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,896,667 cycles:uk                
+         1,831,214 instructions:uk           #    0.47  insns per cycle        
+
+       1.000805552 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,497,111 cycles:uk                
+         1,470,760 instructions:uk           #    0.42  insns per cycle        
+
+       1.000653565 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,908,503 cycles:uk                
+         1,577,466 instructions:uk           #    0.54  insns per cycle        
+
+       1.000847684 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,139,245 cycles:uk                
+         1,487,512 instructions:uk           #    0.47  insns per cycle        
+
+       1.000657373 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,986,429 cycles:uk                
+         1,567,686 instructions:uk           #    0.52  insns per cycle        
+
+       1.000676169 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,559,820 cycles:uk                
+         1,448,878 instructions:uk           #    0.57  insns per cycle        
+
+       1.000876896 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,406,134 cycles:uk                
+         1,823,137 instructions:uk           #    0.54  insns per cycle        
+
+       1.000686175 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,378,405 cycles:uk                
+         1,478,144 instructions:uk           #    0.44  insns per cycle        
+
+       1.000649957 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,194,069 cycles:uk                
+         1,684,756 instructions:uk           #    0.40  insns per cycle        
+
+       1.000654401 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,943,009 cycles:uk                
+         1,643,619 instructions:uk           #    0.42  insns per cycle        
+
+       1.000887710 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         6,050,762 cycles:uk                
+         2,351,859 instructions:uk           #    0.39  insns per cycle        
+
+       1.000632303 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,581,775 cycles:uk                
+         1,420,760 instructions:uk           #    0.40  insns per cycle        
+
+       1.000735501 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,043,337 cycles:uk                
+         1,758,848 instructions:uk           #    0.43  insns per cycle        
+
+       1.000640959 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,699,994 cycles:uk                
+         1,356,395 instructions:uk           #    0.50  insns per cycle        
+
+       1.000637437 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,869,375 cycles:uk                
+         1,743,198 instructions:uk           #    0.45  insns per cycle        
+
+       1.000695094 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,278,603 cycles:uk                
+         1,321,267 instructions:uk           #    0.58  insns per cycle        
+
+       1.000809124 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,234,551 cycles:uk                
+         1,983,464 instructions:uk           #    0.47  insns per cycle        
+
+       1.000678321 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,266,674 cycles:uk                
+         1,428,911 instructions:uk           #    0.44  insns per cycle        
+
+       1.000676207 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,004,783 cycles:uk                
+         1,898,519 instructions:uk           #    0.47  insns per cycle        
+
+       1.000689352 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,290,524 cycles:uk                
+         1,539,674 instructions:uk           #    0.47  insns per cycle        
+
+       1.000879565 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,592,783 cycles:uk                
+         1,543,024 instructions:uk           #    0.60  insns per cycle        
+
+       1.000797381 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,758,591 cycles:uk                
+         1,614,671 instructions:uk           #    0.59  insns per cycle        
+
+       1.000783314 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,208,968 cycles:uk                
+         1,587,753 instructions:uk           #    0.49  insns per cycle        
+
+       1.000928825 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,646,436 cycles:uk                
+         1,685,194 instructions:uk           #    0.46  insns per cycle        
+
+       1.000535526 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,356,511 cycles:uk                
+         1,383,993 instructions:uk           #    0.59  insns per cycle        
+
+       1.000641968 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,971,199 cycles:uk                
+         2,465,403 instructions:uk           #    0.50  insns per cycle        
+
+       1.000607854 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,953,767 cycles:uk                
+         1,340,460 instructions:uk           #    0.45  insns per cycle        
+
+       1.000667433 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,061,137 cycles:uk                
+         1,725,680 instructions:uk           #    0.56  insns per cycle        
+
+       1.000853049 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,297,871 cycles:uk                
+         1,574,621 instructions:uk           #    0.48  insns per cycle        
+
+       1.000866197 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,720,892 cycles:uk                
+         1,739,110 instructions:uk           #    0.47  insns per cycle        
+
+       1.000676322 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,335,098 cycles:uk                
+         1,389,872 instructions:uk           #    0.42  insns per cycle        
+
+       1.000618798 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,568,264 cycles:uk                
+         1,435,176 instructions:uk           #    0.56  insns per cycle        
+
+       1.000679866 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         6,005,235 cycles:uk                
+         3,111,809 instructions:uk           #    0.52  insns per cycle        
+
+       1.000756812 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,606,596 cycles:uk                
+         1,487,391 instructions:uk           #    0.41  insns per cycle        
+
+       1.000670515 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,829,247 cycles:uk                
+         1,585,572 instructions:uk           #    0.56  insns per cycle        
+
+       1.000759207 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,023,557 cycles:uk                
+         1,699,331 instructions:uk           #    0.42  insns per cycle        
+
+       1.000923024 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,748,771 cycles:uk                
+         1,682,169 instructions:uk           #    0.45  insns per cycle        
+
+       1.000627157 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,378,821 cycles:uk                
+         1,743,175 instructions:uk           #    0.40  insns per cycle        
+
+       1.000703064 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,681,845 cycles:uk                
+         1,693,167 instructions:uk           #    0.46  insns per cycle        
+
+       1.000673334 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,701,458 cycles:uk                
+         1,435,025 instructions:uk           #    0.39  insns per cycle        
+
+       1.000653090 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,025,355 cycles:uk                
+         2,295,121 instructions:uk           #    0.46  insns per cycle        
+
+       1.000937310 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,367,902 cycles:uk                
+         1,364,991 instructions:uk           #    0.58  insns per cycle        
+
+       1.000682976 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,370,552 cycles:uk                
+         1,843,949 instructions:uk           #    0.55  insns per cycle        
+
+       1.000765081 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,439,936 cycles:uk                
+         1,511,205 instructions:uk           #    0.44  insns per cycle        
+
+       1.000613509 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,604,458 cycles:uk                
+         1,904,969 instructions:uk           #    0.41  insns per cycle        
+
+       1.000602692 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,238,819 cycles:uk                
+         1,413,400 instructions:uk           #    0.44  insns per cycle        
+
+       1.000666072 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,893,706 cycles:uk                
+         1,750,812 instructions:uk           #    0.45  insns per cycle        
+
+       1.000651733 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,647,343 cycles:uk                
+         1,567,422 instructions:uk           #    0.43  insns per cycle        
+
+       1.000702404 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,822,091 cycles:uk                
+         1,796,515 instructions:uk           #    0.47  insns per cycle        
+
+       1.000668398 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,416,431 cycles:uk                
+         1,487,793 instructions:uk           #    0.44  insns per cycle        
+
+       1.000696914 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,938,013 cycles:uk                
+         1,735,017 instructions:uk           #    0.44  insns per cycle        
+
+       1.000701019 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,781,106 cycles:uk                
+         1,557,771 instructions:uk           #    0.41  insns per cycle        
+
+       1.000654974 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,825,489 cycles:uk                
+         1,824,722 instructions:uk           #    0.48  insns per cycle        
+
+       1.000624003 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,049,976 cycles:uk                
+         1,312,020 instructions:uk           #    0.43  insns per cycle        
+
+       1.000839642 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,047,376 cycles:uk                
+         1,562,987 instructions:uk           #    0.51  insns per cycle        
+
+       1.000718633 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,787,360 cycles:uk                
+         2,190,917 instructions:uk           #    0.38  insns per cycle        
+
+       1.000654721 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,835,668 cycles:uk                
+         1,603,649 instructions:uk           #    0.42  insns per cycle        
+
+       1.000666773 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,699,109 cycles:uk                
+         1,675,457 instructions:uk           #    0.45  insns per cycle        
+
+       1.000658789 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,026,798 cycles:uk                
+         1,580,854 instructions:uk           #    0.39  insns per cycle        
+
+       1.000679761 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,760,817 cycles:uk                
+         1,730,776 instructions:uk           #    0.46  insns per cycle        
+
+       1.000641863 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,145,783 cycles:uk                
+         1,440,675 instructions:uk           #    0.46  insns per cycle        
+
+       1.000646506 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,438,512 cycles:uk                
+         2,002,723 instructions:uk           #    0.45  insns per cycle        
+
+       1.000777077 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,386,253 cycles:uk                
+         1,518,711 instructions:uk           #    0.45  insns per cycle        
+
+       1.000688366 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,157,683 cycles:uk                
+         1,782,660 instructions:uk           #    0.43  insns per cycle        
+
+       1.000835636 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,987,783 cycles:uk                
+         1,990,120 instructions:uk           #    0.50  insns per cycle        
+
+       1.000602703 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,938,742 cycles:uk                
+         1,678,367 instructions:uk           #    0.43  insns per cycle        
+
+       1.000758178 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,709,279 cycles:uk                
+         1,660,457 instructions:uk           #    0.45  insns per cycle        
+
+       1.000812425 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,566,664 cycles:uk                
+         1,721,239 instructions:uk           #    0.48  insns per cycle        
+
+       1.000556387 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,458,428 cycles:uk                
+         1,405,864 instructions:uk           #    0.57  insns per cycle        
+
+       1.000684683 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,591,369 cycles:uk                
+         2,287,308 instructions:uk           #    0.41  insns per cycle        
+
+       1.000796319 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,011,721 cycles:uk                
+         1,485,887 instructions:uk           #    0.49  insns per cycle        
+
+       1.000826730 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,185,054 cycles:uk                
+         1,779,463 instructions:uk           #    0.43  insns per cycle        
+
+       1.000562666 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,009,431 cycles:uk                
+         1,609,835 instructions:uk           #    0.40  insns per cycle        
+
+       1.000633998 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,460,440 cycles:uk                
+         1,895,943 instructions:uk           #    0.43  insns per cycle        
+
+       1.000650596 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,734,243 cycles:uk                
+         1,928,685 instructions:uk           #    0.41  insns per cycle        
+
+       1.000648842 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,982,619 cycles:uk                
+         1,749,257 instructions:uk           #    0.44  insns per cycle        
+
+       1.000702867 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,632,117 cycles:uk                
+         1,415,729 instructions:uk           #    0.54  insns per cycle        
+
+       1.000549253 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         5,902,753 cycles:uk                
+         2,220,681 instructions:uk           #    0.38  insns per cycle        
+
+       1.000628213 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,278,930 cycles:uk                
+         1,841,149 instructions:uk           #    0.43  insns per cycle        
+
+       1.000952992 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,575,695 cycles:uk                
+         1,530,716 instructions:uk           #    0.43  insns per cycle        
+
+       1.000637134 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,205,812 cycles:uk                
+         1,783,559 instructions:uk           #    0.42  insns per cycle        
+
+       1.000615576 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,711,956 cycles:uk                
+         1,658,380 instructions:uk           #    0.45  insns per cycle        
+
+       1.000712057 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,202,891 cycles:uk                
+         1,701,170 instructions:uk           #    0.40  insns per cycle        
+
+       1.000671878 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,703,201 cycles:uk                
+         1,437,443 instructions:uk           #    0.53  insns per cycle        
+
+       1.000724630 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,117,144 cycles:uk                
+         1,736,231 instructions:uk           #    0.42  insns per cycle        
+
+       1.000766313 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,087,608 cycles:uk                
+         1,540,084 instructions:uk           #    0.50  insns per cycle        
+
+       1.000631224 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,796,151 cycles:uk                
+         1,602,492 instructions:uk           #    0.57  insns per cycle        
+
+       1.000734817 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,593,659 cycles:uk                
+         1,477,001 instructions:uk           #    0.57  insns per cycle        
+
+       1.000584729 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,459,925 cycles:uk                
+         1,663,542 instructions:uk           #    0.48  insns per cycle        
+
+       1.000784830 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,210,441 cycles:uk                
+         1,559,365 instructions:uk           #    0.49  insns per cycle        
+
+       1.000676384 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         4,218,444 cycles:uk                
+         1,830,127 instructions:uk           #    0.43  insns per cycle        
+
+       1.000575643 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         3,504,245 cycles:uk                
+         1,475,039 instructions:uk           #    0.42  insns per cycle        
+
+       1.000649047 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       655,341,692 cycles:uk                 [100.00%]
+       586,886,043 instructions:uk           #    0.90  insns per cycle         [100.00%]
+
+       1.000668322 seconds time elapsed
+

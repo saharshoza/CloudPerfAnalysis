@@ -1,0 +1,1656 @@
+
+ Performance counter stats for process id '62213':
+
+        10,244,025 LLC-loads                                                    [90.39%]
+           463,645 LLC-stores                                                   [89.99%]
+
+       1.000669331 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,874 LLC-loads                                                    [99.97%]
+             7,267 LLC-stores                                                  
+
+       1.000784143 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,729 LLC-loads                                                   
+             2,909 LLC-stores                                                  
+
+       1.000613672 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,967 LLC-loads                                                   
+             2,986 LLC-stores                                                  
+
+       1.000644874 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,704 LLC-loads                                                   
+             2,785 LLC-stores                                                  
+
+       1.000632563 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,391 LLC-loads                                                   
+             2,745 LLC-stores                                                  
+
+       1.000638435 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,032 LLC-loads                                                   
+             3,112 LLC-stores                                                  
+
+       1.000940084 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,486 LLC-loads                                                   
+             2,647 LLC-stores                                                  
+
+       1.000845170 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            62,338 LLC-loads                                                   
+             7,811 LLC-stores                                                  
+
+       1.000686434 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,595 LLC-loads                                                   
+             2,746 LLC-stores                                                  
+
+       1.000706797 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,292 LLC-loads                                                   
+             3,295 LLC-stores                                                  
+
+       1.000798890 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+        18,852,569 LLC-loads                                                   
+         4,849,216 LLC-stores                                                  
+
+       1.000658002 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,356 LLC-loads                                                   
+             3,456 LLC-stores                                                  
+
+       1.000671317 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           151,064 LLC-loads                                                   
+            32,212 LLC-stores                                                  
+
+       1.000699202 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            54,615 LLC-loads                                                   
+             4,059 LLC-stores                                                  
+
+       1.000661786 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            57,329 LLC-loads                                                   
+             3,823 LLC-stores                                                  
+
+       1.000661779 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,471 LLC-loads                                                   
+             3,035 LLC-stores                                                  
+
+       1.000684351 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,194 LLC-loads                                                   
+             3,566 LLC-stores                                                  
+
+       1.000703445 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,521 LLC-loads                                                   
+             2,947 LLC-stores                                                  
+
+       1.000614517 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,473 LLC-loads                                                   
+             3,521 LLC-stores                                                  
+
+       1.000681494 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,965 LLC-loads                                                   
+             2,911 LLC-stores                                                  
+
+       1.000604229 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            65,873 LLC-loads                                                   
+             7,896 LLC-stores                                                  
+
+       1.000659535 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,488 LLC-loads                                                   
+             2,972 LLC-stores                                                  
+
+       1.000622601 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,596 LLC-loads                                                   
+             3,306 LLC-stores                                                  
+
+       1.000688648 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,313 LLC-loads                                                   
+             3,029 LLC-stores                                                  
+
+       1.000660904 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,861 LLC-loads                                                   
+             3,387 LLC-stores                                                  
+
+       1.000629911 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            47,359 LLC-loads                                                   
+             3,042 LLC-stores                                                  
+
+       1.000620420 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,608 LLC-loads                                                   
+             3,631 LLC-stores                                                  
+
+       1.000586002 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,172 LLC-loads                                                   
+             3,155 LLC-stores                                                  
+
+       1.000684411 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,599 LLC-loads                                                   
+             3,621 LLC-stores                                                  
+
+       1.000617408 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,249 LLC-loads                                                   
+             3,065 LLC-stores                                                  
+
+       1.000673046 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,472 LLC-loads                                                   
+             3,356 LLC-stores                                                  
+
+       1.000573290 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,762 LLC-loads                                                   
+             2,729 LLC-stores                                                  
+
+       1.000634802 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,227 LLC-loads                                                   
+             3,584 LLC-stores                                                  
+
+       1.000675700 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,619 LLC-loads                                                   
+             2,971 LLC-stores                                                  
+
+       1.000630283 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,220 LLC-loads                                                   
+             3,045 LLC-stores                                                  
+
+       1.000685642 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           209,291 LLC-loads                                                   
+            23,183 LLC-stores                                                  
+
+       1.000669441 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,502 LLC-loads                                                   
+             3,757 LLC-stores                                                  
+
+       1.000666940 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,507 LLC-loads                                                   
+             2,938 LLC-stores                                                  
+
+       1.000675072 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            54,622 LLC-loads                                                   
+             3,778 LLC-stores                                                  
+
+       1.000656332 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,990 LLC-loads                                                   
+             2,737 LLC-stores                                                  
+
+       1.000645008 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,303 LLC-loads                                                   
+             3,617 LLC-stores                                                  
+
+       1.000651380 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,410 LLC-loads                                                   
+             3,038 LLC-stores                                                  
+
+       1.000681768 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,575 LLC-loads                                                   
+             3,198 LLC-stores                                                  
+
+       1.000648784 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,034 LLC-loads                                                   
+             3,007 LLC-stores                                                  
+
+       1.000576645 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,137 LLC-loads                                                   
+             3,597 LLC-stores                                                  
+
+       1.000644453 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,069 LLC-loads                                                   
+             2,737 LLC-stores                                                  
+
+       1.000651877 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,218 LLC-loads                                                   
+             3,632 LLC-stores                                                  
+
+       1.000580342 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,522 LLC-loads                                                   
+             2,622 LLC-stores                                                  
+
+       1.000677445 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            59,007 LLC-loads                                                   
+             4,169 LLC-stores                                                  
+
+       1.000630425 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,873 LLC-loads                                                   
+             3,283 LLC-stores                                                  
+
+       1.000664219 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            69,682 LLC-loads                                                   
+             9,252 LLC-stores                                                  
+
+       1.000645749 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            59,505 LLC-loads                                                   
+             4,240 LLC-stores                                                  
+
+       1.000779691 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,940 LLC-loads                                                   
+             3,439 LLC-stores                                                  
+
+       1.000682024 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            60,064 LLC-loads                                                   
+             4,282 LLC-stores                                                  
+
+       1.000663328 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,257 LLC-loads                                                   
+             3,454 LLC-stores                                                  
+
+       1.000647989 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            55,840 LLC-loads                                                   
+             3,900 LLC-stores                                                  
+
+       1.000627367 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,559 LLC-loads                                                   
+             3,866 LLC-stores                                                  
+
+       1.000683484 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,084 LLC-loads                                                   
+             3,474 LLC-stores                                                  
+
+       1.000642104 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,829 LLC-loads                                                   
+             3,629 LLC-stores                                                  
+
+       1.000624912 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,535 LLC-loads                                                   
+             3,354 LLC-stores                                                  
+
+       1.000684403 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,200 LLC-loads                                                   
+             3,125 LLC-stores                                                  
+
+       1.000705623 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,914 LLC-loads                                                   
+             3,769 LLC-stores                                                  
+
+       1.000832134 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,483 LLC-loads                                                   
+             2,604 LLC-stores                                                  
+
+       1.000690575 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,513 LLC-loads                                                   
+             3,222 LLC-stores                                                  
+
+       1.000671821 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,507 LLC-loads                                                   
+             3,135 LLC-stores                                                  
+
+       1.000667891 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            64,785 LLC-loads                                                   
+             7,581 LLC-stores                                                  
+
+       1.000596974 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,071 LLC-loads                                                   
+             3,085 LLC-stores                                                  
+
+       1.000607195 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,552 LLC-loads                                                   
+             3,358 LLC-stores                                                  
+
+       1.000572367 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,707 LLC-loads                                                   
+             3,074 LLC-stores                                                  
+
+       1.000638469 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,498 LLC-loads                                                   
+             3,489 LLC-stores                                                  
+
+       1.000605824 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            47,063 LLC-loads                                                   
+             3,023 LLC-stores                                                  
+
+       1.000640378 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            61,904 LLC-loads                                                   
+             4,508 LLC-stores                                                  
+
+       1.000642525 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,256 LLC-loads                                                   
+             2,572 LLC-stores                                                  
+
+       1.000642262 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,125 LLC-loads                                                   
+             3,208 LLC-stores                                                  
+
+       1.000644384 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,984 LLC-loads                                                   
+             2,999 LLC-stores                                                  
+
+       1.000621564 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,392 LLC-loads                                                   
+             3,475 LLC-stores                                                  
+
+       1.000622183 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,008 LLC-loads                                                   
+             2,714 LLC-stores                                                  
+
+       1.000635171 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,618 LLC-loads                                                   
+             3,456 LLC-stores                                                  
+
+       1.000646436 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,514 LLC-loads                                                   
+             2,641 LLC-stores                                                  
+
+       1.000699478 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            55,107 LLC-loads                                                   
+             3,666 LLC-stores                                                  
+
+       1.000633967 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            54,746 LLC-loads                                                   
+             7,101 LLC-stores                                                  
+
+       1.000680519 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,720 LLC-loads                                                   
+             3,403 LLC-stores                                                  
+
+       1.000691786 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,130 LLC-loads                                                   
+             2,890 LLC-stores                                                  
+
+       1.000620878 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,512 LLC-loads                                                   
+             3,325 LLC-stores                                                  
+
+       1.000640271 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,571 LLC-loads                                                   
+             2,835 LLC-stores                                                  
+
+       1.000754480 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,756 LLC-loads                                                   
+             3,350 LLC-stores                                                  
+
+       1.000646286 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,099 LLC-loads                                                   
+             2,682 LLC-stores                                                  
+
+       1.000635387 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,363 LLC-loads                                                   
+             3,560 LLC-stores                                                  
+
+       1.000631895 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,196 LLC-loads                                                   
+             3,410 LLC-stores                                                  
+
+       1.000659057 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,551 LLC-loads                                                   
+             3,046 LLC-stores                                                  
+
+       1.000636261 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            47,455 LLC-loads                                                   
+             3,186 LLC-stores                                                  
+
+       1.000622162 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,240 LLC-loads                                                   
+             2,976 LLC-stores                                                  
+
+       1.000712327 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,118 LLC-loads                                                   
+             3,631 LLC-stores                                                  
+
+       1.000618614 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,535 LLC-loads                                                   
+             2,888 LLC-stores                                                  
+
+       1.000644576 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,398 LLC-loads                                                   
+             3,458 LLC-stores                                                  
+
+       1.000643273 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            55,870 LLC-loads                                                   
+             7,221 LLC-stores                                                  
+
+       1.000583468 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            55,845 LLC-loads                                                   
+             3,687 LLC-stores                                                  
+
+       1.000805219 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,579 LLC-loads                                                   
+             2,820 LLC-stores                                                  
+
+       1.000565655 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,767 LLC-loads                                                   
+             3,283 LLC-stores                                                  
+
+       1.000629519 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,231 LLC-loads                                                   
+             3,311 LLC-stores                                                  
+
+       1.000642495 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            54,867 LLC-loads                                                   
+             3,728 LLC-stores                                                  
+
+       1.000625725 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,884 LLC-loads                                                   
+             2,512 LLC-stores                                                  
+
+       1.000661578 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,501 LLC-loads                                                   
+             3,293 LLC-stores                                                  
+
+       1.000569908 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,531 LLC-loads                                                   
+             2,583 LLC-stores                                                  
+
+       1.000733554 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            47,231 LLC-loads                                                   
+             3,224 LLC-stores                                                  
+
+       1.000766011 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,526 LLC-loads                                                   
+             2,709 LLC-stores                                                  
+
+       1.000644306 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,807 LLC-loads                                                   
+             2,850 LLC-stores                                                  
+
+       1.000783522 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,408 LLC-loads                                                   
+             2,703 LLC-stores                                                  
+
+       1.000655147 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,319 LLC-loads                                                   
+             3,126 LLC-stores                                                  
+
+       1.000710168 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            62,715 LLC-loads                                                   
+             7,864 LLC-stores                                                  
+
+       1.000883941 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,049 LLC-loads                                                   
+             3,109 LLC-stores                                                  
+
+       1.000641365 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,849 LLC-loads                                                   
+             2,838 LLC-stores                                                  
+
+       1.000630657 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,304 LLC-loads                                                   
+             2,764 LLC-stores                                                  
+
+       1.000668952 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            47,846 LLC-loads                                                   
+             3,530 LLC-stores                                                  
+
+       1.000715090 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,250 LLC-loads                                                   
+             2,692 LLC-stores                                                  
+
+       1.000771749 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,116 LLC-loads                                                   
+             3,451 LLC-stores                                                  
+
+       1.000669157 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,699 LLC-loads                                                   
+             2,933 LLC-stores                                                  
+
+       1.000586756 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,652 LLC-loads                                                   
+             2,798 LLC-stores                                                  
+
+       1.000641549 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            37,659 LLC-loads                                                   
+             2,460 LLC-stores                                                  
+
+       1.000616248 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,429 LLC-loads                                                   
+             3,236 LLC-stores                                                  
+
+       1.000891457 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            36,324 LLC-loads                                                   
+             2,250 LLC-stores                                                  
+
+       1.000682442 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,607 LLC-loads                                                   
+             3,410 LLC-stores                                                  
+
+       1.000829713 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            37,160 LLC-loads                                                   
+             2,415 LLC-stores                                                  
+
+       1.000917688 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,240 LLC-loads                                                   
+             3,034 LLC-stores                                                  
+
+       1.000745794 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            59,455 LLC-loads                                                   
+             7,423 LLC-stores                                                  
+
+       1.000675185 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,798 LLC-loads                                                   
+             2,757 LLC-stores                                                  
+
+       1.000762742 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,033 LLC-loads                                                   
+             2,698 LLC-stores                                                  
+
+       1.000863083 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,271 LLC-loads                                                   
+             2,542 LLC-stores                                                  
+
+       1.000699124 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,798 LLC-loads                                                   
+             3,415 LLC-stores                                                  
+
+       1.000848832 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,049 LLC-loads                                                   
+             3,579 LLC-stores                                                  
+
+       1.000620958 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            57,670 LLC-loads                                                   
+             4,156 LLC-stores                                                  
+
+       1.000677627 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            36,126 LLC-loads                                                   
+             2,286 LLC-stores                                                  
+
+       1.000555621 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,147 LLC-loads                                                   
+             3,310 LLC-stores                                                  
+
+       1.000742881 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,852 LLC-loads                                                   
+             3,137 LLC-stores                                                  
+
+       1.000745109 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,122 LLC-loads                                                   
+             2,984 LLC-stores                                                  
+
+       1.000686407 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            38,733 LLC-loads                                                   
+             2,575 LLC-stores                                                  
+
+       1.000648928 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,277 LLC-loads                                                   
+             3,580 LLC-stores                                                  
+
+       1.000577893 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,466 LLC-loads                                                   
+             2,920 LLC-stores                                                  
+
+       1.000885718 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,120 LLC-loads                                                   
+             3,403 LLC-stores                                                  
+
+       1.000632078 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            60,887 LLC-loads                                                   
+             9,011 LLC-stores                                                  
+
+       1.000707890 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            36,420 LLC-loads                                                   
+             2,701 LLC-stores                                                  
+
+       1.000684339 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,844 LLC-loads                                                   
+             2,777 LLC-stores                                                  
+
+       1.000573847 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            38,008 LLC-loads                                                   
+             2,494 LLC-stores                                                  
+
+       1.000662392 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            60,394 LLC-loads                                                   
+             4,381 LLC-stores                                                  
+
+       1.000750307 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,610 LLC-loads                                                   
+             2,459 LLC-stores                                                  
+
+       1.000699941 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,207 LLC-loads                                                   
+             3,402 LLC-stores                                                  
+
+       1.000875266 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            31,076 LLC-loads                                                   
+             2,547 LLC-stores                                                  
+
+       1.000674358 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,705 LLC-loads                                                   
+             3,761 LLC-stores                                                  
+
+       1.000739940 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,894 LLC-loads                                                   
+             2,549 LLC-stores                                                  
+
+       1.000630204 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,509 LLC-loads                                                   
+             3,462 LLC-stores                                                  
+
+       1.000694743 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            35,227 LLC-loads                                                   
+             2,826 LLC-stores                                                  
+
+       1.000701586 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,474 LLC-loads                                                   
+             3,421 LLC-stores                                                  
+
+       1.000567929 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,651 LLC-loads                                                   
+             3,391 LLC-stores                                                  
+
+       1.000666975 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            60,973 LLC-loads                                                   
+             7,956 LLC-stores                                                  
+
+       1.000729242 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,056 LLC-loads                                                   
+             3,062 LLC-stores                                                  
+
+       1.000696144 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,146 LLC-loads                                                   
+             3,221 LLC-stores                                                  
+
+       1.000885798 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,051 LLC-loads                                                   
+             2,967 LLC-stores                                                  
+
+       1.000743449 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            37,077 LLC-loads                                                   
+             2,765 LLC-stores                                                  
+
+       1.000673176 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,532 LLC-loads                                                   
+             3,775 LLC-stores                                                  
+
+       1.000782040 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,598 LLC-loads                                                   
+             2,840 LLC-stores                                                  
+
+       1.000678993 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,048 LLC-loads                                                   
+             3,454 LLC-stores                                                  
+
+       1.000731096 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,531 LLC-loads                                                   
+             2,704 LLC-stores                                                  
+
+       1.000637356 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            45,042 LLC-loads                                                   
+             3,222 LLC-stores                                                  
+
+       1.000893193 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,387 LLC-loads                                                   
+             2,669 LLC-stores                                                  
+
+       1.000711287 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            47,625 LLC-loads                                                   
+             3,038 LLC-stores                                                  
+
+       1.000645091 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,027 LLC-loads                                                   
+             2,911 LLC-stores                                                  
+
+       1.000874618 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,837 LLC-loads                                                   
+             3,233 LLC-stores                                                  
+
+       1.000659658 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,506 LLC-loads                                                   
+             2,981 LLC-stores                                                  
+
+       1.000755336 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            63,981 LLC-loads                                                   
+             7,439 LLC-stores                                                  
+
+       1.000605759 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,182 LLC-loads                                                   
+             3,138 LLC-stores                                                  
+
+       1.000751984 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,944 LLC-loads                                                   
+             3,265 LLC-stores                                                  
+
+       1.000645867 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            37,408 LLC-loads                                                   
+             2,368 LLC-stores                                                  
+
+       1.000672740 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            51,812 LLC-loads                                                   
+             3,333 LLC-stores                                                  
+
+       1.000638318 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,942 LLC-loads                                                   
+             2,622 LLC-stores                                                  
+
+       1.000741644 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,131 LLC-loads                                                   
+             3,165 LLC-stores                                                  
+
+       1.000745876 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            43,458 LLC-loads                                                   
+             2,664 LLC-stores                                                  
+
+       1.000737773 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,072 LLC-loads                                                   
+             3,245 LLC-stores                                                  
+
+       1.000685167 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,263 LLC-loads                                                   
+             2,861 LLC-stores                                                  
+
+       1.001234578 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,923 LLC-loads                                                   
+             3,323 LLC-stores                                                  
+
+       1.000710801 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,225 LLC-loads                                                   
+             2,903 LLC-stores                                                  
+
+       1.000706952 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,276 LLC-loads                                                   
+             3,166 LLC-stores                                                  
+
+       1.000699505 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,048 LLC-loads                                                   
+             2,586 LLC-stores                                                  
+
+       1.000638063 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,109 LLC-loads                                                   
+             3,119 LLC-stores                                                  
+
+       1.000694012 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            64,197 LLC-loads                                                   
+             7,739 LLC-stores                                                  
+
+       1.000733568 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,901 LLC-loads                                                   
+             2,683 LLC-stores                                                  
+
+       1.000648830 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,929 LLC-loads                                                   
+             3,253 LLC-stores                                                  
+
+       1.000691893 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,338 LLC-loads                                                   
+             2,550 LLC-stores                                                  
+
+       1.000626533 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,889 LLC-loads                                                   
+             3,754 LLC-stores                                                  
+
+       1.000737074 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,468 LLC-loads                                                   
+             2,575 LLC-stores                                                  
+
+       1.000674376 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            53,727 LLC-loads                                                   
+             3,963 LLC-stores                                                  
+
+       1.000623520 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            39,545 LLC-loads                                                   
+             3,060 LLC-stores                                                  
+
+       1.000642222 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            48,814 LLC-loads                                                   
+             3,194 LLC-stores                                                  
+
+       1.000844481 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,463 LLC-loads                                                   
+             3,053 LLC-stores                                                  
+
+       1.000670458 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,782 LLC-loads                                                   
+             3,131 LLC-stores                                                  
+
+       1.000638527 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            47,425 LLC-loads                                                   
+             3,102 LLC-stores                                                  
+
+       1.000838505 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            49,132 LLC-loads                                                   
+             3,261 LLC-stores                                                  
+
+       1.000655252 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            44,550 LLC-loads                                                   
+             2,898 LLC-stores                                                  
+
+       1.000699598 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,954 LLC-loads                                                   
+             3,289 LLC-stores                                                  
+
+       1.000670644 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            50,336 LLC-loads                                                   
+             6,752 LLC-stores                                                  
+
+       1.000861266 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            52,833 LLC-loads                                                   
+             3,794 LLC-stores                                                  
+
+       1.000917520 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            40,569 LLC-loads                                                   
+             2,417 LLC-stores                                                  
+
+       1.000633846 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,567 LLC-loads                                                   
+             3,015 LLC-stores                                                  
+
+       1.000674499 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            42,000 LLC-loads                                                   
+             2,773 LLC-stores                                                  
+
+       1.000747342 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            46,764 LLC-loads                                                   
+             3,119 LLC-stores                                                  
+
+       1.000780710 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+            41,921 LLC-loads                                                   
+             2,691 LLC-stores                                                  
+
+       1.000685643 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,016,214 LLC-loads                                                   
+           158,451 LLC-stores                                                  
+
+       1.000825507 seconds time elapsed
+

@@ -1,0 +1,1256 @@
+
+ Performance counter stats for process id '137379':
+
+           439,193 dTLB-stores                                                  [82.48%]
+             1,364 dTLB-store-misses                                            [90.77%]
+
+       1.000674468 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           196,077 dTLB-stores                                                  [91.11%]
+               559 dTLB-store-misses                                           
+
+       1.000696863 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           277,438 dTLB-stores                                                  [83.36%]
+               747 dTLB-store-misses                                           
+
+       1.000830809 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           209,443 dTLB-stores                                                  [88.38%]
+               602 dTLB-store-misses                                           
+
+       1.000736981 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           213,034 dTLB-stores                                                  [91.76%]
+               594 dTLB-store-misses                                           
+
+       1.000686864 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           252,997 dTLB-stores                                                  [91.29%]
+               767 dTLB-store-misses                                           
+
+       1.000717916 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           219,208 dTLB-stores                                                  [88.00%]
+               672 dTLB-store-misses                                           
+
+       1.000809040 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           286,936 dTLB-stores                                                  [87.65%]
+               813 dTLB-store-misses                                           
+
+       1.000726339 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           197,411 dTLB-stores                                                  [94.31%]
+               659 dTLB-store-misses                                           
+
+       1.000619351 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           284,301 dTLB-stores                                                  [87.75%]
+               960 dTLB-store-misses                                           
+
+       1.000705226 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       236,799,902 dTLB-stores                                                  [99.98%]
+           120,726 dTLB-store-misses                                           
+
+       1.000601316 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           321,706 dTLB-stores                                                  [90.20%]
+             1,200 dTLB-store-misses                                           
+
+       1.000703170 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           401,994 dTLB-stores                                                  [95.57%]
+             1,778 dTLB-store-misses                                           
+
+       1.000725158 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           329,841 dTLB-stores                                                  [89.94%]
+             1,154 dTLB-store-misses                                           
+
+       1.000791771 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           514,004 dTLB-stores                                                  [92.02%]
+             1,673 dTLB-store-misses                                           
+
+       1.000842445 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           248,603 dTLB-stores                                                  [91.25%]
+               799 dTLB-store-misses                                           
+
+       1.000802510 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           244,148 dTLB-stores                                                  [92.08%]
+               882 dTLB-store-misses                                           
+
+       1.000701379 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           287,353 dTLB-stores                                                  [89.98%]
+             1,123 dTLB-store-misses                                           
+
+       1.000636050 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           331,981 dTLB-stores                                                  [93.38%]
+             1,313 dTLB-store-misses                                           
+
+       1.000752715 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           278,915 dTLB-stores                                                  [93.46%]
+             1,326 dTLB-store-misses                                           
+
+       1.000766099 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           367,736 dTLB-stores                                                  [94.30%]
+             1,811 dTLB-store-misses                                           
+
+       1.000650456 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           279,029 dTLB-stores                                                  [96.71%]
+             1,329 dTLB-store-misses                                           
+
+       1.000806542 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           356,502 dTLB-stores                                                  [92.59%]
+             1,594 dTLB-store-misses                                           
+
+       1.000703850 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           292,165 dTLB-stores                                                  [95.81%]
+             1,392 dTLB-store-misses                                           
+
+       1.000735495 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           432,540 dTLB-stores                                                  [95.07%]
+             1,817 dTLB-store-misses                                           
+
+       1.000713310 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           433,460 dTLB-stores                                                  [96.87%]
+             1,918 dTLB-store-misses                                           
+
+       1.000708863 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           611,186 dTLB-stores                                                  [94.74%]
+             2,702 dTLB-store-misses                                           
+
+       1.000642160 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           396,701 dTLB-stores                                                  [96.21%]
+             1,755 dTLB-store-misses                                           
+
+       1.000711949 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           378,432 dTLB-stores                                                  [93.11%]
+             1,429 dTLB-store-misses                                           
+
+       1.000677431 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           495,978 dTLB-stores                                                  [97.81%]
+             1,866 dTLB-store-misses                                           
+
+       1.000717657 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           340,228 dTLB-stores                                                  [93.36%]
+             1,342 dTLB-store-misses                                           
+
+       1.000745714 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           277,819 dTLB-stores                                                  [92.58%]
+             1,033 dTLB-store-misses                                           
+
+       1.000725607 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           419,788 dTLB-stores                                                  [94.73%]
+             1,776 dTLB-store-misses                                           
+
+       1.000707744 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           331,135 dTLB-stores                                                  [94.30%]
+             1,464 dTLB-store-misses                                           
+
+       1.000681915 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           274,708 dTLB-stores                                                  [86.93%]
+             1,063 dTLB-store-misses                                           
+
+       1.000693349 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           320,764 dTLB-stores                                                  [95.44%]
+             1,336 dTLB-store-misses                                           
+
+       1.000731762 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           399,983 dTLB-stores                                                  [89.23%]
+             1,601 dTLB-store-misses                                           
+
+       1.000787313 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           211,245 dTLB-stores                                                  [93.52%]
+               799 dTLB-store-misses                                           
+
+       1.000815844 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           341,422 dTLB-stores                                                  [91.81%]
+             1,488 dTLB-store-misses                                           
+
+       1.000644906 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           365,332 dTLB-stores                                                  [95.97%]
+             1,525 dTLB-store-misses                                           
+
+       1.000705706 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           261,028 dTLB-stores                                                  [90.88%]
+             1,302 dTLB-store-misses                                           
+
+       1.000743814 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           206,921 dTLB-stores                                                  [93.92%]
+               821 dTLB-store-misses                                           
+
+       1.000768118 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           218,155 dTLB-stores                                                  [92.82%]
+             1,064 dTLB-store-misses                                           
+
+       1.000816424 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           223,741 dTLB-stores                                                  [92.46%]
+               603 dTLB-store-misses                                           
+
+       1.000904966 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           480,755 dTLB-stores                                                  [94.19%]
+             1,681 dTLB-store-misses                                           
+
+       1.000661142 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           252,172 dTLB-stores                                                  [93.14%]
+               949 dTLB-store-misses                                           
+
+       1.000790432 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           163,891 dTLB-stores                                                  [91.77%]
+               812 dTLB-store-misses                                           
+
+       1.000772750 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           347,970 dTLB-stores                                                  [93.86%]
+             1,743 dTLB-store-misses                                           
+
+       1.000789602 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           189,782 dTLB-stores                                                  [94.31%]
+               690 dTLB-store-misses                                           
+
+       1.000741606 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           270,077 dTLB-stores                                                  [90.20%]
+               902 dTLB-store-misses                                           
+
+       1.000656068 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           211,902 dTLB-stores                                                  [93.16%]
+               780 dTLB-store-misses                                           
+
+       1.000745427 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           277,835 dTLB-stores                                                  [92.33%]
+               787 dTLB-store-misses                                           
+
+       1.000617785 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           203,619 dTLB-stores                                                  [95.24%]
+               572 dTLB-store-misses                                           
+
+       1.000720366 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           281,721 dTLB-stores                                                  [92.77%]
+               896 dTLB-store-misses                                           
+
+       1.000684900 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           168,517 dTLB-stores                                                  [95.49%]
+               855 dTLB-store-misses                                           
+
+       1.000761183 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           274,946 dTLB-stores                                                  [89.34%]
+               759 dTLB-store-misses                                           
+
+       1.000662651 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           239,947 dTLB-stores                                                  [94.15%]
+               797 dTLB-store-misses                                           
+
+       1.000657729 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           341,361 dTLB-stores                                                  [91.48%]
+             1,299 dTLB-store-misses                                           
+
+       1.000647177 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           205,816 dTLB-stores                                                  [94.94%]
+               678 dTLB-store-misses                                           
+
+       1.000552499 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           224,767 dTLB-stores                                                  [95.28%]
+               851 dTLB-store-misses                                           
+
+       1.000869628 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           252,862 dTLB-stores                                                  [91.40%]
+               808 dTLB-store-misses                                           
+
+       1.000743612 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           224,361 dTLB-stores                                                  [91.13%]
+               605 dTLB-store-misses                                           
+
+       1.000638406 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           256,773 dTLB-stores                                                  [90.70%]
+               846 dTLB-store-misses                                           
+
+       1.000973383 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           199,580 dTLB-stores                                                  [95.21%]
+               764 dTLB-store-misses                                           
+
+       1.000741132 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           164,343 dTLB-stores                                                  [93.51%]
+               653 dTLB-store-misses                                           
+
+       1.000653786 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           242,427 dTLB-stores                                                  [92.54%]
+               792 dTLB-store-misses                                           
+
+       1.000932033 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           278,381 dTLB-stores                                                  [94.41%]
+               988 dTLB-store-misses                                           
+
+       1.000842251 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           258,944 dTLB-stores                                                  [91.07%]
+               831 dTLB-store-misses                                           
+
+       1.000564064 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           229,883 dTLB-stores                                                  [92.56%]
+               776 dTLB-store-misses                                           
+
+       1.000559967 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           151,185 dTLB-stores                                                  [94.07%]
+               781 dTLB-store-misses                                           
+
+       1.000602179 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           275,297 dTLB-stores                                                  [90.03%]
+               951 dTLB-store-misses                                           
+
+       1.000773086 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           244,561 dTLB-stores                                                  [93.81%]
+             1,043 dTLB-store-misses                                           
+
+       1.000685561 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           267,996 dTLB-stores                                                  [91.79%]
+             1,030 dTLB-store-misses                                           
+
+       1.000822480 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           386,050 dTLB-stores                                                  [95.79%]
+             1,062 dTLB-store-misses                                           
+
+       1.000646861 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           242,677 dTLB-stores                                                  [92.80%]
+               611 dTLB-store-misses                                           
+
+       1.000766849 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           211,991 dTLB-stores                                                  [95.80%]
+               567 dTLB-store-misses                                           
+
+       1.000692597 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           272,161 dTLB-stores                                                  [89.74%]
+               706 dTLB-store-misses                                           
+
+       1.000641817 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           205,593 dTLB-stores                                                  [94.90%]
+               541 dTLB-store-misses                                           
+
+       1.000863227 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           322,750 dTLB-stores                                                  [89.93%]
+             1,045 dTLB-store-misses                                           
+
+       1.000613098 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           200,939 dTLB-stores                                                  [93.38%]
+               749 dTLB-store-misses                                           
+
+       1.000851023 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           273,554 dTLB-stores                                                  [92.42%]
+               895 dTLB-store-misses                                           
+
+       1.000737577 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           213,113 dTLB-stores                                                  [94.09%]
+               580 dTLB-store-misses                                           
+
+       1.000845156 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           246,499 dTLB-stores                                                  [92.54%]
+               634 dTLB-store-misses                                           
+
+       1.000700128 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           250,964 dTLB-stores                                                  [93.35%]
+               691 dTLB-store-misses                                           
+
+       1.000632395 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           221,845 dTLB-stores                                                  [95.32%]
+             1,119 dTLB-store-misses                                           
+
+       1.000807567 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           284,681 dTLB-stores                                                  [90.29%]
+             1,002 dTLB-store-misses                                           
+
+       1.000694150 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           248,822 dTLB-stores                                                  [93.84%]
+               784 dTLB-store-misses                                           
+
+       1.000745012 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           285,298 dTLB-stores                                                  [88.53%]
+               931 dTLB-store-misses                                           
+
+       1.000662354 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           413,140 dTLB-stores                                                  [96.56%]
+             1,492 dTLB-store-misses                                           
+
+       1.000646232 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           243,434 dTLB-stores                                                  [93.68%]
+               877 dTLB-store-misses                                           
+
+       1.000760960 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           221,055 dTLB-stores                                                  [92.16%]
+               811 dTLB-store-misses                                           
+
+       1.000649841 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           312,836 dTLB-stores                                                  [93.80%]
+               955 dTLB-store-misses                                            [98.29%]
+
+       1.000708732 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           211,725 dTLB-stores                                                 
+               859 dTLB-store-misses                                           
+
+       1.000666610 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           265,668 dTLB-stores                                                 
+               996 dTLB-store-misses                                           
+
+       1.000871742 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           273,768 dTLB-stores                                                 
+             1,184 dTLB-store-misses                                           
+
+       1.000885785 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           216,128 dTLB-stores                                                 
+               812 dTLB-store-misses                                           
+
+       1.000660542 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           321,381 dTLB-stores                                                 
+             1,220 dTLB-store-misses                                           
+
+       1.000628015 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           211,947 dTLB-stores                                                 
+               757 dTLB-store-misses                                           
+
+       1.000618016 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           301,025 dTLB-stores                                                 
+             1,166 dTLB-store-misses                                           
+
+       1.000622070 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           205,978 dTLB-stores                                                 
+               862 dTLB-store-misses                                           
+
+       1.000679678 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           267,034 dTLB-stores                                                 
+               838 dTLB-store-misses                                           
+
+       1.000706202 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           214,385 dTLB-stores                                                 
+               628 dTLB-store-misses                                           
+
+       1.000783265 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           273,167 dTLB-stores                                                 
+               907 dTLB-store-misses                                           
+
+       1.000710919 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           400,963 dTLB-stores                                                 
+             1,236 dTLB-store-misses                                           
+
+       1.000666963 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           274,713 dTLB-stores                                                 
+               913 dTLB-store-misses                                           
+
+       1.000628058 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           216,711 dTLB-stores                                                 
+               642 dTLB-store-misses                                           
+
+       1.000785207 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           269,964 dTLB-stores                                                 
+               796 dTLB-store-misses                                           
+
+       1.000840820 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           223,386 dTLB-stores                                                 
+               647 dTLB-store-misses                                           
+
+       1.000609914 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           272,118 dTLB-stores                                                 
+               804 dTLB-store-misses                                           
+
+       1.000920002 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           278,133 dTLB-stores                                                 
+               853 dTLB-store-misses                                           
+
+       1.000558072 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           225,392 dTLB-stores                                                 
+               685 dTLB-store-misses                                           
+
+       1.000626902 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           228,906 dTLB-stores                                                 
+               648 dTLB-store-misses                                           
+
+       1.000946825 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           260,231 dTLB-stores                                                 
+               721 dTLB-store-misses                                           
+
+       1.000604340 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           217,808 dTLB-stores                                                 
+               616 dTLB-store-misses                                           
+
+       1.000788581 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           278,013 dTLB-stores                                                 
+               791 dTLB-store-misses                                           
+
+       1.000631264 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           217,752 dTLB-stores                                                 
+               629 dTLB-store-misses                                           
+
+       1.000623299 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           279,319 dTLB-stores                                                 
+               808 dTLB-store-misses                                           
+
+       1.000722524 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           388,108 dTLB-stores                                                 
+             1,050 dTLB-store-misses                                           
+
+       1.000631365 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           282,058 dTLB-stores                                                 
+               888 dTLB-store-misses                                           
+
+       1.000662369 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           217,642 dTLB-stores                                                 
+               617 dTLB-store-misses                                           
+
+       1.000666223 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           256,831 dTLB-stores                                                 
+               708 dTLB-store-misses                                           
+
+       1.000639544 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           230,011 dTLB-stores                                                 
+               710 dTLB-store-misses                                           
+
+       1.000737887 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           261,867 dTLB-stores                                                 
+               792 dTLB-store-misses                                           
+
+       1.000634141 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           222,201 dTLB-stores                                                 
+               697 dTLB-store-misses                                           
+
+       1.000666519 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           282,596 dTLB-stores                                                 
+               845 dTLB-store-misses                                           
+
+       1.000920882 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           217,829 dTLB-stores                                                 
+               628 dTLB-store-misses                                           
+
+       1.000664413 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           274,269 dTLB-stores                                                 
+               789 dTLB-store-misses                                           
+
+       1.000645329 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           215,674 dTLB-stores                                                 
+               585 dTLB-store-misses                                           
+
+       1.000812516 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           268,162 dTLB-stores                                                 
+               799 dTLB-store-misses                                           
+
+       1.000809802 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           215,006 dTLB-stores                                                 
+               644 dTLB-store-misses                                           
+
+       1.000792909 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           264,129 dTLB-stores                                                 
+               727 dTLB-store-misses                                           
+
+       1.000684394 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           231,931 dTLB-stores                                                 
+               632 dTLB-store-misses                                           
+
+       1.000653733 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           473,882 dTLB-stores                                                  [99.95%]
+             1,201 dTLB-store-misses                                           
+
+       1.000690427 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           263,054 dTLB-stores                                                 
+               762 dTLB-store-misses                                           
+
+       1.000754653 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           268,411 dTLB-stores                                                 
+               733 dTLB-store-misses                                           
+
+       1.000592667 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           213,767 dTLB-stores                                                 
+               600 dTLB-store-misses                                           
+
+       1.000876202 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           287,792 dTLB-stores                                                 
+               835 dTLB-store-misses                                           
+
+       1.000876622 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           209,510 dTLB-stores                                                 
+               559 dTLB-store-misses                                           
+
+       1.000586238 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           277,205 dTLB-stores                                                 
+               811 dTLB-store-misses                                           
+
+       1.000588375 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           220,334 dTLB-stores                                                 
+               606 dTLB-store-misses                                           
+
+       1.000687280 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           268,485 dTLB-stores                                                 
+               781 dTLB-store-misses                                           
+
+       1.000600782 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           224,137 dTLB-stores                                                 
+               655 dTLB-store-misses                                           
+
+       1.000649651 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           263,438 dTLB-stores                                                 
+               731 dTLB-store-misses                                           
+
+       1.000660828 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           220,496 dTLB-stores                                                 
+               614 dTLB-store-misses                                           
+
+       1.000684008 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           209,055 dTLB-stores                                                 
+               558 dTLB-store-misses                                           
+
+       1.000619467 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           270,002 dTLB-stores                                                 
+               792 dTLB-store-misses                                           
+
+       1.000612123 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           276,692 dTLB-stores                                                 
+               632 dTLB-store-misses                                           
+
+       1.000679914 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           523,918 dTLB-stores                                                 
+             1,412 dTLB-store-misses                                           
+
+       1.000858687 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           213,687 dTLB-stores                                                 
+               639 dTLB-store-misses                                           
+
+       1.000671885 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           263,634 dTLB-stores                                                 
+               836 dTLB-store-misses                                           
+
+       1.000891864 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           257,208 dTLB-stores                                                 
+               770 dTLB-store-misses                                           
+
+       1.000885387 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           269,261 dTLB-stores                                                 
+               810 dTLB-store-misses                                           
+
+       1.000940925 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        46,272,126 dTLB-stores                                                 
+           100,192 dTLB-store-misses                                           
+
+       1.000802075 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       305,243,634 dTLB-stores                                                  [100.00%]
+           554,415 dTLB-store-misses                                           
+
+       1.000644130 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       263,160,611 dTLB-stores                                                  [100.00%]
+           523,784 dTLB-store-misses                                           
+
+       1.000679763 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           230,817 dTLB-stores                                                 
+               877 dTLB-store-misses                                           
+
+       1.000690438 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           247,519 dTLB-stores                                                 
+               942 dTLB-store-misses                                           
+
+       1.000730893 seconds time elapsed
+

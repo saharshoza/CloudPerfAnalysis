@@ -1,0 +1,3208 @@
+
+ Performance counter stats for process id '62213':
+
+       563,381,717 dTLB-stores                                                  [99.97%]
+           242,585 dTLB-store-misses                                            [99.97%]
+
+       1.000652639 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       562,841,341 dTLB-stores                                                  [100.00%]
+           249,220 dTLB-store-misses                                           
+
+       1.000663050 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         7,450,510 dTLB-stores                                                  [99.99%]
+             5,120 dTLB-store-misses                                           
+
+       1.000709362 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           228,178 dTLB-stores                                                 
+               706 dTLB-store-misses                                           
+
+       1.000703589 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           408,328 dTLB-stores                                                 
+             1,491 dTLB-store-misses                                           
+
+       1.000657580 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           232,246 dTLB-stores                                                 
+               745 dTLB-store-misses                                           
+
+       1.000701403 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,687 dTLB-stores                                                 
+               975 dTLB-store-misses                                           
+
+       1.000655361 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           247,578 dTLB-stores                                                 
+               825 dTLB-store-misses                                           
+
+       1.000716277 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           269,481 dTLB-stores                                                 
+               944 dTLB-store-misses                                           
+
+       1.000839663 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           253,207 dTLB-stores                                                 
+               825 dTLB-store-misses                                           
+
+       1.000702359 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       189,954,170 dTLB-stores                                                 
+            88,175 dTLB-store-misses                                           
+
+       1.000702680 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           297,530 dTLB-stores                                                 
+             1,043 dTLB-store-misses                                           
+
+       1.014741006 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         1,264,274 dTLB-stores                                                 
+             3,871 dTLB-store-misses                                           
+
+       1.000723633 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           249,824 dTLB-stores                                                 
+               813 dTLB-store-misses                                           
+
+       1.000828240 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           325,121 dTLB-stores                                                 
+             1,242 dTLB-store-misses                                           
+
+       1.000618510 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           333,209 dTLB-stores                                                 
+             1,096 dTLB-store-misses                                           
+
+       1.000634260 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,791 dTLB-stores                                                 
+               979 dTLB-store-misses                                           
+
+       1.000764395 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,636 dTLB-stores                                                 
+             1,002 dTLB-store-misses                                           
+
+       1.000608327 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           365,111 dTLB-stores                                                 
+             1,511 dTLB-store-misses                                           
+
+       1.000607555 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,134 dTLB-stores                                                 
+             1,070 dTLB-store-misses                                           
+
+       1.000726214 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,861 dTLB-stores                                                 
+             1,080 dTLB-store-misses                                           
+
+       1.000746734 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           278,268 dTLB-stores                                                 
+             1,077 dTLB-store-misses                                           
+
+       1.000692221 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,448 dTLB-stores                                                 
+             1,043 dTLB-store-misses                                           
+
+       1.000654565 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,048 dTLB-stores                                                 
+               985 dTLB-store-misses                                           
+
+       1.000632619 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           283,797 dTLB-stores                                                 
+               982 dTLB-store-misses                                           
+
+       1.000614469 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,895 dTLB-stores                                                 
+               944 dTLB-store-misses                                           
+
+       1.000607953 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           287,888 dTLB-stores                                                 
+               989 dTLB-store-misses                                           
+
+       1.000602888 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,058 dTLB-stores                                                 
+             1,054 dTLB-store-misses                                           
+
+       1.000640042 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,599 dTLB-stores                                                 
+             1,002 dTLB-store-misses                                           
+
+       1.000686094 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,191 dTLB-stores                                                 
+               830 dTLB-store-misses                                           
+
+       1.000532467 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           328,545 dTLB-stores                                                 
+             1,079 dTLB-store-misses                                           
+
+       1.000608644 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,198 dTLB-stores                                                 
+               868 dTLB-store-misses                                           
+
+       1.000597355 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           297,351 dTLB-stores                                                 
+               988 dTLB-store-misses                                           
+
+       1.000596602 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           375,933 dTLB-stores                                                 
+             1,317 dTLB-store-misses                                           
+
+       1.000670282 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,920 dTLB-stores                                                 
+             1,141 dTLB-store-misses                                           
+
+       1.000680207 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,303 dTLB-stores                                                 
+               940 dTLB-store-misses                                           
+
+       1.000649747 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,336 dTLB-stores                                                 
+             1,134 dTLB-store-misses                                           
+
+       1.000636862 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           244,675 dTLB-stores                                                 
+               912 dTLB-store-misses                                           
+
+       1.000974523 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           328,198 dTLB-stores                                                 
+             1,067 dTLB-store-misses                                           
+
+       1.000651072 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,164 dTLB-stores                                                 
+               798 dTLB-store-misses                                           
+
+       1.000658360 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           319,478 dTLB-stores                                                 
+             1,030 dTLB-store-misses                                           
+
+       1.000650273 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,218 dTLB-stores                                                 
+               839 dTLB-store-misses                                           
+
+       1.000659819 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,191 dTLB-stores                                                 
+             1,141 dTLB-store-misses                                           
+
+       1.000694907 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           261,914 dTLB-stores                                                 
+               847 dTLB-store-misses                                           
+
+       1.000676303 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           317,296 dTLB-stores                                                 
+             1,179 dTLB-store-misses                                           
+
+       1.000636487 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,589 dTLB-stores                                                 
+               862 dTLB-store-misses                                           
+
+       1.000644271 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           307,157 dTLB-stores                                                 
+             1,008 dTLB-store-misses                                           
+
+       1.000655174 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           272,917 dTLB-stores                                                 
+               887 dTLB-store-misses                                           
+
+       1.000626469 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           388,316 dTLB-stores                                                 
+             1,319 dTLB-store-misses                                           
+
+       1.000616309 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,476 dTLB-stores                                                 
+               898 dTLB-store-misses                                           
+
+       1.000658421 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,433 dTLB-stores                                                 
+             1,004 dTLB-store-misses                                           
+
+       1.000630234 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           283,958 dTLB-stores                                                 
+               974 dTLB-store-misses                                           
+
+       1.000637796 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           302,073 dTLB-stores                                                 
+               966 dTLB-store-misses                                           
+
+       1.000644925 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,217 dTLB-stores                                                 
+               928 dTLB-store-misses                                           
+
+       1.000671751 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,753 dTLB-stores                                                 
+               879 dTLB-store-misses                                           
+
+       1.000667397 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,743 dTLB-stores                                                 
+               950 dTLB-store-misses                                           
+
+       1.000633006 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,710 dTLB-stores                                                 
+               986 dTLB-store-misses                                           
+
+       1.000685865 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,341 dTLB-stores                                                 
+               992 dTLB-store-misses                                           
+
+       1.000627280 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,124 dTLB-stores                                                 
+               937 dTLB-store-misses                                           
+
+       1.000640926 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,503 dTLB-stores                                                 
+               805 dTLB-store-misses                                           
+
+       1.000568771 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,297 dTLB-stores                                                 
+             1,033 dTLB-store-misses                                           
+
+       1.000644549 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,855 dTLB-stores                                                 
+               947 dTLB-store-misses                                           
+
+       1.000638577 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,939 dTLB-stores                                                 
+               989 dTLB-store-misses                                           
+
+       1.000624553 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           382,719 dTLB-stores                                                 
+             1,432 dTLB-store-misses                                           
+
+       1.000651672 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,188 dTLB-stores                                                 
+               963 dTLB-store-misses                                           
+
+       1.000690561 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,870 dTLB-stores                                                 
+               901 dTLB-store-misses                                           
+
+       1.000605542 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,876 dTLB-stores                                                 
+               944 dTLB-store-misses                                           
+
+       1.000568702 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           352,167 dTLB-stores                                                 
+             1,348 dTLB-store-misses                                           
+
+       1.000698756 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,870 dTLB-stores                                                 
+               907 dTLB-store-misses                                           
+
+       1.000640265 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,360 dTLB-stores                                                 
+               912 dTLB-store-misses                                           
+
+       1.000624939 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,184 dTLB-stores                                                 
+               990 dTLB-store-misses                                           
+
+       1.000654337 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,407 dTLB-stores                                                 
+               935 dTLB-store-misses                                           
+
+       1.000727308 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           305,828 dTLB-stores                                                 
+             1,096 dTLB-store-misses                                           
+
+       1.000616544 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           364,482 dTLB-stores                                                 
+             1,489 dTLB-store-misses                                           
+
+       1.000640387 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,646 dTLB-stores                                                 
+               940 dTLB-store-misses                                           
+
+       1.000639119 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           311,776 dTLB-stores                                                 
+             1,088 dTLB-store-misses                                           
+
+       1.000705460 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,887 dTLB-stores                                                 
+               951 dTLB-store-misses                                           
+
+       1.000638295 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           310,529 dTLB-stores                                                 
+             1,172 dTLB-store-misses                                           
+
+       1.000637011 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           370,841 dTLB-stores                                                 
+             1,400 dTLB-store-misses                                           
+
+       1.000674048 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,300 dTLB-stores                                                 
+             1,090 dTLB-store-misses                                           
+
+       1.000591230 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           256,346 dTLB-stores                                                 
+               869 dTLB-store-misses                                           
+
+       1.000630752 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           302,972 dTLB-stores                                                 
+             1,024 dTLB-store-misses                                           
+
+       1.000587459 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,090 dTLB-stores                                                 
+               943 dTLB-store-misses                                           
+
+       1.000669036 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           298,958 dTLB-stores                                                 
+             1,090 dTLB-store-misses                                           
+
+       1.000646740 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           246,279 dTLB-stores                                                 
+               789 dTLB-store-misses                                           
+
+       1.000635571 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           403,778 dTLB-stores                                                 
+             1,279 dTLB-store-misses                                           
+
+       1.000667385 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,139 dTLB-stores                                                 
+             1,009 dTLB-store-misses                                           
+
+       1.000697755 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           383,054 dTLB-stores                                                 
+             1,298 dTLB-store-misses                                           
+
+       1.000738980 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           299,338 dTLB-stores                                                 
+               931 dTLB-store-misses                                           
+
+       1.000702463 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           371,824 dTLB-stores                                                 
+             1,341 dTLB-store-misses                                           
+
+       1.000737862 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,249 dTLB-stores                                                 
+             1,045 dTLB-store-misses                                           
+
+       1.000639449 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           344,420 dTLB-stores                                                 
+             1,036 dTLB-store-misses                                           
+
+       1.000573730 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           318,182 dTLB-stores                                                 
+             1,087 dTLB-store-misses                                           
+
+       1.000603471 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           476,164 dTLB-stores                                                 
+             1,559 dTLB-store-misses                                           
+
+       1.000591983 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,959 dTLB-stores                                                 
+             1,025 dTLB-store-misses                                           
+
+       1.000613084 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           347,458 dTLB-stores                                                 
+             1,091 dTLB-store-misses                                           
+
+       1.000645911 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           355,683 dTLB-stores                                                 
+             1,096 dTLB-store-misses                                           
+
+       1.000630843 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           341,196 dTLB-stores                                                 
+             1,151 dTLB-store-misses                                           
+
+       1.000726884 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           311,785 dTLB-stores                                                 
+               998 dTLB-store-misses                                           
+
+       1.000709908 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           351,666 dTLB-stores                                                 
+             1,076 dTLB-store-misses                                           
+
+       1.000644249 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           332,919 dTLB-stores                                                 
+             1,148 dTLB-store-misses                                           
+
+       1.000698699 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,988 dTLB-stores                                                 
+             1,160 dTLB-store-misses                                           
+
+       1.000641466 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           338,620 dTLB-stores                                                 
+             1,056 dTLB-store-misses                                           
+
+       1.000653389 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           317,143 dTLB-stores                                                 
+             1,148 dTLB-store-misses                                           
+
+       1.000699947 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,479 dTLB-stores                                                 
+               953 dTLB-store-misses                                           
+
+       1.000725709 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,013 dTLB-stores                                                 
+             1,001 dTLB-store-misses                                           
+
+       1.000750506 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           299,923 dTLB-stores                                                 
+             1,004 dTLB-store-misses                                           
+
+       1.000640208 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,816 dTLB-stores                                                 
+             1,004 dTLB-store-misses                                           
+
+       1.000653548 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           396,055 dTLB-stores                                                 
+             1,382 dTLB-store-misses                                           
+
+       1.000570666 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,496 dTLB-stores                                                 
+             1,068 dTLB-store-misses                                           
+
+       1.000717530 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,704 dTLB-stores                                                 
+               966 dTLB-store-misses                                           
+
+       1.000629482 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,032 dTLB-stores                                                 
+               980 dTLB-store-misses                                           
+
+       1.000695332 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           287,034 dTLB-stores                                                 
+             1,032 dTLB-store-misses                                           
+
+       1.000642698 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,353 dTLB-stores                                                 
+             1,025 dTLB-store-misses                                           
+
+       1.000655866 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,912 dTLB-stores                                                 
+               838 dTLB-store-misses                                           
+
+       1.000566282 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           387,826 dTLB-stores                                                 
+             1,039 dTLB-store-misses                                           
+
+       1.000634452 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,317 dTLB-stores                                                 
+             1,045 dTLB-store-misses                                           
+
+       1.000642255 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,222 dTLB-stores                                                 
+               954 dTLB-store-misses                                           
+
+       1.000662356 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,975 dTLB-stores                                                 
+               989 dTLB-store-misses                                           
+
+       1.000581579 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           246,062 dTLB-stores                                                 
+               815 dTLB-store-misses                                           
+
+       1.000637726 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           311,716 dTLB-stores                                                 
+             1,084 dTLB-store-misses                                           
+
+       1.000649434 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,713 dTLB-stores                                                 
+               866 dTLB-store-misses                                           
+
+       1.000701074 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           309,953 dTLB-stores                                                 
+             1,051 dTLB-store-misses                                           
+
+       1.000642514 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           375,371 dTLB-stores                                                 
+             1,381 dTLB-store-misses                                           
+
+       1.000629186 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           303,950 dTLB-stores                                                 
+             1,090 dTLB-store-misses                                           
+
+       1.000697581 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,756 dTLB-stores                                                 
+               927 dTLB-store-misses                                           
+
+       1.000639971 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,470 dTLB-stores                                                 
+               987 dTLB-store-misses                                           
+
+       1.000631355 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,490 dTLB-stores                                                 
+               898 dTLB-store-misses                                           
+
+       1.000649540 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,152 dTLB-stores                                                 
+             1,105 dTLB-store-misses                                           
+
+       1.000623682 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,512 dTLB-stores                                                 
+               925 dTLB-store-misses                                           
+
+       1.000683744 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           305,349 dTLB-stores                                                 
+             1,144 dTLB-store-misses                                           
+
+       1.000850927 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,529 dTLB-stores                                                 
+             1,065 dTLB-store-misses                                           
+
+       1.000597314 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,211 dTLB-stores                                                 
+             1,116 dTLB-store-misses                                           
+
+       1.000636622 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           343,386 dTLB-stores                                                 
+             1,393 dTLB-store-misses                                           
+
+       1.000617634 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           299,884 dTLB-stores                                                 
+             1,087 dTLB-store-misses                                           
+
+       1.000714693 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           288,025 dTLB-stores                                                 
+             1,047 dTLB-store-misses                                           
+
+       1.000650719 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,022 dTLB-stores                                                 
+             1,009 dTLB-store-misses                                           
+
+       1.000678573 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,464 dTLB-stores                                                 
+               922 dTLB-store-misses                                           
+
+       1.000574149 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           439,111 dTLB-stores                                                 
+             1,369 dTLB-store-misses                                           
+
+       1.000591408 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,079 dTLB-stores                                                 
+             1,018 dTLB-store-misses                                           
+
+       1.000621152 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,034 dTLB-stores                                                 
+               915 dTLB-store-misses                                           
+
+       1.000693648 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           318,105 dTLB-stores                                                 
+             1,012 dTLB-store-misses                                           
+
+       1.000624506 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           410,150 dTLB-stores                                                 
+             1,255 dTLB-store-misses                                           
+
+       1.000624362 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,201 dTLB-stores                                                 
+               979 dTLB-store-misses                                           
+
+       1.000542797 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,671 dTLB-stores                                                 
+               825 dTLB-store-misses                                           
+
+       1.000627226 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           311,624 dTLB-stores                                                 
+             1,114 dTLB-store-misses                                           
+
+       1.000681848 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,816 dTLB-stores                                                 
+               786 dTLB-store-misses                                           
+
+       1.000570267 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           325,083 dTLB-stores                                                 
+             1,010 dTLB-store-misses                                           
+
+       1.000663009 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,380 dTLB-stores                                                 
+               820 dTLB-store-misses                                           
+
+       1.000619611 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,504 dTLB-stores                                                 
+               927 dTLB-store-misses                                           
+
+       1.000539453 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,174 dTLB-stores                                                 
+             1,035 dTLB-store-misses                                           
+
+       1.000664164 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,829 dTLB-stores                                                 
+               926 dTLB-store-misses                                           
+
+       1.000660510 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           405,509 dTLB-stores                                                 
+             1,471 dTLB-store-misses                                           
+
+       1.000578442 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,103 dTLB-stores                                                 
+               935 dTLB-store-misses                                           
+
+       1.000555550 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           261,344 dTLB-stores                                                 
+               809 dTLB-store-misses                                           
+
+       1.000584619 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,044 dTLB-stores                                                 
+             1,011 dTLB-store-misses                                           
+
+       1.000629156 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,345 dTLB-stores                                                 
+               893 dTLB-store-misses                                           
+
+       1.000550318 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,681 dTLB-stores                                                 
+               999 dTLB-store-misses                                           
+
+       1.000641020 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,229 dTLB-stores                                                 
+               927 dTLB-store-misses                                           
+
+       1.000640212 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,770 dTLB-stores                                                 
+             1,086 dTLB-store-misses                                           
+
+       1.000673590 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,083 dTLB-stores                                                 
+               951 dTLB-store-misses                                           
+
+       1.000565912 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,923 dTLB-stores                                                 
+               931 dTLB-store-misses                                           
+
+       1.000639065 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,170 dTLB-stores                                                 
+             1,034 dTLB-store-misses                                           
+
+       1.000752047 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           275,726 dTLB-stores                                                 
+               927 dTLB-store-misses                                           
+
+       1.000672377 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,417 dTLB-stores                                                 
+               897 dTLB-store-misses                                           
+
+       1.000712396 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,918 dTLB-stores                                                 
+               988 dTLB-store-misses                                           
+
+       1.000623087 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,120 dTLB-stores                                                 
+               902 dTLB-store-misses                                           
+
+       1.000625076 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           423,607 dTLB-stores                                                 
+             1,468 dTLB-store-misses                                           
+
+       1.000641025 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           254,887 dTLB-stores                                                 
+               857 dTLB-store-misses                                           
+
+       1.000625364 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,349 dTLB-stores                                                 
+               952 dTLB-store-misses                                           
+
+       1.000535420 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,241 dTLB-stores                                                 
+               949 dTLB-store-misses                                           
+
+       1.000738371 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           247,452 dTLB-stores                                                 
+               802 dTLB-store-misses                                           
+
+       1.000558252 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           303,696 dTLB-stores                                                 
+             1,016 dTLB-store-misses                                           
+
+       1.000649953 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,529 dTLB-stores                                                 
+               827 dTLB-store-misses                                           
+
+       1.000692591 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,327 dTLB-stores                                                 
+               927 dTLB-store-misses                                           
+
+       1.000622301 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           272,843 dTLB-stores                                                 
+               953 dTLB-store-misses                                           
+
+       1.000735990 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           318,818 dTLB-stores                                                 
+               968 dTLB-store-misses                                           
+
+       1.000559509 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           234,205 dTLB-stores                                                 
+               718 dTLB-store-misses                                           
+
+       1.000568942 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           314,601 dTLB-stores                                                 
+               977 dTLB-store-misses                                           
+
+       1.000542318 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           244,807 dTLB-stores                                                 
+               814 dTLB-store-misses                                           
+
+       1.000738664 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           312,326 dTLB-stores                                                 
+             1,066 dTLB-store-misses                                           
+
+       1.000641085 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,393 dTLB-stores                                                 
+               980 dTLB-store-misses                                           
+
+       1.000748546 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           418,747 dTLB-stores                                                 
+             1,597 dTLB-store-misses                                           
+
+       1.000652711 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           232,782 dTLB-stores                                                 
+               855 dTLB-store-misses                                           
+
+       1.000705721 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,659 dTLB-stores                                                 
+               897 dTLB-store-misses                                           
+
+       1.000770660 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           278,450 dTLB-stores                                                 
+               906 dTLB-store-misses                                           
+
+       1.000658481 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,853 dTLB-stores                                                 
+               836 dTLB-store-misses                                           
+
+       1.000935685 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           243,006 dTLB-stores                                                 
+               932 dTLB-store-misses                                           
+
+       1.000646815 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           261,962 dTLB-stores                                                 
+               990 dTLB-store-misses                                           
+
+       1.000710942 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,139 dTLB-stores                                                 
+               801 dTLB-store-misses                                           
+
+       1.000723221 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           257,053 dTLB-stores                                                 
+             1,007 dTLB-store-misses                                           
+
+       1.000673172 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           254,080 dTLB-stores                                                 
+               766 dTLB-store-misses                                           
+
+       1.000751468 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           350,363 dTLB-stores                                                 
+             1,530 dTLB-store-misses                                           
+
+       1.000886534 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,357 dTLB-stores                                                 
+             1,115 dTLB-store-misses                                           
+
+       1.000679508 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           229,393 dTLB-stores                                                 
+               792 dTLB-store-misses                                           
+
+       1.000680028 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,358 dTLB-stores                                                 
+               804 dTLB-store-misses                                           
+
+       1.000677875 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,705 dTLB-stores                                                 
+               869 dTLB-store-misses                                           
+
+       1.000944673 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           367,862 dTLB-stores                                                 
+             1,260 dTLB-store-misses                                           
+
+       1.000726128 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           298,916 dTLB-stores                                                 
+               954 dTLB-store-misses                                           
+
+       1.000778726 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,882 dTLB-stores                                                 
+               949 dTLB-store-misses                                           
+
+       1.000701995 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,416 dTLB-stores                                                 
+               819 dTLB-store-misses                                           
+
+       1.000578619 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,634 dTLB-stores                                                 
+               760 dTLB-store-misses                                           
+
+       1.000679749 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           251,764 dTLB-stores                                                 
+               810 dTLB-store-misses                                           
+
+       1.000779625 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           257,862 dTLB-stores                                                 
+               834 dTLB-store-misses                                           
+
+       1.000632276 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,371 dTLB-stores                                                 
+               800 dTLB-store-misses                                           
+
+       1.000663999 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,355 dTLB-stores                                                 
+               879 dTLB-store-misses                                           
+
+       1.000544699 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,440 dTLB-stores                                                 
+               996 dTLB-store-misses                                           
+
+       1.000602586 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           215,155 dTLB-stores                                                 
+               780 dTLB-store-misses                                           
+
+       1.000851185 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,911 dTLB-stores                                                 
+               941 dTLB-store-misses                                           
+
+       1.000650669 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,651 dTLB-stores                                                 
+               978 dTLB-store-misses                                           
+
+       1.000632242 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,750 dTLB-stores                                                 
+               915 dTLB-store-misses                                           
+
+       1.000662012 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,953 dTLB-stores                                                 
+               845 dTLB-store-misses                                           
+
+       1.000813893 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           334,891 dTLB-stores                                                 
+             1,215 dTLB-store-misses                                           
+
+       1.000714367 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           287,520 dTLB-stores                                                 
+               902 dTLB-store-misses                                           
+
+       1.000865015 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           272,562 dTLB-stores                                                 
+               835 dTLB-store-misses                                           
+
+       1.000666090 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           241,967 dTLB-stores                                                 
+               843 dTLB-store-misses                                           
+
+       1.000684728 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           280,447 dTLB-stores                                                 
+               839 dTLB-store-misses                                           
+
+       1.000630117 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           244,019 dTLB-stores                                                 
+               768 dTLB-store-misses                                           
+
+       1.000729020 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,042 dTLB-stores                                                 
+               909 dTLB-store-misses                                           
+
+       1.000768431 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           233,980 dTLB-stores                                                 
+               682 dTLB-store-misses                                           
+
+       1.000634441 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,350 dTLB-stores                                                 
+               770 dTLB-store-misses                                           
+
+       1.000875439 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,332 dTLB-stores                                                 
+               910 dTLB-store-misses                                           
+
+       1.000671674 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           261,620 dTLB-stores                                                 
+               939 dTLB-store-misses                                           
+
+       1.000552670 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           240,871 dTLB-stores                                                 
+               815 dTLB-store-misses                                           
+
+       1.000692001 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,322 dTLB-stores                                                 
+               839 dTLB-store-misses                                           
+
+       1.000879130 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,101 dTLB-stores                                                 
+               890 dTLB-store-misses                                           
+
+       1.000629828 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           374,173 dTLB-stores                                                 
+             1,374 dTLB-store-misses                                           
+
+       1.000668320 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           256,924 dTLB-stores                                                 
+               797 dTLB-store-misses                                           
+
+       1.000564078 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,253 dTLB-stores                                                 
+               875 dTLB-store-misses                                           
+
+       1.000905806 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,057 dTLB-stores                                                 
+               782 dTLB-store-misses                                           
+
+       1.000670571 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,189 dTLB-stores                                                 
+               956 dTLB-store-misses                                           
+
+       1.000686725 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,284 dTLB-stores                                                 
+               851 dTLB-store-misses                                           
+
+       1.000642877 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           249,187 dTLB-stores                                                 
+               734 dTLB-store-misses                                           
+
+       1.000930126 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,169 dTLB-stores                                                 
+             1,006 dTLB-store-misses                                           
+
+       1.000738144 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           233,356 dTLB-stores                                                 
+               661 dTLB-store-misses                                           
+
+       1.000769182 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           275,414 dTLB-stores                                                 
+               944 dTLB-store-misses                                           
+
+       1.000718091 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,662 dTLB-stores                                                 
+               885 dTLB-store-misses                                           
+
+       1.000641882 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           241,229 dTLB-stores                                                 
+               832 dTLB-store-misses                                           
+
+       1.000855460 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,304 dTLB-stores                                                 
+               991 dTLB-store-misses                                           
+
+       1.000735979 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,037 dTLB-stores                                                 
+               764 dTLB-store-misses                                           
+
+       1.000780938 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           240,401 dTLB-stores                                                 
+               738 dTLB-store-misses                                           
+
+       1.000586913 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           416,559 dTLB-stores                                                 
+             1,385 dTLB-store-misses                                           
+
+       1.000739361 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           248,994 dTLB-stores                                                 
+               962 dTLB-store-misses                                           
+
+       1.000691841 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,240 dTLB-stores                                                 
+             1,015 dTLB-store-misses                                           
+
+       1.000649346 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           233,948 dTLB-stores                                                 
+               759 dTLB-store-misses                                           
+
+       1.000930440 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,176 dTLB-stores                                                 
+               979 dTLB-store-misses                                           
+
+       1.000785792 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           269,353 dTLB-stores                                                 
+               831 dTLB-store-misses                                           
+
+       1.000874554 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,609 dTLB-stores                                                 
+               995 dTLB-store-misses                                           
+
+       1.000737797 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           251,755 dTLB-stores                                                 
+               793 dTLB-store-misses                                           
+
+       1.000719134 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           283,982 dTLB-stores                                                 
+             1,109 dTLB-store-misses                                           
+
+       1.000712732 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,800 dTLB-stores                                                 
+               885 dTLB-store-misses                                           
+
+       1.000555782 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,242 dTLB-stores                                                 
+             1,439 dTLB-store-misses                                           
+
+       1.000619396 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,630 dTLB-stores                                                 
+             1,124 dTLB-store-misses                                           
+
+       1.000706670 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,657 dTLB-stores                                                 
+             1,076 dTLB-store-misses                                           
+
+       1.000645033 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,381 dTLB-stores                                                 
+               786 dTLB-store-misses                                           
+
+       1.000617384 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           365,765 dTLB-stores                                                 
+             1,157 dTLB-store-misses                                           
+
+       1.000652126 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,886 dTLB-stores                                                 
+             1,090 dTLB-store-misses                                           
+
+       1.000716759 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,455 dTLB-stores                                                 
+               871 dTLB-store-misses                                           
+
+       1.000633673 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,652 dTLB-stores                                                 
+               919 dTLB-store-misses                                           
+
+       1.000659764 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           253,760 dTLB-stores                                                 
+               827 dTLB-store-misses                                           
+
+       1.000649776 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,776 dTLB-stores                                                 
+               873 dTLB-store-misses                                           
+
+       1.000640581 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           251,826 dTLB-stores                                                 
+               860 dTLB-store-misses                                           
+
+       1.000618399 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,681 dTLB-stores                                                 
+               869 dTLB-store-misses                                           
+
+       1.000677878 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,586 dTLB-stores                                                 
+               955 dTLB-store-misses                                           
+
+       1.000759087 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           283,643 dTLB-stores                                                 
+               877 dTLB-store-misses                                           
+
+       1.000784483 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           254,779 dTLB-stores                                                 
+               928 dTLB-store-misses                                           
+
+       1.000667058 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,715 dTLB-stores                                                 
+               937 dTLB-store-misses                                           
+
+       1.000817852 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,678 dTLB-stores                                                 
+               808 dTLB-store-misses                                           
+
+       1.001010957 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           240,607 dTLB-stores                                                 
+               831 dTLB-store-misses                                           
+
+       1.000643425 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           256,806 dTLB-stores                                                 
+               787 dTLB-store-misses                                           
+
+       1.000609843 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           417,668 dTLB-stores                                                 
+             1,516 dTLB-store-misses                                           
+
+       1.000651688 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,281 dTLB-stores                                                 
+               898 dTLB-store-misses                                           
+
+       1.000625945 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,752 dTLB-stores                                                 
+               798 dTLB-store-misses                                           
+
+       1.000666752 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           233,634 dTLB-stores                                                 
+               844 dTLB-store-misses                                           
+
+       1.000617970 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,270 dTLB-stores                                                 
+               860 dTLB-store-misses                                           
+
+       1.000799721 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           227,559 dTLB-stores                                                 
+               689 dTLB-store-misses                                           
+
+       1.000725157 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           331,890 dTLB-stores                                                 
+             1,052 dTLB-store-misses                                           
+
+       1.000614931 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           234,361 dTLB-stores                                                 
+               839 dTLB-store-misses                                           
+
+       1.000609955 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           334,865 dTLB-stores                                                 
+             1,168 dTLB-store-misses                                           
+
+       1.000650929 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           234,124 dTLB-stores                                                 
+               788 dTLB-store-misses                                           
+
+       1.000638067 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,402 dTLB-stores                                                 
+             1,102 dTLB-store-misses                                           
+
+       1.000765816 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           257,889 dTLB-stores                                                 
+               857 dTLB-store-misses                                           
+
+       1.000646713 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,367 dTLB-stores                                                 
+               848 dTLB-store-misses                                           
+
+       1.000808308 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,435 dTLB-stores                                                 
+               995 dTLB-store-misses                                           
+
+       1.000669977 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,023 dTLB-stores                                                 
+               969 dTLB-store-misses                                           
+
+       1.000751207 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,264 dTLB-stores                                                 
+               823 dTLB-store-misses                                           
+
+       1.000690473 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,838 dTLB-stores                                                 
+             1,100 dTLB-store-misses                                           
+
+       1.000640393 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,643 dTLB-stores                                                 
+               867 dTLB-store-misses                                           
+
+       1.000606870 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,350 dTLB-stores                                                 
+             1,067 dTLB-store-misses                                           
+
+       1.000682033 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           261,381 dTLB-stores                                                 
+               929 dTLB-store-misses                                           
+
+       1.000571965 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,281 dTLB-stores                                                 
+             1,013 dTLB-store-misses                                           
+
+       1.000679721 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           253,793 dTLB-stores                                                 
+               809 dTLB-store-misses                                           
+
+       1.000898514 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,741 dTLB-stores                                                 
+               993 dTLB-store-misses                                           
+
+       1.000644891 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,554 dTLB-stores                                                 
+               930 dTLB-store-misses                                           
+
+       1.000686068 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,352 dTLB-stores                                                 
+             1,080 dTLB-store-misses                                           
+
+       1.000766696 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           257,213 dTLB-stores                                                 
+               938 dTLB-store-misses                                           
+
+       1.000636988 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,459 dTLB-stores                                                 
+             1,090 dTLB-store-misses                                           
+
+       1.000675437 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,391 dTLB-stores                                                 
+               981 dTLB-store-misses                                           
+
+       1.000623438 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,359 dTLB-stores                                                 
+               875 dTLB-store-misses                                           
+
+       1.000640724 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           363,336 dTLB-stores                                                 
+             1,305 dTLB-store-misses                                           
+
+       1.000731588 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,025 dTLB-stores                                                 
+             1,043 dTLB-store-misses                                           
+
+       1.000629900 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,383 dTLB-stores                                                 
+               965 dTLB-store-misses                                           
+
+       1.000641094 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,625 dTLB-stores                                                 
+             1,083 dTLB-store-misses                                           
+
+       1.000626357 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,811 dTLB-stores                                                 
+               902 dTLB-store-misses                                           
+
+       1.000646637 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           249,936 dTLB-stores                                                 
+               994 dTLB-store-misses                                           
+
+       1.000677787 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,493 dTLB-stores                                                 
+               887 dTLB-store-misses                                           
+
+       1.000956830 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,066 dTLB-stores                                                 
+               898 dTLB-store-misses                                           
+
+       1.000604727 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           299,693 dTLB-stores                                                 
+             1,128 dTLB-store-misses                                           
+
+       1.000696809 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,746 dTLB-stores                                                 
+             1,008 dTLB-store-misses                                           
+
+       1.000625905 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           567,609 dTLB-stores                                                 
+             2,679 dTLB-store-misses                                           
+
+       1.000637789 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,269 dTLB-stores                                                 
+               833 dTLB-store-misses                                           
+
+       1.000597959 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,542 dTLB-stores                                                 
+             1,022 dTLB-store-misses                                           
+
+       1.000659053 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,284 dTLB-stores                                                 
+               885 dTLB-store-misses                                           
+
+       1.000650541 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,468 dTLB-stores                                                 
+               851 dTLB-store-misses                                           
+
+       1.000763377 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           367,380 dTLB-stores                                                 
+             1,194 dTLB-store-misses                                           
+
+       1.000675547 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,780 dTLB-stores                                                 
+             1,060 dTLB-store-misses                                           
+
+       1.000648263 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,614 dTLB-stores                                                 
+             1,001 dTLB-store-misses                                           
+
+       1.000616658 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,864 dTLB-stores                                                 
+             1,003 dTLB-store-misses                                           
+
+       1.000641141 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,453 dTLB-stores                                                 
+               963 dTLB-store-misses                                           
+
+       1.000668225 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           326,112 dTLB-stores                                                 
+             1,213 dTLB-store-misses                                           
+
+       1.000685266 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,970 dTLB-stores                                                 
+             1,025 dTLB-store-misses                                           
+
+       1.000637567 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           243,950 dTLB-stores                                                 
+               688 dTLB-store-misses                                           
+
+       1.000800503 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           287,827 dTLB-stores                                                 
+               869 dTLB-store-misses                                           
+
+       1.000763265 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,073 dTLB-stores                                                 
+               873 dTLB-store-misses                                           
+
+       1.000683920 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,431 dTLB-stores                                                 
+             1,086 dTLB-store-misses                                           
+
+       1.000573983 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           245,112 dTLB-stores                                                 
+               817 dTLB-store-misses                                           
+
+       1.000729296 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           296,433 dTLB-stores                                                 
+             1,149 dTLB-store-misses                                           
+
+       1.000649954 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,326 dTLB-stores                                                 
+               963 dTLB-store-misses                                           
+
+       1.000660496 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           411,889 dTLB-stores                                                 
+             1,546 dTLB-store-misses                                           
+
+       1.000725446 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,183 dTLB-stores                                                 
+               957 dTLB-store-misses                                           
+
+       1.000643645 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           256,798 dTLB-stores                                                 
+               800 dTLB-store-misses                                           
+
+       1.000724343 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           246,526 dTLB-stores                                                 
+               988 dTLB-store-misses                                           
+
+       1.000693218 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,906 dTLB-stores                                                 
+               800 dTLB-store-misses                                           
+
+       1.000641613 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,751 dTLB-stores                                                 
+             1,005 dTLB-store-misses                                           
+
+       1.000896061 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,770 dTLB-stores                                                 
+               971 dTLB-store-misses                                           
+
+       1.000613715 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           286,709 dTLB-stores                                                 
+               947 dTLB-store-misses                                           
+
+       1.000719822 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           254,987 dTLB-stores                                                 
+               900 dTLB-store-misses                                           
+
+       1.000703791 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,388 dTLB-stores                                                 
+             1,083 dTLB-store-misses                                           
+
+       1.000694379 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,390 dTLB-stores                                                 
+               900 dTLB-store-misses                                           
+
+       1.000705718 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,288 dTLB-stores                                                 
+             1,031 dTLB-store-misses                                           
+
+       1.000585011 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           237,809 dTLB-stores                                                 
+               889 dTLB-store-misses                                           
+
+       1.000793604 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           297,340 dTLB-stores                                                 
+               886 dTLB-store-misses                                           
+
+       1.000687073 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           232,535 dTLB-stores                                                 
+               800 dTLB-store-misses                                           
+
+       1.000575889 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           393,998 dTLB-stores                                                 
+             1,478 dTLB-store-misses                                           
+
+       1.000653285 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,616 dTLB-stores                                                 
+               862 dTLB-store-misses                                           
+
+       1.000703695 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,504 dTLB-stores                                                 
+             1,037 dTLB-store-misses                                           
+
+       1.000575073 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,146 dTLB-stores                                                 
+               978 dTLB-store-misses                                           
+
+       1.000681705 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,961 dTLB-stores                                                 
+               968 dTLB-store-misses                                           
+
+       1.000640420 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           251,327 dTLB-stores                                                 
+               883 dTLB-store-misses                                           
+
+       1.000744562 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,915 dTLB-stores                                                 
+               930 dTLB-store-misses                                           
+
+       1.000865697 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,743 dTLB-stores                                                 
+               936 dTLB-store-misses                                           
+
+       1.000717635 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,143 dTLB-stores                                                 
+               765 dTLB-store-misses                                           
+
+       1.000719817 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,242 dTLB-stores                                                 
+               932 dTLB-store-misses                                           
+
+       1.000649931 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,148 dTLB-stores                                                 
+               924 dTLB-store-misses                                           
+
+       1.000616817 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,334 dTLB-stores                                                 
+             1,075 dTLB-store-misses                                           
+
+       1.000726110 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,047 dTLB-stores                                                 
+               983 dTLB-store-misses                                           
+
+       1.000642288 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,991 dTLB-stores                                                 
+             1,034 dTLB-store-misses                                           
+
+       1.000683052 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           409,576 dTLB-stores                                                 
+             1,333 dTLB-store-misses                                           
+
+       1.000679861 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,669 dTLB-stores                                                 
+               921 dTLB-store-misses                                           
+
+       1.000650002 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,993 dTLB-stores                                                 
+               897 dTLB-store-misses                                           
+
+       1.000722223 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,403 dTLB-stores                                                 
+               996 dTLB-store-misses                                           
+
+       1.000632402 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           254,233 dTLB-stores                                                 
+               917 dTLB-store-misses                                           
+
+       1.000605504 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,701 dTLB-stores                                                 
+             1,172 dTLB-store-misses                                           
+
+       1.000642439 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,707 dTLB-stores                                                 
+               983 dTLB-store-misses                                           
+
+       1.000641632 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           275,521 dTLB-stores                                                 
+               952 dTLB-store-misses                                           
+
+       1.000681163 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           237,823 dTLB-stores                                                 
+               770 dTLB-store-misses                                           
+
+       1.000668901 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,652 dTLB-stores                                                 
+               867 dTLB-store-misses                                           
+
+       1.000935894 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           369,153 dTLB-stores                                                 
+             1,484 dTLB-store-misses                                           
+
+       1.000960391 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           288,345 dTLB-stores                                                 
+             1,071 dTLB-store-misses                                           
+
+       1.000693058 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,826 dTLB-stores                                                 
+               880 dTLB-store-misses                                           
+
+       1.000717447 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,508 dTLB-stores                                                 
+             1,070 dTLB-store-misses                                           
+
+       1.000660474 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           243,711 dTLB-stores                                                 
+               970 dTLB-store-misses                                           
+
+       1.000739313 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           454,483 dTLB-stores                                                 
+             1,480 dTLB-store-misses                                           
+
+       1.000646393 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           237,304 dTLB-stores                                                 
+               778 dTLB-store-misses                                           
+
+       1.000658378 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,813 dTLB-stores                                                 
+             1,089 dTLB-store-misses                                           
+
+       1.000662476 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           246,051 dTLB-stores                                                 
+               695 dTLB-store-misses                                           
+
+       1.000928866 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           296,719 dTLB-stores                                                 
+               903 dTLB-store-misses                                           
+
+       1.000702323 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,946 dTLB-stores                                                 
+               924 dTLB-store-misses                                           
+
+       1.000615970 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           256,623 dTLB-stores                                                 
+               802 dTLB-store-misses                                           
+
+       1.000608562 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           274,282 dTLB-stores                                                 
+               983 dTLB-store-misses                                           
+
+       1.000802027 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           258,372 dTLB-stores                                                 
+               980 dTLB-store-misses                                           
+
+       1.000665103 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,854 dTLB-stores                                                 
+               987 dTLB-store-misses                                           
+
+       1.000730829 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           294,126 dTLB-stores                                                 
+             1,040 dTLB-store-misses                                           
+
+       1.000668981 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           257,316 dTLB-stores                                                 
+             1,010 dTLB-store-misses                                           
+
+       1.000646791 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,312 dTLB-stores                                                 
+               838 dTLB-store-misses                                           
+
+       1.000641248 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,705 dTLB-stores                                                 
+               983 dTLB-store-misses                                           
+
+       1.000676272 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           362,246 dTLB-stores                                                 
+             1,255 dTLB-store-misses                                           
+
+       1.000832043 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,569 dTLB-stores                                                 
+               825 dTLB-store-misses                                           
+
+       1.000658907 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,463 dTLB-stores                                                 
+               935 dTLB-store-misses                                           
+
+       1.000949914 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,573 dTLB-stores                                                 
+             1,074 dTLB-store-misses                                           
+
+       1.000607813 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,759 dTLB-stores                                                 
+             1,064 dTLB-store-misses                                           
+
+       1.000722390 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,160 dTLB-stores                                                 
+             1,018 dTLB-store-misses                                           
+
+       1.000673277 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           275,032 dTLB-stores                                                 
+               998 dTLB-store-misses                                           
+
+       1.000735554 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           305,064 dTLB-stores                                                 
+             1,034 dTLB-store-misses                                           
+
+       1.000638304 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           230,059 dTLB-stores                                                 
+               733 dTLB-store-misses                                           
+
+       1.000650427 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           228,494 dTLB-stores                                                 
+               859 dTLB-store-misses                                           
+
+       1.000762314 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           296,231 dTLB-stores                                                 
+               897 dTLB-store-misses                                           
+
+       1.000763312 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,018 dTLB-stores                                                 
+               969 dTLB-store-misses                                           
+
+       1.000985131 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,880 dTLB-stores                                                 
+             1,095 dTLB-store-misses                                           
+
+       1.000654404 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         1,050,236 dTLB-stores                                                 
+             2,675 dTLB-store-misses                                           
+
+       1.000627428 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       371,866,416 dTLB-stores                                                  [100.00%]
+           624,461 dTLB-store-misses                                            [100.00%]
+
+       1.001084941 seconds time elapsed
+

@@ -1,0 +1,1232 @@
+
+ Performance counter stats for process id '137379':
+
+            37,759 LLC-loads                                                    [71.44%]
+             1,831 LLC-stores                                                   [82.50%]
+
+       1.000785690 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,329 LLC-loads                                                   
+             2,984 LLC-stores                                                  
+
+       1.000671022 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,314 LLC-loads                                                   
+             2,362 LLC-stores                                                  
+
+       1.000734317 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            44,897 LLC-loads                                                   
+             3,069 LLC-stores                                                  
+
+       1.000577112 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,596 LLC-loads                                                   
+             2,408 LLC-stores                                                  
+
+       1.000659594 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            62,764 LLC-loads                                                   
+             8,495 LLC-stores                                                  
+
+       1.000789236 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            38,339 LLC-loads                                                   
+             2,383 LLC-stores                                                  
+
+       1.000708268 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            44,585 LLC-loads                                                   
+             2,875 LLC-stores                                                  
+
+       1.000600290 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,148 LLC-loads                                                   
+             2,303 LLC-stores                                                  
+
+       1.000646149 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            43,719 LLC-loads                                                   
+             3,086 LLC-stores                                                  
+
+       1.000686886 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,259 LLC-loads                                                   
+             2,234 LLC-stores                                                  
+
+       1.000919344 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,825 LLC-loads                                                   
+             3,153 LLC-stores                                                  
+
+       1.000790181 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,978 LLC-loads                                                   
+             2,468 LLC-stores                                                  
+
+       1.000668923 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         5,095,802 LLC-loads                                                   
+         1,577,370 LLC-stores                                                  
+
+       1.000609153 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            55,440 LLC-loads                                                   
+             4,905 LLC-stores                                                  
+
+       1.000713541 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            91,271 LLC-loads                                                   
+            13,214 LLC-stores                                                  
+
+       1.000669053 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            48,466 LLC-loads                                                   
+             3,525 LLC-stores                                                  
+
+       1.000619453 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            52,244 LLC-loads                                                   
+             6,365 LLC-stores                                                  
+
+       1.000845252 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,364 LLC-loads                                                   
+             3,096 LLC-stores                                                  
+
+       1.000646755 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,786 LLC-loads                                                   
+             2,492 LLC-stores                                                  
+
+       1.001018435 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            84,112 LLC-loads                                                   
+            13,361 LLC-stores                                                  
+
+       1.000722199 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            52,403 LLC-loads                                                   
+             5,644 LLC-stores                                                  
+
+       1.000913644 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            62,002 LLC-loads                                                   
+             6,924 LLC-stores                                                  
+
+       1.000733115 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            52,137 LLC-loads                                                   
+             6,222 LLC-stores                                                  
+
+       1.000689741 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            65,312 LLC-loads                                                   
+             7,594 LLC-stores                                                  
+
+       1.000725973 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            52,285 LLC-loads                                                   
+             6,296 LLC-stores                                                  
+
+       1.000777219 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            59,891 LLC-loads                                                   
+             6,405 LLC-stores                                                  
+
+       1.000591575 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            66,281 LLC-loads                                                   
+             9,201 LLC-stores                                                  
+
+       1.000785360 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            93,051 LLC-loads                                                   
+            12,570 LLC-stores                                                  
+
+       1.000777163 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            77,818 LLC-loads                                                   
+            11,632 LLC-stores                                                  
+
+       1.000657807 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            93,694 LLC-loads                                                   
+            13,683 LLC-stores                                                  
+
+       1.000725516 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            54,715 LLC-loads                                                   
+             7,124 LLC-stores                                                  
+
+       1.000639742 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            68,429 LLC-loads                                                   
+             7,942 LLC-stores                                                  
+
+       1.000677625 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            39,748 LLC-loads                                                   
+             2,470 LLC-stores                                                  
+
+       1.000692063 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            67,475 LLC-loads                                                   
+             7,603 LLC-stores                                                  
+
+       1.000640757 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            94,078 LLC-loads                                                   
+            18,136 LLC-stores                                                  
+
+       1.000769644 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            55,360 LLC-loads                                                   
+             4,289 LLC-stores                                                  
+
+       1.000718803 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            57,622 LLC-loads                                                   
+             7,238 LLC-stores                                                  
+
+       1.000691968 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            70,246 LLC-loads                                                   
+             7,714 LLC-stores                                                  
+
+       1.000707476 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            41,910 LLC-loads                                                   
+             2,399 LLC-stores                                                  
+
+       1.000707738 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            65,914 LLC-loads                                                   
+             7,599 LLC-stores                                                  
+
+       1.000753125 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            49,881 LLC-loads                                                   
+             5,197 LLC-stores                                                  
+
+       1.000759560 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            62,652 LLC-loads                                                   
+             6,717 LLC-stores                                                  
+
+       1.000651500 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,055 LLC-loads                                                   
+             4,811 LLC-stores                                                  
+
+       1.000724923 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,888 LLC-loads                                                   
+             3,103 LLC-stores                                                  
+
+       1.000680741 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,842 LLC-loads                                                   
+             2,274 LLC-stores                                                  
+
+       1.000704341 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,065 LLC-loads                                                   
+             2,986 LLC-stores                                                  
+
+       1.000781901 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,176 LLC-loads                                                   
+             2,167 LLC-stores                                                  
+
+       1.000838763 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            38,124 LLC-loads                                                   
+             2,526 LLC-stores                                                  
+
+       1.000712577 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,175 LLC-loads                                                   
+             3,172 LLC-stores                                                  
+
+       1.000728292 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            52,375 LLC-loads                                                   
+             8,671 LLC-stores                                                  
+
+       1.000661169 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            52,905 LLC-loads                                                   
+             4,524 LLC-stores                                                  
+
+       1.000649802 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,715 LLC-loads                                                   
+             2,161 LLC-stores                                                  
+
+       1.000625816 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            54,053 LLC-loads                                                   
+             3,953 LLC-stores                                                  
+
+       1.000796073 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            42,844 LLC-loads                                                   
+             3,551 LLC-stores                                                  
+
+       1.000740332 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            49,775 LLC-loads                                                   
+             4,126 LLC-stores                                                  
+
+       1.000677087 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            40,410 LLC-loads                                                   
+             2,717 LLC-stores                                                  
+
+       1.000725686 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            50,685 LLC-loads                                                   
+             4,408 LLC-stores                                                  
+
+       1.000657060 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            39,587 LLC-loads                                                   
+             2,433 LLC-stores                                                  
+
+       1.000601594 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,307 LLC-loads                                                   
+             2,956 LLC-stores                                                  
+
+       1.000626777 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,315 LLC-loads                                                   
+             2,216 LLC-stores                                                  
+
+       1.000681285 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            51,488 LLC-loads                                                   
+             4,712 LLC-stores                                                  
+
+       1.000675049 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,344 LLC-loads                                                   
+             2,328 LLC-stores                                                  
+
+       1.000646701 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            42,368 LLC-loads                                                   
+             2,884 LLC-stores                                                  
+
+       1.000692229 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            60,878 LLC-loads                                                   
+             7,758 LLC-stores                                                  
+
+       1.000692230 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,006 LLC-loads                                                   
+             2,462 LLC-stores                                                  
+
+       1.000784879 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            39,337 LLC-loads                                                   
+             2,510 LLC-stores                                                  
+
+       1.000958425 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            53,512 LLC-loads                                                   
+             5,701 LLC-stores                                                  
+
+       1.000734928 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            25,069 LLC-loads                                                   
+             1,962 LLC-stores                                                  
+
+       1.000754755 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,063 LLC-loads                                                   
+             3,136 LLC-stores                                                  
+
+       1.000677191 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            32,888 LLC-loads                                                   
+             2,472 LLC-stores                                                  
+
+       1.000713679 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,033 LLC-loads                                                   
+             2,995 LLC-stores                                                  
+
+       1.000722349 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,772 LLC-loads                                                   
+             2,403 LLC-stores                                                  
+
+       1.000668229 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            44,331 LLC-loads                                                   
+             2,985 LLC-stores                                                  
+
+       1.000756739 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,773 LLC-loads                                                   
+             2,211 LLC-stores                                                  
+
+       1.000676121 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            57,971 LLC-loads                                                   
+             5,687 LLC-stores                                                  
+
+       1.000715821 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            29,248 LLC-loads                                                   
+             2,720 LLC-stores                                                  
+
+       1.000914145 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            43,937 LLC-loads                                                   
+             3,185 LLC-stores                                                  
+
+       1.000727448 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            41,290 LLC-loads                                                   
+             3,665 LLC-stores                                                  
+
+       1.000681647 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            67,253 LLC-loads                                                   
+             9,556 LLC-stores                                                  
+
+       1.000878930 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,187 LLC-loads                                                   
+             2,288 LLC-stores                                                  
+
+       1.000596183 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            49,505 LLC-loads                                                   
+             3,430 LLC-stores                                                  
+
+       1.000628412 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,311 LLC-loads                                                   
+             2,243 LLC-stores                                                  
+
+       1.000660278 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,718 LLC-loads                                                   
+             3,144 LLC-stores                                                  
+
+       1.000827696 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            39,118 LLC-loads                                                   
+             2,689 LLC-stores                                                  
+
+       1.000853856 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            41,610 LLC-loads                                                   
+             2,773 LLC-stores                                                  
+
+       1.000716639 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,554 LLC-loads                                                   
+             2,515 LLC-stores                                                  
+
+       1.000918388 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,540 LLC-loads                                                   
+             3,334 LLC-stores                                                  
+
+       1.000832007 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            54,103 LLC-loads                                                   
+             4,837 LLC-stores                                                  
+
+       1.000928166 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            43,174 LLC-loads                                                   
+             3,845 LLC-stores                                                  
+
+       1.000718423 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            50,414 LLC-loads                                                   
+             4,146 LLC-stores                                                  
+
+       1.000685483 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            30,335 LLC-loads                                                   
+             2,370 LLC-stores                                                  
+
+       1.000676968 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,899 LLC-loads                                                   
+             3,491 LLC-stores                                                  
+
+       1.000740556 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            70,845 LLC-loads                                                   
+             9,413 LLC-stores                                                  
+
+       1.000611831 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            38,656 LLC-loads                                                   
+             2,539 LLC-stores                                                  
+
+       1.000670423 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,676 LLC-loads                                                   
+             3,213 LLC-stores                                                  
+
+       1.000900327 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            38,881 LLC-loads                                                   
+             2,827 LLC-stores                                                  
+
+       1.000665318 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            42,759 LLC-loads                                                   
+             2,787 LLC-stores                                                  
+
+       1.000796613 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,311 LLC-loads                                                   
+             3,470 LLC-stores                                                  
+
+       1.000684998 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            38,148 LLC-loads                                                   
+             3,659 LLC-stores                                                  
+
+       1.000708412 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,361 LLC-loads                                                   
+             3,267 LLC-stores                                                  
+
+       1.000745448 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            42,932 LLC-loads                                                   
+             3,678 LLC-stores                                                  
+
+       1.000611362 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            48,338 LLC-loads                                                   
+             3,061 LLC-stores                                                  
+
+       1.000680635 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,498 LLC-loads                                                   
+             3,140 LLC-stores                                                  
+
+       1.000613390 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            43,357 LLC-loads                                                   
+             4,064 LLC-stores                                                  
+
+       1.000820122 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            41,757 LLC-loads                                                   
+             3,006 LLC-stores                                                  
+
+       1.000664842 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            38,492 LLC-loads                                                   
+             2,440 LLC-stores                                                  
+
+       1.000688717 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,824 LLC-loads                                                   
+             3,283 LLC-stores                                                  
+
+       1.000660150 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            57,922 LLC-loads                                                   
+             8,307 LLC-stores                                                  
+
+       1.000778524 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,729 LLC-loads                                                   
+             2,389 LLC-stores                                                  
+
+       1.000719714 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,224 LLC-loads                                                   
+             2,975 LLC-stores                                                  
+
+       1.000791639 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            49,119 LLC-loads                                                   
+             4,746 LLC-stores                                                  
+
+       1.000867356 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,759 LLC-loads                                                   
+             2,982 LLC-stores                                                  
+
+       1.000634369 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,715 LLC-loads                                                   
+             4,948 LLC-stores                                                  
+
+       1.000763147 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            43,315 LLC-loads                                                   
+             3,080 LLC-stores                                                  
+
+       1.000670863 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            38,399 LLC-loads                                                   
+             2,568 LLC-stores                                                  
+
+       1.000651362 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            53,290 LLC-loads                                                   
+             4,355 LLC-stores                                                  
+
+       1.000663214 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,232 LLC-loads                                                   
+             2,394 LLC-stores                                                  
+
+       1.000705429 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,118 LLC-loads                                                   
+             3,172 LLC-stores                                                  
+
+       1.000718677 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            34,881 LLC-loads                                                   
+             2,394 LLC-stores                                                  
+
+       1.000806295 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,663 LLC-loads                                                   
+             3,138 LLC-stores                                                  
+
+       1.000845209 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,092 LLC-loads                                                   
+             2,265 LLC-stores                                                  
+
+       1.000617138 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            66,673 LLC-loads                                                   
+             9,387 LLC-stores                                                  
+
+       1.000798248 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,984 LLC-loads                                                   
+             2,432 LLC-stores                                                  
+
+       1.000758273 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            52,197 LLC-loads                                                   
+             4,426 LLC-stores                                                  
+
+       1.000853046 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,310 LLC-loads                                                   
+             2,274 LLC-stores                                                  
+
+       1.000625603 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,294 LLC-loads                                                   
+             3,638 LLC-stores                                                  
+
+       1.000592417 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,825 LLC-loads                                                   
+             2,279 LLC-stores                                                  
+
+       1.000780970 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,368 LLC-loads                                                   
+             2,298 LLC-stores                                                  
+
+       1.000758854 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            43,897 LLC-loads                                                   
+             3,052 LLC-stores                                                  
+
+       1.000659144 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,979 LLC-loads                                                   
+             2,520 LLC-stores                                                  
+
+       1.000647105 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            44,924 LLC-loads                                                   
+             3,040 LLC-stores                                                  
+
+       1.000674170 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            40,001 LLC-loads                                                   
+             3,005 LLC-stores                                                  
+
+       1.000865084 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,482 LLC-loads                                                   
+             3,640 LLC-stores                                                  
+
+       1.000613778 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,137 LLC-loads                                                   
+             2,319 LLC-stores                                                  
+
+       1.000650559 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,444 LLC-loads                                                   
+             3,379 LLC-stores                                                  
+
+       1.000731015 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            37,492 LLC-loads                                                   
+             2,588 LLC-stores                                                  
+
+       1.000709208 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            59,878 LLC-loads                                                   
+             8,081 LLC-stores                                                  
+
+       1.000864862 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,368 LLC-loads                                                   
+             2,501 LLC-stores                                                  
+
+       1.000602936 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,562 LLC-loads                                                   
+             3,465 LLC-stores                                                  
+
+       1.000781241 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            34,727 LLC-loads                                                   
+             2,203 LLC-stores                                                  
+
+       1.000816373 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,200 LLC-loads                                                   
+             3,158 LLC-stores                                                  
+
+       1.000689276 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,452 LLC-loads                                                   
+             2,329 LLC-stores                                                  
+
+       1.000614160 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            45,526 LLC-loads                                                   
+             3,036 LLC-stores                                                  
+
+       1.000727971 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,293 LLC-loads                                                   
+             2,313 LLC-stores                                                  
+
+       1.000912394 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,006 LLC-loads                                                   
+             3,107 LLC-stores                                                  
+
+       1.000691366 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            35,736 LLC-loads                                                   
+             2,216 LLC-stores                                                  
+
+       1.000712174 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            47,038 LLC-loads                                                   
+             3,106 LLC-stores                                                  
+
+       1.000662532 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,438 LLC-loads                                                   
+             2,448 LLC-stores                                                  
+
+       1.000599205 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            46,570 LLC-loads                                                   
+             3,190 LLC-stores                                                  
+
+       1.000803073 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            36,385 LLC-loads                                                   
+             2,369 LLC-stores                                                  
+
+       1.000764438 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+            63,084 LLC-loads                                                   
+             8,435 LLC-stores                                                  
+
+       1.000769346 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           111,390 LLC-loads                                                   
+            23,192 LLC-stores                                                  
+
+       1.000792345 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         8,861,302 LLC-loads                                                   
+           617,914 LLC-stores                                                  
+
+       1.000630812 seconds time elapsed
+

@@ -1,0 +1,1560 @@
+
+ Performance counter stats for process id '79575':
+
+           250,972 L1-dcache-stores                                             [86.29%]
+             7,532 L1-dcache-store-misses                                       [96.85%]
+
+       1.000736680 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           178,353 L1-dcache-stores                                             [93.86%]
+             5,231 L1-dcache-store-misses                                      
+
+       1.000658017 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,033 L1-dcache-stores                                             [85.59%]
+             6,428 L1-dcache-store-misses                                      
+
+       1.000955267 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           245,575 L1-dcache-stores                                             [87.32%]
+             6,847 L1-dcache-store-misses                                      
+
+       1.000767686 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,304 L1-dcache-stores                                             [93.29%]
+             6,852 L1-dcache-store-misses                                      
+
+       1.000671288 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,202 L1-dcache-stores                                             [88.59%]
+             6,752 L1-dcache-store-misses                                      
+
+       1.000724590 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           183,271 L1-dcache-stores                                             [90.69%]
+             5,176 L1-dcache-store-misses                                      
+
+       1.000745309 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           247,771 L1-dcache-stores                                             [85.92%]
+             6,640 L1-dcache-store-misses                                      
+
+       1.000659117 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,741,960 L1-dcache-stores                                             [98.18%]
+           120,428 L1-dcache-store-misses                                      
+
+       1.000802357 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           235,522 L1-dcache-stores                                             [88.33%]
+             6,471 L1-dcache-store-misses                                      
+
+       1.000668549 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           221,852 L1-dcache-stores                                             [89.45%]
+             6,067 L1-dcache-store-misses                                      
+
+       1.000615301 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           247,072 L1-dcache-stores                                             [86.10%]
+             6,712 L1-dcache-store-misses                                      
+
+       1.000645235 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+       274,581,523 L1-dcache-stores                                             [99.94%]
+        28,365,730 L1-dcache-store-misses                                       [99.99%]
+
+       1.000810987 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           255,053 L1-dcache-stores                                            
+            11,470 L1-dcache-store-misses                                      
+
+       1.000668069 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         1,301,377 L1-dcache-stores                                             [62.31%]
+            59,972 L1-dcache-store-misses                                      
+
+       1.000674108 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           222,093 L1-dcache-stores                                            
+             7,362 L1-dcache-store-misses                                      
+
+       1.000623404 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           282,302 L1-dcache-stores                                            
+            11,676 L1-dcache-store-misses                                      
+
+       1.000612956 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           179,629 L1-dcache-stores                                            
+             5,996 L1-dcache-store-misses                                      
+
+       1.000846405 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           284,054 L1-dcache-stores                                            
+            11,027 L1-dcache-store-misses                                      
+
+       1.000671280 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           234,635 L1-dcache-stores                                            
+            10,118 L1-dcache-store-misses                                      
+
+       1.000709185 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           249,419 L1-dcache-stores                                            
+             7,550 L1-dcache-store-misses                                      
+
+       1.000677163 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           229,424 L1-dcache-stores                                            
+             9,349 L1-dcache-store-misses                                      
+
+       1.000815648 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           270,991 L1-dcache-stores                                            
+             9,330 L1-dcache-store-misses                                      
+
+       1.000779285 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           436,579 L1-dcache-stores                                            
+            61,211 L1-dcache-store-misses                                      
+
+       1.000646466 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           265,817 L1-dcache-stores                                            
+            10,539 L1-dcache-store-misses                                      
+
+       1.000631761 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           251,157 L1-dcache-stores                                            
+            10,400 L1-dcache-store-misses                                      
+
+       1.000738635 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           267,262 L1-dcache-stores                                            
+            11,796 L1-dcache-store-misses                                      
+
+       1.000782662 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           272,681 L1-dcache-stores                                            
+            11,147 L1-dcache-store-misses                                      
+
+       1.000711216 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           273,507 L1-dcache-stores                                            
+            12,013 L1-dcache-store-misses                                      
+
+       1.000645510 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           267,106 L1-dcache-stores                                            
+            10,500 L1-dcache-store-misses                                      
+
+       1.000694525 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           259,641 L1-dcache-stores                                            
+            10,475 L1-dcache-store-misses                                      
+
+       1.000652914 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           267,140 L1-dcache-stores                                            
+            10,501 L1-dcache-store-misses                                      
+
+       1.000682486 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           284,344 L1-dcache-stores                                            
+            13,737 L1-dcache-store-misses                                      
+
+       1.000716961 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           263,594 L1-dcache-stores                                            
+            10,339 L1-dcache-store-misses                                      
+
+       1.000691851 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           364,618 L1-dcache-stores                                            
+            20,692 L1-dcache-store-misses                                      
+
+       1.000660198 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           379,028 L1-dcache-stores                                            
+            21,267 L1-dcache-store-misses                                      
+
+       1.000646344 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           383,499 L1-dcache-stores                                            
+            21,457 L1-dcache-store-misses                                      
+
+       1.000626818 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           616,310 L1-dcache-stores                                            
+            73,717 L1-dcache-store-misses                                      
+
+       1.000632965 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           377,493 L1-dcache-stores                                            
+            20,496 L1-dcache-store-misses                                      
+
+       1.000611993 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           404,489 L1-dcache-stores                                            
+            21,594 L1-dcache-store-misses                                      
+
+       1.000650928 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           304,140 L1-dcache-stores                                            
+            40,637 L1-dcache-store-misses                                      
+
+       1.000668667 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           287,329 L1-dcache-stores                                            
+            11,972 L1-dcache-store-misses                                      
+
+       1.000632777 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           269,794 L1-dcache-stores                                            
+            11,677 L1-dcache-store-misses                                      
+
+       1.000724843 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           294,408 L1-dcache-stores                                            
+            12,519 L1-dcache-store-misses                                      
+
+       1.000688299 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           278,147 L1-dcache-stores                                            
+            11,771 L1-dcache-store-misses                                      
+
+       1.000682276 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           274,479 L1-dcache-stores                                            
+            11,732 L1-dcache-store-misses                                      
+
+       1.000645280 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           272,000 L1-dcache-stores                                            
+            10,203 L1-dcache-store-misses                                      
+
+       1.000622205 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           286,361 L1-dcache-stores                                            
+            11,855 L1-dcache-store-misses                                      
+
+       1.000650776 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           359,334 L1-dcache-stores                                            
+            11,952 L1-dcache-store-misses                                      
+
+       1.000764735 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           290,261 L1-dcache-stores                                            
+            12,615 L1-dcache-store-misses                                      
+
+       1.000666667 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           239,960 L1-dcache-stores                                            
+             8,905 L1-dcache-store-misses                                      
+
+       1.000654674 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           285,064 L1-dcache-stores                                            
+            12,124 L1-dcache-store-misses                                      
+
+       1.000716374 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,785,148 L1-dcache-stores                                            
+           205,146 L1-dcache-store-misses                                      
+
+       1.000762060 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           314,548 L1-dcache-stores                                            
+            11,996 L1-dcache-store-misses                                      
+
+       1.000663439 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           254,945 L1-dcache-stores                                            
+            10,982 L1-dcache-store-misses                                      
+
+       1.000691138 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           301,346 L1-dcache-stores                                            
+            12,208 L1-dcache-store-misses                                      
+
+       1.000643506 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           233,334 L1-dcache-stores                                            
+             8,757 L1-dcache-store-misses                                      
+
+       1.000635802 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           273,079 L1-dcache-stores                                            
+            10,041 L1-dcache-store-misses                                      
+
+       1.000808067 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           345,938 L1-dcache-stores                                            
+            17,249 L1-dcache-store-misses                                      
+
+       1.000686665 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           225,101 L1-dcache-stores                                            
+             7,083 L1-dcache-store-misses                                      
+
+       1.000622995 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           220,986 L1-dcache-stores                                            
+             6,747 L1-dcache-store-misses                                      
+
+       1.000565627 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           227,687 L1-dcache-stores                                            
+             7,057 L1-dcache-store-misses                                      
+
+       1.000618795 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           223,955 L1-dcache-stores                                            
+             7,003 L1-dcache-store-misses                                      
+
+       1.000616226 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           262,770 L1-dcache-stores                                            
+            10,200 L1-dcache-store-misses                                      
+
+       1.000821708 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           231,762 L1-dcache-stores                                            
+             9,156 L1-dcache-store-misses                                      
+
+       1.001104363 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           251,547 L1-dcache-stores                                            
+             9,607 L1-dcache-store-misses                                      
+
+       1.000689554 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           223,981 L1-dcache-stores                                            
+             6,644 L1-dcache-store-misses                                      
+
+       1.000673966 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           377,039 L1-dcache-stores                                            
+            52,507 L1-dcache-store-misses                                      
+
+       1.000709679 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,596 L1-dcache-stores                                            
+             9,952 L1-dcache-store-misses                                      
+
+       1.000890977 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           220,075 L1-dcache-stores                                            
+             6,668 L1-dcache-store-misses                                      
+
+       1.000916664 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           261,546 L1-dcache-stores                                            
+             9,853 L1-dcache-store-misses                                      
+
+       1.000652895 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           248,902 L1-dcache-stores                                            
+            10,376 L1-dcache-store-misses                                      
+
+       1.000623430 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           293,380 L1-dcache-stores                                            
+            12,727 L1-dcache-store-misses                                      
+
+       1.000666139 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           199,791 L1-dcache-stores                                            
+             6,043 L1-dcache-store-misses                                      
+
+       1.000588558 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           230,938 L1-dcache-stores                                            
+             6,731 L1-dcache-store-misses                                      
+
+       1.000806053 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           197,803 L1-dcache-stores                                            
+             6,642 L1-dcache-store-misses                                      
+
+       1.000791522 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           269,951 L1-dcache-stores                                            
+            10,280 L1-dcache-store-misses                                      
+
+       1.000755846 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           191,081 L1-dcache-stores                                            
+             5,934 L1-dcache-store-misses                                      
+
+       1.000835006 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           272,145 L1-dcache-stores                                            
+             9,018 L1-dcache-store-misses                                      
+
+       1.000555949 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           257,295 L1-dcache-stores                                            
+             9,722 L1-dcache-store-misses                                      
+
+       1.000655574 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           218,699 L1-dcache-stores                                            
+             6,491 L1-dcache-store-misses                                      
+
+       1.000639423 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           212,013 L1-dcache-stores                                            
+             8,925 L1-dcache-store-misses                                      
+
+       1.000609207 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           400,597 L1-dcache-stores                                            
+            53,166 L1-dcache-store-misses                                      
+
+       1.000630849 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           190,229 L1-dcache-stores                                            
+             6,543 L1-dcache-store-misses                                      
+
+       1.000657953 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           251,295 L1-dcache-stores                                            
+             7,889 L1-dcache-store-misses                                      
+
+       1.000757963 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           189,961 L1-dcache-stores                                            
+             6,585 L1-dcache-store-misses                                      
+
+       1.000895439 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           281,482 L1-dcache-stores                                            
+            12,560 L1-dcache-store-misses                                      
+
+       1.000944002 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           181,258 L1-dcache-stores                                            
+             6,806 L1-dcache-store-misses                                      
+
+       1.000788183 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           217,683 L1-dcache-stores                                            
+             6,346 L1-dcache-store-misses                                      
+
+       1.000625275 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           220,365 L1-dcache-stores                                            
+             6,724 L1-dcache-store-misses                                      
+
+       1.000589458 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           207,723 L1-dcache-stores                                            
+             6,285 L1-dcache-store-misses                                      
+
+       1.000640697 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           219,719 L1-dcache-stores                                            
+             6,806 L1-dcache-store-misses                                      
+
+       1.000889751 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           230,187 L1-dcache-stores                                            
+             7,395 L1-dcache-store-misses                                      
+
+       1.000714682 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           238,845 L1-dcache-stores                                            
+             7,657 L1-dcache-store-misses                                      
+
+       1.000642129 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           194,386 L1-dcache-stores                                            
+             6,195 L1-dcache-store-misses                                      
+
+       1.000916350 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,688 L1-dcache-stores                                            
+             7,508 L1-dcache-store-misses                                      
+
+       1.000704234 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           225,597 L1-dcache-stores                                            
+             8,953 L1-dcache-store-misses                                      
+
+       1.000730125 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           398,737 L1-dcache-stores                                            
+            53,792 L1-dcache-store-misses                                      
+
+       1.000703084 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,823 L1-dcache-stores                                            
+             8,737 L1-dcache-store-misses                                      
+
+       1.000813884 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           211,524 L1-dcache-stores                                            
+             6,803 L1-dcache-store-misses                                      
+
+       1.000687609 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           201,112 L1-dcache-stores                                            
+             6,079 L1-dcache-store-misses                                      
+
+       1.000735074 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           253,880 L1-dcache-stores                                            
+            10,283 L1-dcache-store-misses                                      
+
+       1.000877907 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           235,599 L1-dcache-stores                                            
+             8,080 L1-dcache-store-misses                                      
+
+       1.000726236 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           216,192 L1-dcache-stores                                            
+             6,852 L1-dcache-store-misses                                      
+
+       1.000747603 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           212,348 L1-dcache-stores                                            
+             6,612 L1-dcache-store-misses                                      
+
+       1.000589561 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           218,547 L1-dcache-stores                                            
+             7,011 L1-dcache-store-misses                                      
+
+       1.000750011 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           216,707 L1-dcache-stores                                            
+             7,034 L1-dcache-store-misses                                      
+
+       1.000821613 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           218,060 L1-dcache-stores                                            
+             6,940 L1-dcache-store-misses                                      
+
+       1.000602900 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           207,314 L1-dcache-stores                                            
+             6,605 L1-dcache-store-misses                                      
+
+       1.000710306 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           215,768 L1-dcache-stores                                            
+             6,802 L1-dcache-store-misses                                      
+
+       1.000822861 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           246,815 L1-dcache-stores                                            
+            10,454 L1-dcache-store-misses                                      
+
+       1.000701788 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         1,910,297 L1-dcache-stores                                            
+            99,519 L1-dcache-store-misses                                      
+
+       1.000744616 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           211,053 L1-dcache-stores                                            
+             6,932 L1-dcache-store-misses                                      
+
+       1.000593170 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           221,326 L1-dcache-stores                                            
+             8,039 L1-dcache-store-misses                                      
+
+       1.000833224 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           220,598 L1-dcache-stores                                            
+             6,880 L1-dcache-store-misses                                      
+
+       1.000631990 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           207,513 L1-dcache-stores                                            
+             6,149 L1-dcache-store-misses                                      
+
+       1.000660265 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           222,244 L1-dcache-stores                                            
+             6,694 L1-dcache-store-misses                                      
+
+       1.000672063 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           204,770 L1-dcache-stores                                            
+             6,257 L1-dcache-store-misses                                      
+
+       1.000933779 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           197,181 L1-dcache-stores                                            
+             6,549 L1-dcache-store-misses                                      
+
+       1.000656772 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           208,101 L1-dcache-stores                                            
+             6,583 L1-dcache-store-misses                                      
+
+       1.000648075 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           280,237 L1-dcache-stores                                            
+            10,627 L1-dcache-store-misses                                      
+
+       1.000892774 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           223,498 L1-dcache-stores                                            
+             8,854 L1-dcache-store-misses                                      
+
+       1.000661832 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           237,827 L1-dcache-stores                                            
+             7,252 L1-dcache-store-misses                                      
+
+       1.000793210 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           184,583 L1-dcache-stores                                            
+             5,608 L1-dcache-store-misses                                      
+
+       1.000594350 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           245,460 L1-dcache-stores                                            
+             7,729 L1-dcache-store-misses                                      
+
+       1.000863908 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           179,620 L1-dcache-stores                                            
+             5,879 L1-dcache-store-misses                                      
+
+       1.000658219 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           473,923 L1-dcache-stores                                            
+            86,590 L1-dcache-store-misses                                      
+
+       1.000667864 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           230,419 L1-dcache-stores                                            
+            10,692 L1-dcache-store-misses                                      
+
+       1.000890251 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           217,145 L1-dcache-stores                                            
+             6,276 L1-dcache-store-misses                                      
+
+       1.000736441 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           216,411 L1-dcache-stores                                            
+             6,781 L1-dcache-store-misses                                      
+
+       1.000709690 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           305,583 L1-dcache-stores                                             [97.71%]
+            17,311 L1-dcache-store-misses                                       [97.69%]
+
+       1.000701321 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           241,990 L1-dcache-stores                                            
+             7,785 L1-dcache-store-misses                                      
+
+       1.000647832 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           287,356 L1-dcache-stores                                            
+            13,767 L1-dcache-store-misses                                      
+
+       1.000753678 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           226,879 L1-dcache-stores                                            
+             7,397 L1-dcache-store-misses                                      
+
+       1.000672361 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           247,444 L1-dcache-stores                                            
+             7,206 L1-dcache-store-misses                                      
+
+       1.000818857 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,728 L1-dcache-stores                                            
+             7,585 L1-dcache-store-misses                                      
+
+       1.000627213 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           209,231 L1-dcache-stores                                            
+             6,212 L1-dcache-store-misses                                      
+
+       1.000895155 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           263,748 L1-dcache-stores                                            
+             8,598 L1-dcache-store-misses                                      
+
+       1.000902294 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           244,338 L1-dcache-stores                                            
+             8,094 L1-dcache-store-misses                                      
+
+       1.003349017 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           246,957 L1-dcache-stores                                            
+             7,572 L1-dcache-store-misses                                      
+
+       1.000830230 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           265,422 L1-dcache-stores                                            
+            10,463 L1-dcache-store-misses                                      
+
+       1.000689308 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           588,504 L1-dcache-stores                                            
+            90,039 L1-dcache-store-misses                                      
+
+       1.000688655 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           279,992 L1-dcache-stores                                            
+            10,662 L1-dcache-store-misses                                      
+
+       1.000669379 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           254,476 L1-dcache-stores                                            
+             8,021 L1-dcache-store-misses                                      
+
+       1.000618716 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           240,511 L1-dcache-stores                                            
+             7,382 L1-dcache-store-misses                                      
+
+       1.000679446 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           244,699 L1-dcache-stores                                            
+             7,624 L1-dcache-store-misses                                      
+
+       1.000749273 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           245,272 L1-dcache-stores                                            
+             8,920 L1-dcache-store-misses                                      
+
+       1.000698712 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           232,607 L1-dcache-stores                                            
+             6,972 L1-dcache-store-misses                                      
+
+       1.000887536 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           239,194 L1-dcache-stores                                            
+             7,107 L1-dcache-store-misses                                      
+
+       1.000646328 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           290,173 L1-dcache-stores                                            
+            13,311 L1-dcache-store-misses                                      
+
+       1.000726726 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           230,445 L1-dcache-stores                                            
+             7,967 L1-dcache-store-misses                                      
+
+       1.000692260 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           251,032 L1-dcache-stores                                            
+             7,654 L1-dcache-store-misses                                      
+
+       1.000831487 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           223,533 L1-dcache-stores                                            
+             6,409 L1-dcache-store-misses                                      
+
+       1.000684744 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           244,190 L1-dcache-stores                                            
+             7,619 L1-dcache-store-misses                                      
+
+       1.000669480 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           243,794 L1-dcache-stores                                            
+             7,225 L1-dcache-store-misses                                      
+
+       1.000757909 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           412,936 L1-dcache-stores                                            
+            56,099 L1-dcache-store-misses                                      
+
+       1.000723974 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           263,148 L1-dcache-stores                                            
+            11,554 L1-dcache-store-misses                                      
+
+       1.000639961 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           231,759 L1-dcache-stores                                            
+             7,289 L1-dcache-store-misses                                      
+
+       1.000627418 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           238,582 L1-dcache-stores                                            
+             7,752 L1-dcache-store-misses                                      
+
+       1.000706236 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           302,836 L1-dcache-stores                                            
+            10,663 L1-dcache-store-misses                                      
+
+       1.000877817 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           234,594 L1-dcache-stores                                            
+             7,495 L1-dcache-store-misses                                      
+
+       1.000716678 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           247,468 L1-dcache-stores                                            
+             9,059 L1-dcache-store-misses                                      
+
+       1.000733115 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           224,004 L1-dcache-stores                                            
+             8,097 L1-dcache-store-misses                                      
+
+       1.000873507 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           238,692 L1-dcache-stores                                            
+             7,745 L1-dcache-store-misses                                      
+
+       1.000749534 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           248,897 L1-dcache-stores                                            
+             8,336 L1-dcache-store-misses                                      
+
+       1.000652437 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           232,662 L1-dcache-stores                                            
+             7,424 L1-dcache-store-misses                                      
+
+       1.000596428 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           243,127 L1-dcache-stores                                            
+             7,748 L1-dcache-store-misses                                      
+
+       1.000737938 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           236,081 L1-dcache-stores                                            
+             7,710 L1-dcache-store-misses                                      
+
+       1.000837656 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           243,105 L1-dcache-stores                                            
+             7,701 L1-dcache-store-misses                                      
+
+       1.000569841 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           237,039 L1-dcache-stores                                            
+             7,182 L1-dcache-store-misses                                      
+
+       1.000620327 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           398,678 L1-dcache-stores                                            
+            53,131 L1-dcache-store-misses                                      
+
+       1.000650466 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           271,654 L1-dcache-stores                                            
+             8,851 L1-dcache-store-misses                                      
+
+       1.000721618 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           237,695 L1-dcache-stores                                            
+             7,273 L1-dcache-store-misses                                      
+
+       1.000785454 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,779 L1-dcache-stores                                            
+             7,704 L1-dcache-store-misses                                      
+
+       1.000711297 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           235,315 L1-dcache-stores                                            
+             7,122 L1-dcache-store-misses                                      
+
+       1.000859660 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           267,236 L1-dcache-stores                                            
+             9,416 L1-dcache-store-misses                                      
+
+       1.000602066 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           226,973 L1-dcache-stores                                            
+             6,816 L1-dcache-store-misses                                      
+
+       1.000872112 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           235,079 L1-dcache-stores                                            
+             7,089 L1-dcache-store-misses                                      
+
+       1.000668138 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           256,273 L1-dcache-stores                                            
+             8,253 L1-dcache-store-misses                                      
+
+       1.000817870 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           235,570 L1-dcache-stores                                            
+             7,170 L1-dcache-store-misses                                      
+
+       1.000643442 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           250,335 L1-dcache-stores                                            
+             7,729 L1-dcache-store-misses                                      
+
+       1.000761470 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           242,151 L1-dcache-stores                                            
+             7,272 L1-dcache-store-misses                                      
+
+       1.000669200 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           249,740 L1-dcache-stores                                            
+             7,733 L1-dcache-store-misses                                      
+
+       1.000956278 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           231,720 L1-dcache-stores                                            
+             6,774 L1-dcache-store-misses                                      
+
+       1.000639230 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           238,994 L1-dcache-stores                                            
+             7,231 L1-dcache-store-misses                                      
+
+       1.000828152 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           396,644 L1-dcache-stores                                            
+            53,506 L1-dcache-store-misses                                      
+
+       1.000686351 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           238,800 L1-dcache-stores                                            
+             7,209 L1-dcache-store-misses                                      
+
+       1.000717625 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           249,763 L1-dcache-stores                                            
+             7,844 L1-dcache-store-misses                                      
+
+       1.000752798 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           209,341 L1-dcache-stores                                            
+             6,392 L1-dcache-store-misses                                      
+
+       1.000614772 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           402,916 L1-dcache-stores                                            
+            20,035 L1-dcache-store-misses                                      
+
+       1.000836338 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           216,106 L1-dcache-stores                                            
+             6,892 L1-dcache-store-misses                                      
+
+       1.000597215 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           258,373 L1-dcache-stores                                            
+             7,358 L1-dcache-store-misses                                      
+
+       1.000603579 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           244,061 L1-dcache-stores                                            
+             7,497 L1-dcache-store-misses                                      
+
+       1.000772026 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         1,099,086 L1-dcache-stores                                            
+           269,130 L1-dcache-store-misses                                      
+
+       1.000620545 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+       372,215,667 L1-dcache-stores                                             [100.00%]
+         6,460,185 L1-dcache-store-misses                                       [100.00%]
+
+       1.000681527 seconds time elapsed
+

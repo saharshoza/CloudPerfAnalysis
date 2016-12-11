@@ -1,0 +1,1440 @@
+
+ Performance counter stats for process id '79575':
+
+         3,576,973 cycles:uk                
+         1,592,210 instructions:uk           #    0.45  insns per cycle        
+
+       1.000625349 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,618,345 cycles:uk                
+         1,210,142 instructions:uk           #    0.46  insns per cycle        
+
+       1.000590026 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,997,584 cycles:uk                
+         1,730,730 instructions:uk           #    0.43  insns per cycle        
+
+       1.000618689 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,397,682 cycles:uk                
+         1,187,236 instructions:uk           #    0.50  insns per cycle        
+
+       1.000629191 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,687,911 cycles:uk                
+         1,674,874 instructions:uk           #    0.45  insns per cycle        
+
+       1.000692216 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,997,976 cycles:uk                
+         1,211,999 instructions:uk           #    0.40  insns per cycle        
+
+       1.000749559 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,519,812 cycles:uk                
+         1,625,521 instructions:uk           #    0.46  insns per cycle        
+
+       1.000608487 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,885,455 cycles:uk                
+         1,342,308 instructions:uk           #    0.47  insns per cycle        
+
+       1.000597732 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,512,350 cycles:uk                
+         1,594,572 instructions:uk           #    0.45  insns per cycle        
+
+       1.000649436 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+     1,982,006,546 cycles:uk                
+     2,283,104,530 instructions:uk           #    1.15  insns per cycle        
+
+       1.000670331 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,556,799 cycles:uk                
+         1,898,235 instructions:uk           #    0.42  insns per cycle        
+
+       1.000699817 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         6,642,722 cycles:uk                
+         2,267,561 instructions:uk           #    0.34  insns per cycle        
+
+       1.000676218 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         6,233,858 cycles:uk                
+         2,804,224 instructions:uk           #    0.45  insns per cycle        
+
+       1.000707025 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,472,797 cycles:uk                
+         1,498,297 instructions:uk           #    0.43  insns per cycle        
+
+       1.000677663 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,834,081 cycles:uk                
+         1,676,305 instructions:uk           #    0.44  insns per cycle        
+
+       1.000653867 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,043,339 cycles:uk                
+         1,525,139 instructions:uk           #    0.38  insns per cycle        
+
+       1.000724746 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,810,664 cycles:uk                
+         2,115,369 instructions:uk           #    0.36  insns per cycle        
+
+       1.000825411 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,449,998 cycles:uk                
+         1,536,734 instructions:uk           #    0.45  insns per cycle        
+
+       1.000641202 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,449,686 cycles:uk                
+         1,870,798 instructions:uk           #    0.42  insns per cycle        
+
+       1.000655982 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,492,365 cycles:uk                
+         1,501,907 instructions:uk           #    0.43  insns per cycle        
+
+       1.000710749 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,433,278 cycles:uk                
+         1,661,524 instructions:uk           #    0.37  insns per cycle        
+
+       1.000708294 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,430,066 cycles:uk                
+         1,492,634 instructions:uk           #    0.44  insns per cycle        
+
+       1.000765659 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,389,588 cycles:uk                
+         1,897,835 instructions:uk           #    0.43  insns per cycle        
+
+       1.000634750 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,707,879 cycles:uk                
+         1,462,838 instructions:uk           #    0.39  insns per cycle        
+
+       1.000658580 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,332,328 cycles:uk                
+         1,600,520 instructions:uk           #    0.48  insns per cycle        
+
+       1.000730312 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,287,982 cycles:uk                
+         1,599,853 instructions:uk           #    0.49  insns per cycle        
+
+       1.000633439 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,464,233 cycles:uk                
+         1,220,206 instructions:uk           #    0.50  insns per cycle        
+
+       1.000760485 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         6,659,204 cycles:uk                
+         2,689,289 instructions:uk           #    0.40  insns per cycle        
+
+       1.000755548 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,894,391 cycles:uk                
+         1,419,445 instructions:uk           #    0.49  insns per cycle        
+
+       1.000588214 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,185,105 cycles:uk                
+         1,578,355 instructions:uk           #    0.50  insns per cycle        
+
+       1.000938616 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,114,356 cycles:uk                
+         1,366,540 instructions:uk           #    0.44  insns per cycle        
+
+       1.000753228 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,856,987 cycles:uk                
+         1,892,763 instructions:uk           #    0.39  insns per cycle        
+
+       1.000693108 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,487,019 cycles:uk                
+         1,228,609 instructions:uk           #    0.49  insns per cycle        
+
+       1.000807329 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,972,678 cycles:uk                
+         1,717,282 instructions:uk           #    0.43  insns per cycle        
+
+       1.000672356 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,315,244 cycles:uk                
+         1,721,694 instructions:uk           #    0.40  insns per cycle        
+
+       1.000811793 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,813,385 cycles:uk                
+         1,386,688 instructions:uk           #    0.49  insns per cycle        
+
+       1.000698082 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,067,985 cycles:uk                
+         1,469,221 instructions:uk           #    0.48  insns per cycle        
+
+       1.000735551 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,490,994 cycles:uk                
+         1,427,143 instructions:uk           #    0.41  insns per cycle        
+
+       1.000691942 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,693,347 cycles:uk                
+         1,888,927 instructions:uk           #    0.40  insns per cycle        
+
+       1.000703729 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,313,493 cycles:uk                
+         1,212,498 instructions:uk           #    0.52  insns per cycle        
+
+       1.000733675 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,381,969 cycles:uk                
+         1,587,029 instructions:uk           #    0.47  insns per cycle        
+
+       1.000642534 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,476,448 cycles:uk                
+         1,237,964 instructions:uk           #    0.50  insns per cycle        
+
+       1.000729813 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         9,140,991 cycles:uk                
+         3,614,510 instructions:uk           #    0.40  insns per cycle        
+
+       1.000667643 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,892,179 cycles:uk                
+         2,189,127 instructions:uk           #    0.37  insns per cycle        
+
+       1.000747528 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,807,296 cycles:uk                
+         2,506,679 instructions:uk           #    0.43  insns per cycle        
+
+       1.000649119 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,510,417 cycles:uk                
+         1,942,873 instructions:uk           #    0.43  insns per cycle        
+
+       1.000635861 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,559,590 cycles:uk                
+         2,479,261 instructions:uk           #    0.45  insns per cycle        
+
+       1.000691955 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,983,844 cycles:uk                
+         1,937,954 instructions:uk           #    0.39  insns per cycle        
+
+       1.000751569 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,070,057 cycles:uk                
+         1,941,117 instructions:uk           #    0.48  insns per cycle        
+
+       1.000779429 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,017,348 cycles:uk                
+         1,306,951 instructions:uk           #    0.43  insns per cycle        
+
+       1.000688289 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,659,637 cycles:uk                
+         1,921,860 instructions:uk           #    0.41  insns per cycle        
+
+       1.000642568 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,087,311 cycles:uk                
+         1,573,635 instructions:uk           #    0.39  insns per cycle        
+
+       1.000630278 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,887,842 cycles:uk                
+         2,022,112 instructions:uk           #    0.41  insns per cycle        
+
+       1.000637228 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,917,720 cycles:uk                
+         1,564,232 instructions:uk           #    0.40  insns per cycle        
+
+       1.000637711 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,690,367 cycles:uk                
+         1,589,824 instructions:uk           #    0.43  insns per cycle        
+
+       1.000689833 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,778,192 cycles:uk                
+         1,898,734 instructions:uk           #    0.40  insns per cycle        
+
+       1.000674051 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,794,674 cycles:uk                
+         1,587,297 instructions:uk           #    0.42  insns per cycle        
+
+       1.000657725 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         6,348,912 cycles:uk                
+         2,720,480 instructions:uk           #    0.43  insns per cycle        
+
+       1.000628465 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,754,164 cycles:uk                
+         1,544,537 instructions:uk           #    0.41  insns per cycle        
+
+       1.000814955 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,127,195 cycles:uk                
+         1,620,602 instructions:uk           #    0.52  insns per cycle        
+
+       1.000645373 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,636,340 cycles:uk                
+         1,520,113 instructions:uk           #    0.42  insns per cycle        
+
+       1.000643032 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,661,914 cycles:uk                
+         1,946,901 instructions:uk           #    0.42  insns per cycle        
+
+       1.000669749 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,680,365 cycles:uk                
+         1,570,544 instructions:uk           #    0.43  insns per cycle        
+
+       1.000759346 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,259,552 cycles:uk                
+         1,974,189 instructions:uk           #    0.46  insns per cycle        
+
+       1.000649453 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,388,208 cycles:uk                
+         1,207,095 instructions:uk           #    0.51  insns per cycle        
+
+       1.000578182 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,395,043 cycles:uk                
+         1,883,050 instructions:uk           #    0.43  insns per cycle        
+
+       1.000722921 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,715,011 cycles:uk                
+         1,661,216 instructions:uk           #    0.45  insns per cycle        
+
+       1.000658577 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,523,065 cycles:uk                
+         1,676,559 instructions:uk           #    0.48  insns per cycle        
+
+       1.000554589 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,584,100 cycles:uk                
+         1,848,497 instructions:uk           #    0.40  insns per cycle        
+
+       1.000630654 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,936,605 cycles:uk                
+         1,659,707 instructions:uk           #    0.42  insns per cycle        
+
+       1.000873446 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,479,216 cycles:uk                
+         1,206,749 instructions:uk           #    0.49  insns per cycle        
+
+       1.000750092 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,332,336 cycles:uk                
+         2,468,184 instructions:uk           #    0.46  insns per cycle        
+
+       1.000753094 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,353,775 cycles:uk                
+         1,416,620 instructions:uk           #    0.60  insns per cycle        
+
+       1.000641080 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,313,457 cycles:uk                
+         1,196,288 instructions:uk           #    0.36  insns per cycle        
+
+       1.000653335 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,769,858 cycles:uk                
+         1,397,533 instructions:uk           #    0.50  insns per cycle        
+
+       1.000666372 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,984,541 cycles:uk                
+         1,590,800 instructions:uk           #    0.40  insns per cycle        
+
+       1.000752354 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,968,171 cycles:uk                
+         1,551,666 instructions:uk           #    0.52  insns per cycle        
+
+       1.000786798 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,393,918 cycles:uk                
+         1,236,801 instructions:uk           #    0.52  insns per cycle        
+
+       1.000694637 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,974,436 cycles:uk                
+         1,817,803 instructions:uk           #    0.46  insns per cycle        
+
+       1.000748670 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,473,762 cycles:uk                
+         1,188,505 instructions:uk           #    0.48  insns per cycle        
+
+       1.000640570 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,250,443 cycles:uk                
+         1,223,250 instructions:uk           #    0.54  insns per cycle        
+
+       1.000635048 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,659,218 cycles:uk                
+         1,736,619 instructions:uk           #    0.47  insns per cycle        
+
+       1.000905400 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,054,024 cycles:uk                
+         1,250,681 instructions:uk           #    0.41  insns per cycle        
+
+       1.000636262 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,083,548 cycles:uk                
+         1,593,324 instructions:uk           #    0.52  insns per cycle        
+
+       1.000715458 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,133,306 cycles:uk                
+         1,220,444 instructions:uk           #    0.57  insns per cycle        
+
+       1.000716701 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,429,818 cycles:uk                
+         1,634,728 instructions:uk           #    0.48  insns per cycle        
+
+       1.000651755 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,889,900 cycles:uk                
+         2,003,025 instructions:uk           #    0.34  insns per cycle        
+
+       1.000676634 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,955,906 cycles:uk                
+         1,589,987 instructions:uk           #    0.54  insns per cycle        
+
+       1.000794008 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,135,849 cycles:uk                
+         1,189,846 instructions:uk           #    0.56  insns per cycle        
+
+       1.000723740 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,728,158 cycles:uk                
+         1,794,439 instructions:uk           #    0.48  insns per cycle        
+
+       1.000836801 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,409,379 cycles:uk                
+         1,084,653 instructions:uk           #    0.32  insns per cycle        
+
+       1.000734065 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,223,839 cycles:uk                
+         1,643,191 instructions:uk           #    0.51  insns per cycle        
+
+       1.000560484 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,714,048 cycles:uk                
+         1,337,848 instructions:uk           #    0.49  insns per cycle        
+
+       1.000698243 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,658,267 cycles:uk                
+         1,499,203 instructions:uk           #    0.56  insns per cycle         [85.64%]
+
+       1.000668502 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,254,670 cycles:uk                
+         1,763,621 instructions:uk           #    0.41  insns per cycle         [90.63%]
+
+       1.000676353 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,571,716 cycles:uk                
+         1,470,035 instructions:uk           #    0.41  insns per cycle         [86.02%]
+
+       1.000668965 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,792,915 cycles:uk                
+         1,620,043 instructions:uk           #    0.34  insns per cycle         [88.60%]
+
+       1.000762335 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,967,813 cycles:uk                
+         1,446,411 instructions:uk           #    0.36  insns per cycle         [89.43%]
+
+       1.000884417 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,758,052 cycles:uk                
+         1,721,811 instructions:uk           #    0.46  insns per cycle         [84.98%]
+
+       1.000716028 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,349,700 cycles:uk                
+         1,200,597 instructions:uk           #    0.51  insns per cycle         [87.62%]
+
+       1.000658192 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,714,158 cycles:uk                
+         1,691,472 instructions:uk           #    0.36  insns per cycle         [87.76%]
+
+       1.000778002 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,110,337 cycles:uk                
+         2,175,100 instructions:uk           #    0.43  insns per cycle         [91.71%]
+
+       1.000630734 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,080,949 cycles:uk                
+         1,796,897 instructions:uk           #    0.44  insns per cycle         [86.32%]
+
+       1.000701785 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,714,258 cycles:uk                
+         1,198,748 instructions:uk           #    0.32  insns per cycle         [87.85%]
+
+       1.000741311 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,657,576 cycles:uk                
+         1,640,339 instructions:uk           #    0.45  insns per cycle         [83.64%]
+
+       1.000668641 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,164,312 cycles:uk                
+         1,225,569 instructions:uk           #    0.57  insns per cycle         [86.24%]
+
+       1.000732546 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,939,346 cycles:uk                
+         1,678,058 instructions:uk           #    0.57  insns per cycle         [81.47%]
+
+       1.000734614 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,112,866 cycles:uk                
+         1,147,181 instructions:uk           #    0.54  insns per cycle         [89.97%]
+
+       1.000744263 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,456,991 cycles:uk                
+         1,774,278 instructions:uk           #    0.51  insns per cycle         [84.32%]
+
+       1.000651291 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,174,992 cycles:uk                
+         1,268,694 instructions:uk           #    0.40  insns per cycle         [88.50%]
+
+       1.000667978 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,545,969 cycles:uk                
+         1,645,566 instructions:uk           #    0.46  insns per cycle         [84.94%]
+
+       1.000668406 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,369,108 cycles:uk                
+         1,299,239 instructions:uk           #    0.55  insns per cycle         [85.56%]
+
+       1.000583991 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,780,642 cycles:uk                
+         1,655,775 instructions:uk           #    0.60  insns per cycle         [80.46%]
+
+       1.000822019 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,232,530 cycles:uk                
+         1,201,076 instructions:uk           #    0.54  insns per cycle         [87.58%]
+
+       1.000579412 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,214,891 cycles:uk                
+         1,461,676 instructions:uk           #    0.45  insns per cycle         [84.21%]
+
+       1.000700007 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,119,648 cycles:uk                
+         1,597,165 instructions:uk           #    0.51  insns per cycle         [84.08%]
+
+       1.000656924 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,602,452 cycles:uk                
+         2,077,635 instructions:uk           #    0.45  insns per cycle         [92.52%]
+
+       1.000722963 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,842,048 cycles:uk                
+         1,583,146 instructions:uk           #    0.56  insns per cycle         [82.59%]
+
+       1.000758190 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,760,932 cycles:uk                
+         1,342,939 instructions:uk           #    0.49  insns per cycle         [91.84%]
+
+       1.000694782 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,906,404 cycles:uk                
+         1,830,246 instructions:uk           #    0.37  insns per cycle         [85.13%]
+
+       1.000683510 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,670,362 cycles:uk                
+         1,483,059 instructions:uk           #    0.40  insns per cycle         [87.31%]
+
+       1.000794924 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,978,387 cycles:uk                
+         1,335,556 instructions:uk           #    0.45  insns per cycle         [87.20%]
+
+       1.000773261 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,561,262 cycles:uk                
+         1,388,359 instructions:uk           #    0.54  insns per cycle         [87.36%]
+
+       1.000728380 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,474,714 cycles:uk                
+         1,326,701 instructions:uk           #    0.54  insns per cycle         [85.10%]
+
+       1.000709996 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,258,871 cycles:uk                
+         1,654,425 instructions:uk           #    0.39  insns per cycle         [86.28%]
+
+       1.000658799 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,637,082 cycles:uk                
+         1,281,118 instructions:uk           #    0.49  insns per cycle         [88.56%]
+
+       1.000710701 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,354,480 cycles:uk                
+         1,825,405 instructions:uk           #    0.42  insns per cycle         [85.52%]
+
+       1.000707808 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,076,023 cycles:uk                
+         1,238,012 instructions:uk           #    0.40  insns per cycle         [88.13%]
+
+       1.000707745 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,562,614 cycles:uk                
+         1,635,161 instructions:uk           #    0.46  insns per cycle         [86.15%]
+
+       1.000861982 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,442,379 cycles:uk                
+         1,173,950 instructions:uk           #    0.34  insns per cycle         [86.39%]
+
+       1.000730356 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,756,925 cycles:uk                
+         2,446,311 instructions:uk           #    0.42  insns per cycle         [90.25%]
+
+       1.000564833 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,250,171 cycles:uk                
+         1,240,507 instructions:uk           #    0.55  insns per cycle         [85.96%]
+
+       1.000922262 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,497,685 cycles:uk                
+         1,807,935 instructions:uk           #    0.52  insns per cycle         [82.91%]
+
+       1.000641644 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,852,322 cycles:uk                
+         1,162,316 instructions:uk           #    0.41  insns per cycle         [87.43%]
+
+       1.000647513 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,162,066 cycles:uk                
+         1,977,454 instructions:uk           #    0.48  insns per cycle         [82.38%]
+
+       1.000749589 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,203,870 cycles:uk                
+         1,243,120 instructions:uk           #    0.56  insns per cycle        
+
+       1.000713677 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,420,003 cycles:uk                
+         1,766,678 instructions:uk           #    0.52  insns per cycle        
+
+       1.000683697 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,060,940 cycles:uk                
+         1,280,633 instructions:uk           #    0.42  insns per cycle        
+
+       1.000697602 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,787,343 cycles:uk                
+         1,860,981 instructions:uk           #    0.49  insns per cycle        
+
+       1.000721135 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,110,665 cycles:uk                
+         1,182,312 instructions:uk           #    0.38  insns per cycle        
+
+       1.000685454 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,303,499 cycles:uk                
+         1,627,290 instructions:uk           #    0.49  insns per cycle        
+
+       1.000604013 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,272,347 cycles:uk                
+         1,203,308 instructions:uk           #    0.53  insns per cycle        
+
+       1.000542572 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,299,726 cycles:uk                
+         1,635,674 instructions:uk           #    0.50  insns per cycle        
+
+       1.000949900 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,744,685 cycles:uk                
+         1,319,595 instructions:uk           #    0.48  insns per cycle        
+
+       1.000922000 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,528,087 cycles:uk                
+         1,624,515 instructions:uk           #    0.46  insns per cycle        
+
+       1.000996207 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,854,015 cycles:uk                
+         2,296,691 instructions:uk           #    0.39  insns per cycle        
+
+       1.000655867 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        10,659,444 cycles:uk                
+         7,637,924 instructions:uk           #    0.72  insns per cycle        
+
+       1.000776781 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,494,534 cycles:uk                
+         1,245,092 instructions:uk           #    0.50  insns per cycle        
+
+       1.000703285 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,413,316 cycles:uk                
+         1,766,570 instructions:uk           #    0.52  insns per cycle        
+
+       1.000664161 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,144,602 cycles:uk                
+         1,273,087 instructions:uk           #    0.40  insns per cycle        
+
+       1.000753071 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,663,854 cycles:uk                
+         1,647,603 instructions:uk           #    0.45  insns per cycle        
+
+       1.000725760 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,150,096 cycles:uk                
+         1,204,179 instructions:uk           #    0.56  insns per cycle        
+
+       1.000754143 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,067,329 cycles:uk                
+         1,653,569 instructions:uk           #    0.54  insns per cycle        
+
+       1.000821146 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,596,834 cycles:uk                
+         1,192,079 instructions:uk           #    0.46  insns per cycle        
+
+       1.000680556 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,129,830 cycles:uk                
+         1,473,223 instructions:uk           #    0.47  insns per cycle        
+
+       1.000745742 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,412,889 cycles:uk                
+         1,894,041 instructions:uk           #    0.43  insns per cycle        
+
+       1.000660072 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,249,512 cycles:uk                
+         1,430,639 instructions:uk           #    0.44  insns per cycle        
+
+       1.000728009 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,977,404 cycles:uk                
+         1,839,709 instructions:uk           #    0.37  insns per cycle        
+
+       1.000650775 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,935,609 cycles:uk                
+         1,252,758 instructions:uk           #    0.43  insns per cycle        
+
+       1.000852314 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,755,445 cycles:uk                
+         1,825,104 instructions:uk           #    0.38  insns per cycle        
+
+       1.000768957 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         5,412,817 cycles:uk                
+         2,177,818 instructions:uk           #    0.40  insns per cycle        
+
+       1.000720272 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,201,863 cycles:uk                
+         1,594,742 instructions:uk           #    0.50  insns per cycle        
+
+       1.000717319 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,828,830 cycles:uk                
+         1,207,566 instructions:uk           #    0.43  insns per cycle        
+
+       1.000738123 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,164,883 cycles:uk                
+         1,644,677 instructions:uk           #    0.52  insns per cycle        
+
+       1.000651063 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,150,705 cycles:uk                
+         1,162,436 instructions:uk           #    0.54  insns per cycle        
+
+       1.000802754 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,837,434 cycles:uk                
+         1,526,581 instructions:uk           #    0.54  insns per cycle        
+
+       1.000644223 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,207,459 cycles:uk                
+         1,205,858 instructions:uk           #    0.55  insns per cycle        
+
+       1.000845786 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,008,344 cycles:uk                
+         1,629,680 instructions:uk           #    0.54  insns per cycle        
+
+       1.000748283 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,110,567 cycles:uk                
+         1,170,552 instructions:uk           #    0.55  insns per cycle        
+
+       1.000639151 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         3,118,935 cycles:uk                
+         1,657,006 instructions:uk           #    0.53  insns per cycle        
+
+       1.000756547 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,243,961 cycles:uk                
+         1,245,874 instructions:uk           #    0.56  insns per cycle        
+
+       1.000632191 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,722,297 cycles:uk                
+         1,542,475 instructions:uk           #    0.57  insns per cycle        
+
+       1.000740449 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,208,390 cycles:uk                
+         1,214,133 instructions:uk           #    0.55  insns per cycle        
+
+       1.000726300 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,752,824 cycles:uk                
+         1,611,666 instructions:uk           #    0.59  insns per cycle        
+
+       1.000845227 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,226,166 cycles:uk                
+         1,224,281 instructions:uk           #    0.55  insns per cycle        
+
+       1.000644816 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         4,735,454 cycles:uk                
+         2,098,024 instructions:uk           #    0.44  insns per cycle        
+
+       1.000624029 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,862,961 cycles:uk                
+         1,592,623 instructions:uk           #    0.56  insns per cycle        
+
+       1.000621944 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,179,417 cycles:uk                
+         1,207,666 instructions:uk           #    0.55  insns per cycle        
+
+       1.000847760 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,844,788 cycles:uk                
+         1,613,264 instructions:uk           #    0.57  insns per cycle        
+
+       1.000728959 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+     1,818,521,381 cycles:uk                 [100.00%]
+     1,852,010,882 instructions:uk           #    1.02  insns per cycle         [100.00%]
+
+       1.000687351 seconds time elapsed
+

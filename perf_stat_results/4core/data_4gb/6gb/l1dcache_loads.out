@@ -1,0 +1,1384 @@
+
+ Performance counter stats for process id '137379':
+
+       347,454,139 L1-dcache-loads                                              [99.95%]
+         6,906,705 L1-dcache-load-misses     #    1.99% of all L1-dcache hits   [99.95%]
+
+       1.000645864 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        42,581,160 L1-dcache-loads                                             
+           717,965 L1-dcache-load-misses     #    1.69% of all L1-dcache hits  
+
+       1.000684454 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        13,998,752 L1-dcache-loads                                             
+           250,989 L1-dcache-load-misses     #    1.79% of all L1-dcache hits  
+
+       1.000747725 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        28,317,286 L1-dcache-loads                                              [100.00%]
+           630,753 L1-dcache-load-misses     #    2.23% of all L1-dcache hits  
+
+       1.000828706 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        21,631,218 L1-dcache-loads                                             
+           438,045 L1-dcache-load-misses     #    2.03% of all L1-dcache hits  
+
+       1.000674186 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       465,143,139 L1-dcache-loads                                             
+        10,505,108 L1-dcache-load-misses     #    2.26% of all L1-dcache hits  
+
+       1.000818823 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         4,125,727 L1-dcache-loads                                             
+           244,272 L1-dcache-load-misses     #    5.92% of all L1-dcache hits  
+
+       1.000693178 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           497,747 L1-dcache-loads                                             
+            56,169 L1-dcache-load-misses     #   11.28% of all L1-dcache hits  
+
+       1.000687160 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           412,380 L1-dcache-loads                                             
+            47,027 L1-dcache-load-misses     #   11.40% of all L1-dcache hits  
+
+       1.000686473 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           494,733 L1-dcache-loads                                             
+            55,657 L1-dcache-load-misses     #   11.25% of all L1-dcache hits  
+
+       1.000626599 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           404,045 L1-dcache-loads                                             
+            45,341 L1-dcache-load-misses     #   11.22% of all L1-dcache hits  
+
+       1.000690351 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           526,628 L1-dcache-loads                                             
+            59,723 L1-dcache-load-misses     #   11.34% of all L1-dcache hits  
+
+       1.000732358 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           404,384 L1-dcache-loads                                             
+            45,266 L1-dcache-load-misses     #   11.19% of all L1-dcache hits  
+
+       1.000651578 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           634,950 L1-dcache-loads                                             
+            78,816 L1-dcache-load-misses     #   12.41% of all L1-dcache hits  
+
+       1.000691000 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           559,989 L1-dcache-loads                                             
+            63,046 L1-dcache-load-misses     #   11.26% of all L1-dcache hits  
+
+       1.000783275 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+     1,357,869,941 L1-dcache-loads                                             
+       115,634,170 L1-dcache-load-misses     #    8.52% of all L1-dcache hits  
+
+       1.000653329 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           652,068 L1-dcache-loads                                             
+            75,515 L1-dcache-load-misses     #   11.58% of all L1-dcache hits  
+
+       1.000650836 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        11,113,306 L1-dcache-loads                                             
+           782,640 L1-dcache-load-misses     #    7.04% of all L1-dcache hits  
+
+       1.000734599 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           501,229 L1-dcache-loads                                             
+            61,750 L1-dcache-load-misses     #   12.32% of all L1-dcache hits  
+
+       1.000691484 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           502,685 L1-dcache-loads                                             
+            58,163 L1-dcache-load-misses     #   11.57% of all L1-dcache hits  
+
+       1.001024282 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           747,749 L1-dcache-loads                                             
+           113,138 L1-dcache-load-misses     #   15.13% of all L1-dcache hits  
+
+       1.000672806 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           677,586 L1-dcache-loads                                             
+            82,292 L1-dcache-load-misses     #   12.14% of all L1-dcache hits  
+
+       1.000658874 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           515,964 L1-dcache-loads                                             
+            63,070 L1-dcache-load-misses     #   12.22% of all L1-dcache hits  
+
+       1.000668406 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           517,981 L1-dcache-loads                                             
+            61,027 L1-dcache-load-misses     #   11.78% of all L1-dcache hits  
+
+       1.000757503 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           496,977 L1-dcache-loads                                             
+            61,856 L1-dcache-load-misses     #   12.45% of all L1-dcache hits  
+
+       1.000774783 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           610,495 L1-dcache-loads                                             
+            75,069 L1-dcache-load-misses     #   12.30% of all L1-dcache hits  
+
+       1.000697038 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           511,411 L1-dcache-loads                                             
+            63,082 L1-dcache-load-misses     #   12.33% of all L1-dcache hits  
+
+       1.000703065 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           631,846 L1-dcache-loads                                             
+            79,629 L1-dcache-load-misses     #   12.60% of all L1-dcache hits  
+
+       1.000844636 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           459,274 L1-dcache-loads                                             
+            59,815 L1-dcache-load-misses     #   13.02% of all L1-dcache hits  
+
+       1.000805595 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           657,068 L1-dcache-loads                                             
+            85,635 L1-dcache-load-misses     #   13.03% of all L1-dcache hits  
+
+       1.000927755 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           522,366 L1-dcache-loads                                             
+            68,151 L1-dcache-load-misses     #   13.05% of all L1-dcache hits  
+
+       1.000718220 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           686,563 L1-dcache-loads                                             
+            88,330 L1-dcache-load-misses     #   12.87% of all L1-dcache hits  
+
+       1.000776920 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           538,181 L1-dcache-loads                                             
+            68,789 L1-dcache-load-misses     #   12.78% of all L1-dcache hits  
+
+       1.000769459 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           804,659 L1-dcache-loads                                             
+           106,737 L1-dcache-load-misses     #   13.26% of all L1-dcache hits  
+
+       1.000676553 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           806,996 L1-dcache-loads                                             
+           108,630 L1-dcache-load-misses     #   13.46% of all L1-dcache hits  
+
+       1.000662649 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+         1,316,441 L1-dcache-loads                                             
+           208,608 L1-dcache-load-misses     #   15.85% of all L1-dcache hits  
+
+       1.000670385 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           912,628 L1-dcache-loads                                             
+           126,562 L1-dcache-load-misses     #   13.87% of all L1-dcache hits  
+
+       1.000617073 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           537,852 L1-dcache-loads                                             
+            62,470 L1-dcache-load-misses     #   11.61% of all L1-dcache hits  
+
+       1.000718681 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           627,921 L1-dcache-loads                                             
+            81,057 L1-dcache-load-misses     #   12.91% of all L1-dcache hits  
+
+       1.000688803 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           586,540 L1-dcache-loads                                             
+            70,673 L1-dcache-load-misses     #   12.05% of all L1-dcache hits  
+
+       1.000732880 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           554,097 L1-dcache-loads                                             
+            69,469 L1-dcache-load-misses     #   12.54% of all L1-dcache hits  
+
+       1.000655488 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           731,221 L1-dcache-loads                                             
+            92,631 L1-dcache-load-misses     #   12.67% of all L1-dcache hits  
+
+       1.000711099 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           434,990 L1-dcache-loads                                             
+            49,620 L1-dcache-load-misses     #   11.41% of all L1-dcache hits  
+
+       1.000716419 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           716,194 L1-dcache-loads                                             
+            90,827 L1-dcache-load-misses     #   12.68% of all L1-dcache hits  
+
+       1.000723878 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           618,803 L1-dcache-loads                                             
+            79,675 L1-dcache-load-misses     #   12.88% of all L1-dcache hits  
+
+       1.000764154 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           597,305 L1-dcache-loads                                             
+            71,323 L1-dcache-load-misses     #   11.94% of all L1-dcache hits  
+
+       1.000661694 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           570,845 L1-dcache-loads                                             
+            72,573 L1-dcache-load-misses     #   12.71% of all L1-dcache hits  
+
+       1.000689471 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           520,888 L1-dcache-loads                                             
+            64,614 L1-dcache-load-misses     #   12.40% of all L1-dcache hits  
+
+       1.000636027 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           759,911 L1-dcache-loads                                             
+           103,158 L1-dcache-load-misses     #   13.58% of all L1-dcache hits  
+
+       1.000680342 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           428,072 L1-dcache-loads                                             
+            49,780 L1-dcache-load-misses     #   11.63% of all L1-dcache hits  
+
+       1.000699816 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           804,591 L1-dcache-loads                                             
+           125,046 L1-dcache-load-misses     #   15.54% of all L1-dcache hits  
+
+       1.000882458 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           329,320 L1-dcache-loads                                             
+            41,292 L1-dcache-load-misses     #   12.54% of all L1-dcache hits  
+
+       1.000691069 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           711,441 L1-dcache-loads                                             
+            92,407 L1-dcache-load-misses     #   12.99% of all L1-dcache hits  
+
+       1.000710466 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           427,275 L1-dcache-loads                                             
+            50,001 L1-dcache-load-misses     #   11.70% of all L1-dcache hits  
+
+       1.000630441 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           541,930 L1-dcache-loads                                             
+            63,712 L1-dcache-load-misses     #   11.76% of all L1-dcache hits  
+
+       1.000717673 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           320,978 L1-dcache-loads                                             
+            40,265 L1-dcache-load-misses     #   12.54% of all L1-dcache hits  
+
+       1.000733348 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           649,140 L1-dcache-loads                                             
+            88,396 L1-dcache-load-misses     #   13.62% of all L1-dcache hits  
+
+       1.000970728 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           427,596 L1-dcache-loads                                             
+            49,844 L1-dcache-load-misses     #   11.66% of all L1-dcache hits  
+
+       1.000752509 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           482,679 L1-dcache-loads                                             
+            55,046 L1-dcache-load-misses     #   11.40% of all L1-dcache hits  
+
+       1.000704513 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           455,549 L1-dcache-loads                                             
+            51,772 L1-dcache-load-misses     #   11.36% of all L1-dcache hits  
+
+       1.000837036 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           415,951 L1-dcache-loads                                             
+            47,217 L1-dcache-load-misses     #   11.35% of all L1-dcache hits  
+
+       1.000682597 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           478,392 L1-dcache-loads                                             
+            57,765 L1-dcache-load-misses     #   12.07% of all L1-dcache hits  
+
+       1.000884062 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           335,753 L1-dcache-loads                                             
+            40,360 L1-dcache-load-misses     #   12.02% of all L1-dcache hits  
+
+       1.001061238 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           515,761 L1-dcache-loads                                             
+            59,257 L1-dcache-load-misses     #   11.49% of all L1-dcache hits  
+
+       1.000640910 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           654,837 L1-dcache-loads                                             
+           107,594 L1-dcache-load-misses     #   16.43% of all L1-dcache hits  
+
+       1.000657299 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           499,909 L1-dcache-loads                                             
+            57,253 L1-dcache-load-misses     #   11.45% of all L1-dcache hits  
+
+       1.000677493 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           425,359 L1-dcache-loads                                             
+            48,060 L1-dcache-load-misses     #   11.30% of all L1-dcache hits  
+
+       1.000656250 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           663,994 L1-dcache-loads                                             
+            85,866 L1-dcache-load-misses     #   12.93% of all L1-dcache hits  
+
+       1.000897199 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           471,171 L1-dcache-loads                                             
+            57,122 L1-dcache-load-misses     #   12.12% of all L1-dcache hits  
+
+       1.000639903 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           533,459 L1-dcache-loads                                             
+            62,601 L1-dcache-load-misses     #   11.73% of all L1-dcache hits  
+
+       1.000736636 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           399,313 L1-dcache-loads                                             
+            45,513 L1-dcache-load-misses     #   11.40% of all L1-dcache hits  
+
+       1.000706366 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           623,817 L1-dcache-loads                                             
+            74,787 L1-dcache-load-misses     #   11.99% of all L1-dcache hits  
+
+       1.000769205 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           517,164 L1-dcache-loads                                             
+            59,466 L1-dcache-load-misses     #   11.50% of all L1-dcache hits  
+
+       1.000707495 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           373,390 L1-dcache-loads                                             
+            44,154 L1-dcache-load-misses     #   11.83% of all L1-dcache hits  
+
+       1.000743208 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           501,639 L1-dcache-loads                                             
+            61,052 L1-dcache-load-misses     #   12.17% of all L1-dcache hits  
+
+       1.000840210 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           310,852 L1-dcache-loads                                             
+            37,706 L1-dcache-load-misses     #   12.13% of all L1-dcache hits  
+
+       1.000792204 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           421,586 L1-dcache-loads                                             
+            50,253 L1-dcache-load-misses     #   11.92% of all L1-dcache hits  
+
+       1.000757530 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           490,939 L1-dcache-loads                                             
+            56,270 L1-dcache-load-misses     #   11.46% of all L1-dcache hits  
+
+       1.000808912 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           392,405 L1-dcache-loads                                             
+            44,215 L1-dcache-load-misses     #   11.27% of all L1-dcache hits  
+
+       1.000668957 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           766,772 L1-dcache-loads                                             
+           119,883 L1-dcache-load-misses     #   15.63% of all L1-dcache hits  
+
+       1.000903390 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           463,955 L1-dcache-loads                                             
+            55,322 L1-dcache-load-misses     #   11.92% of all L1-dcache hits  
+
+       1.000742170 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           531,876 L1-dcache-loads                                             
+            61,661 L1-dcache-load-misses     #   11.59% of all L1-dcache hits  
+
+       1.000639541 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           385,333 L1-dcache-loads                                             
+            43,708 L1-dcache-load-misses     #   11.34% of all L1-dcache hits  
+
+       1.000863089 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           544,277 L1-dcache-loads                                             
+            64,039 L1-dcache-load-misses     #   11.77% of all L1-dcache hits  
+
+       1.000727861 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           418,506 L1-dcache-loads                                             
+            48,202 L1-dcache-load-misses     #   11.52% of all L1-dcache hits  
+
+       1.000705851 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           589,222 L1-dcache-loads                                             
+            74,290 L1-dcache-load-misses     #   12.61% of all L1-dcache hits  
+
+       1.000719118 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           424,106 L1-dcache-loads                                             
+            49,142 L1-dcache-load-misses     #   11.59% of all L1-dcache hits  
+
+       1.000799898 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           524,007 L1-dcache-loads                                             
+            58,475 L1-dcache-load-misses     #   11.16% of all L1-dcache hits  
+
+       1.000701550 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           394,783 L1-dcache-loads                                             
+            45,250 L1-dcache-load-misses     #   11.46% of all L1-dcache hits  
+
+       1.000781773 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           506,694 L1-dcache-loads                                             
+            57,494 L1-dcache-load-misses     #   11.35% of all L1-dcache hits  
+
+       1.000833255 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           403,436 L1-dcache-loads                                             
+            45,497 L1-dcache-load-misses     #   11.28% of all L1-dcache hits  
+
+       1.000670505 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           507,512 L1-dcache-loads                                             
+            57,632 L1-dcache-load-misses     #   11.36% of all L1-dcache hits  
+
+       1.000649668 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           386,255 L1-dcache-loads                                             
+            46,775 L1-dcache-load-misses     #   12.11% of all L1-dcache hits  
+
+       1.000895450 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           557,246 L1-dcache-loads                                             
+            65,403 L1-dcache-load-misses     #   11.74% of all L1-dcache hits  
+
+       1.000700607 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           779,385 L1-dcache-loads                                             
+           127,753 L1-dcache-load-misses     #   16.39% of all L1-dcache hits  
+
+       1.000656208 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           516,877 L1-dcache-loads                                             
+            60,155 L1-dcache-load-misses     #   11.64% of all L1-dcache hits  
+
+       1.000718022 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           476,215 L1-dcache-loads                                             
+            57,733 L1-dcache-load-misses     #   12.12% of all L1-dcache hits  
+
+       1.000802995 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           402,905 L1-dcache-loads                                             
+            45,618 L1-dcache-load-misses     #   11.32% of all L1-dcache hits  
+
+       1.000790599 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           491,322 L1-dcache-loads                                             
+            55,578 L1-dcache-load-misses     #   11.31% of all L1-dcache hits  
+
+       1.000878990 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           411,702 L1-dcache-loads                                             
+            46,384 L1-dcache-load-misses     #   11.27% of all L1-dcache hits  
+
+       1.000730855 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           475,423 L1-dcache-loads                                             
+            56,519 L1-dcache-load-misses     #   11.89% of all L1-dcache hits  
+
+       1.000801641 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           415,416 L1-dcache-loads                                             
+            46,948 L1-dcache-load-misses     #   11.30% of all L1-dcache hits  
+
+       1.000856572 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           422,648 L1-dcache-loads                                             
+            47,080 L1-dcache-load-misses     #   11.14% of all L1-dcache hits  
+
+       1.000663057 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           459,200 L1-dcache-loads                                             
+            54,450 L1-dcache-load-misses     #   11.86% of all L1-dcache hits  
+
+       1.000738059 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           397,795 L1-dcache-loads                                             
+            44,512 L1-dcache-load-misses     #   11.19% of all L1-dcache hits  
+
+       1.000863418 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           569,689 L1-dcache-loads                                             
+            67,345 L1-dcache-load-misses     #   11.82% of all L1-dcache hits  
+
+       1.000687705 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           384,484 L1-dcache-loads                                             
+            42,998 L1-dcache-load-misses     #   11.18% of all L1-dcache hits  
+
+       1.000562745 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           468,723 L1-dcache-loads                                             
+            57,248 L1-dcache-load-misses     #   12.21% of all L1-dcache hits  
+
+       1.000792564 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           824,329 L1-dcache-loads                                             
+           183,535 L1-dcache-load-misses     #   22.26% of all L1-dcache hits  
+
+       1.000761406 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           411,136 L1-dcache-loads                                             
+            46,102 L1-dcache-load-misses     #   11.21% of all L1-dcache hits  
+
+       1.000903961 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           499,253 L1-dcache-loads                                             
+            56,118 L1-dcache-load-misses     #   11.24% of all L1-dcache hits  
+
+       1.000750057 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           412,381 L1-dcache-loads                                             
+            50,057 L1-dcache-load-misses     #   12.14% of all L1-dcache hits  
+
+       1.000813587 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           418,289 L1-dcache-loads                                             
+            54,837 L1-dcache-load-misses     #   13.11% of all L1-dcache hits  
+
+       1.000694942 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           398,664 L1-dcache-loads                                              [85.07%]
+            38,520 L1-dcache-load-misses     #    9.66% of all L1-dcache hits  
+
+       1.000683567 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           526,006 L1-dcache-loads                                              [84.94%]
+            51,083 L1-dcache-load-misses     #    9.71% of all L1-dcache hits  
+
+       1.000708928 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           453,592 L1-dcache-loads                                              [92.53%]
+            51,805 L1-dcache-load-misses     #   11.42% of all L1-dcache hits  
+
+       1.000786140 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           528,826 L1-dcache-loads                                              [84.75%]
+            50,609 L1-dcache-load-misses     #    9.57% of all L1-dcache hits  
+
+       1.000562548 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           524,181 L1-dcache-loads                                              [88.26%]
+            58,390 L1-dcache-load-misses     #   11.14% of all L1-dcache hits  
+
+       1.000680692 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           389,357 L1-dcache-loads                                              [85.88%]
+            38,887 L1-dcache-load-misses     #    9.99% of all L1-dcache hits  
+
+       1.000844628 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           503,401 L1-dcache-loads                                              [86.82%]
+            49,488 L1-dcache-load-misses     #    9.83% of all L1-dcache hits  
+
+       1.000658206 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           417,498 L1-dcache-loads                                              [84.53%]
+            39,734 L1-dcache-load-misses     #    9.52% of all L1-dcache hits  
+
+       1.000619804 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           517,021 L1-dcache-loads                                              [84.30%]
+            49,264 L1-dcache-load-misses     #    9.53% of all L1-dcache hits  
+
+       1.000711304 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           419,564 L1-dcache-loads                                              [86.86%]
+            41,924 L1-dcache-load-misses     #    9.99% of all L1-dcache hits  
+
+       1.000667187 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           796,313 L1-dcache-loads                                              [87.97%]
+           111,711 L1-dcache-load-misses     #   14.03% of all L1-dcache hits  
+
+       1.000840574 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           365,472 L1-dcache-loads                                              [88.64%]
+            37,741 L1-dcache-load-misses     #   10.33% of all L1-dcache hits  
+
+       1.000705046 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           511,165 L1-dcache-loads                                              [82.56%]
+            48,367 L1-dcache-load-misses     #    9.46% of all L1-dcache hits  
+
+       1.000838598 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           388,349 L1-dcache-loads                                              [90.21%]
+            39,822 L1-dcache-load-misses     #   10.25% of all L1-dcache hits  
+
+       1.000934220 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           422,373 L1-dcache-loads                                              [85.05%]
+            41,384 L1-dcache-load-misses     #    9.80% of all L1-dcache hits  
+
+       1.000673867 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           486,043 L1-dcache-loads                                              [87.90%]
+            48,570 L1-dcache-load-misses     #    9.99% of all L1-dcache hits  
+
+       1.000661941 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           398,207 L1-dcache-loads                                              [88.01%]
+            39,600 L1-dcache-load-misses     #    9.94% of all L1-dcache hits  
+
+       1.000650037 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           575,953 L1-dcache-loads                                              [78.99%]
+            56,446 L1-dcache-load-misses     #    9.80% of all L1-dcache hits  
+
+       1.000646375 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           404,197 L1-dcache-loads                                              [76.71%]
+            34,632 L1-dcache-load-misses     #    8.57% of all L1-dcache hits  
+
+       1.000742352 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           394,910 L1-dcache-loads                                              [77.90%]
+            34,100 L1-dcache-load-misses     #    8.63% of all L1-dcache hits  
+
+       1.000617420 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           562,290 L1-dcache-loads                                              [71.49%]
+            47,890 L1-dcache-load-misses     #    8.52% of all L1-dcache hits  
+
+       1.000664768 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           407,653 L1-dcache-loads                                              [75.57%]
+            33,961 L1-dcache-load-misses     #    8.33% of all L1-dcache hits  
+
+       1.000792632 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           521,385 L1-dcache-loads                                              [70.30%]
+            40,736 L1-dcache-load-misses     #    7.81% of all L1-dcache hits  
+
+       1.000665059 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           396,094 L1-dcache-loads                                              [77.86%]
+            34,134 L1-dcache-load-misses     #    8.62% of all L1-dcache hits  
+
+       1.000900564 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           744,721 L1-dcache-loads                                              [87.81%]
+           105,235 L1-dcache-load-misses     #   14.13% of all L1-dcache hits  
+
+       1.000550317 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           538,793 L1-dcache-loads                                              [74.62%]
+            43,973 L1-dcache-load-misses     #    8.16% of all L1-dcache hits  
+
+       1.000835780 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           423,022 L1-dcache-loads                                              [73.18%]
+            34,416 L1-dcache-load-misses     #    8.14% of all L1-dcache hits  
+
+       1.000824823 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           480,343 L1-dcache-loads                                              [76.99%]
+            40,803 L1-dcache-load-misses     #    8.49% of all L1-dcache hits  
+
+       1.000980405 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           515,524 L1-dcache-loads                                              [77.02%]
+            44,504 L1-dcache-load-misses     #    8.63% of all L1-dcache hits  
+
+       1.000906115 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           476,770 L1-dcache-loads                                              [73.80%]
+            37,633 L1-dcache-load-misses     #    7.89% of all L1-dcache hits  
+
+       1.000844114 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           471,665 L1-dcache-loads                                              [73.28%]
+            38,220 L1-dcache-load-misses     #    8.10% of all L1-dcache hits  
+
+       1.000875934 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           409,007 L1-dcache-loads                                              [76.79%]
+            34,643 L1-dcache-load-misses     #    8.47% of all L1-dcache hits  
+
+       1.000854690 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           517,230 L1-dcache-loads                                              [72.94%]
+            42,063 L1-dcache-load-misses     #    8.13% of all L1-dcache hits  
+
+       1.000940723 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           396,018 L1-dcache-loads                                              [75.92%]
+            33,169 L1-dcache-load-misses     #    8.38% of all L1-dcache hits  
+
+       1.000704132 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           509,922 L1-dcache-loads                                              [72.31%]
+            40,961 L1-dcache-load-misses     #    8.03% of all L1-dcache hits  
+
+       1.000643605 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           398,883 L1-dcache-loads                                              [78.10%]
+            34,195 L1-dcache-load-misses     #    8.57% of all L1-dcache hits  
+
+       1.000731683 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           532,440 L1-dcache-loads                                              [70.65%]
+            41,516 L1-dcache-load-misses     #    7.80% of all L1-dcache hits  
+
+       1.000593185 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           411,970 L1-dcache-loads                                              [74.54%]
+            33,775 L1-dcache-load-misses     #    8.20% of all L1-dcache hits  
+
+       1.000703184 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           502,445 L1-dcache-loads                                              [95.70%]
+            55,911 L1-dcache-load-misses     #   11.13% of all L1-dcache hits   [74.32%]
+
+       1.000578802 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           689,533 L1-dcache-loads                                              [85.90%]
+            98,222 L1-dcache-load-misses     #   14.24% of all L1-dcache hits  
+
+       1.000577082 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           539,920 L1-dcache-loads                                              [75.70%]
+            60,415 L1-dcache-load-misses     #   11.19% of all L1-dcache hits   [69.66%]
+
+       1.000712127 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           420,714 L1-dcache-loads                                              [89.01%]
+            46,555 L1-dcache-load-misses     #   11.07% of all L1-dcache hits   [77.15%]
+
+       1.000603040 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           405,743 L1-dcache-loads                                              [79.92%]
+            35,564 L1-dcache-load-misses     #    8.77% of all L1-dcache hits  
+
+       1.000795530 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           513,456 L1-dcache-loads                                              [70.70%]
+            40,376 L1-dcache-load-misses     #    7.86% of all L1-dcache hits  
+
+       1.000723796 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           471,010 L1-dcache-loads                                              [96.86%]
+            55,477 L1-dcache-load-misses     #   11.78% of all L1-dcache hits   [83.69%]
+
+       1.000656095 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           518,340 L1-dcache-loads                                              [83.64%]
+            48,672 L1-dcache-load-misses     #    9.39% of all L1-dcache hits  
+
+       1.000658525 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           386,623 L1-dcache-loads                                              [89.04%]
+            38,200 L1-dcache-load-misses     #    9.88% of all L1-dcache hits  
+
+       1.000927438 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           519,973 L1-dcache-loads                                              [85.04%]
+            49,530 L1-dcache-load-misses     #    9.53% of all L1-dcache hits  
+
+       1.000712943 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           395,183 L1-dcache-loads                                              [88.31%]
+            38,997 L1-dcache-load-misses     #    9.87% of all L1-dcache hits  
+
+       1.000622209 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           510,473 L1-dcache-loads                                              [83.82%]
+            48,113 L1-dcache-load-misses     #    9.43% of all L1-dcache hits  
+
+       1.000601070 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           381,157 L1-dcache-loads                                              [91.31%]
+            38,779 L1-dcache-load-misses     #   10.17% of all L1-dcache hits  
+
+       1.000663311 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           541,771 L1-dcache-loads                                              [83.70%]
+            50,490 L1-dcache-load-misses     #    9.32% of all L1-dcache hits  
+
+       1.000689277 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           374,002 L1-dcache-loads                                              [90.35%]
+            37,978 L1-dcache-load-misses     #   10.15% of all L1-dcache hits  
+
+       1.000904353 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           733,028 L1-dcache-loads                                              [91.10%]
+           106,685 L1-dcache-load-misses     #   14.55% of all L1-dcache hits  
+
+       1.000678193 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           396,243 L1-dcache-loads                                              [88.80%]
+            40,157 L1-dcache-load-misses     #   10.13% of all L1-dcache hits  
+
+       1.000578793 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           530,189 L1-dcache-loads                                              [85.13%]
+            49,522 L1-dcache-load-misses     #    9.34% of all L1-dcache hits  
+
+       1.000718542 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+           414,226 L1-dcache-loads                                              [85.49%]
+            40,171 L1-dcache-load-misses     #    9.70% of all L1-dcache hits  
+
+       1.000787493 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+        26,389,411 L1-dcache-loads                                              [99.27%]
+         1,083,704 L1-dcache-load-misses     #    4.11% of all L1-dcache hits  
+
+       1.000689627 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       173,796,596 L1-dcache-loads                                              [99.93%]
+         3,439,540 L1-dcache-load-misses     #    1.98% of all L1-dcache hits  
+
+       1.000614695 seconds time elapsed
+
+
+ Performance counter stats for process id '137379':
+
+       281,337,649 L1-dcache-loads                                              [99.94%]
+         5,103,867 L1-dcache-load-misses     #    1.81% of all L1-dcache hits  
+
+       1.000638249 seconds time elapsed
+

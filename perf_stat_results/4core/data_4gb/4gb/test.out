@@ -1,0 +1,15 @@
+#           time             counts events
+     1.000320909          4,589,610 cycles:uk                
+     1.000320909          1,848,318 instructions:uk          
+     2.000651978          3,182,935 cycles:uk                
+     2.000651978          1,569,798 instructions:uk           [96.81%]
+     3.000977787          2,993,954 cycles:uk                
+     3.000977787          1,418,239 instructions:uk           [98.91%]
+     4.001242580          3,269,831 cycles:uk                
+     4.001242580          1,535,682 instructions:uk           [98.10%]
+     5.001488267          2,811,630 cycles:uk                
+     5.001488267          1,417,598 instructions:uk           [98.81%]
+     6.001749848          3,184,030 cycles:uk                
+     6.001749848          1,579,558 instructions:uk           [97.94%]
+     6.995130149          3,246,910 cycles:uk                
+     6.995130149          1,519,348 instructions:uk           [99.04%]

@@ -1,0 +1,1304 @@
+
+ Performance counter stats for process id '79575':
+
+       865,702,621 dTLB-loads                                                   [99.97%]
+         9,998,648 dTLB-load-misses          #    1.15% of all dTLB cache hits  [99.99%]
+
+       1.000680888 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+        17,041,426 dTLB-loads                                                   [98.71%]
+           255,400 dTLB-load-misses          #    1.50% of all dTLB cache hits 
+
+       1.000641763 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           483,566 dTLB-loads                                                   [83.81%]
+             5,536 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000604574 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           442,151 dTLB-loads                                                   [86.73%]
+             5,229 dTLB-load-misses          #    1.18% of all dTLB cache hits 
+
+       1.000736784 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           505,912 dTLB-loads                                                   [83.82%]
+             5,778 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000865222 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           414,941 dTLB-loads                                                   [84.61%]
+             4,736 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000687750 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           509,638 dTLB-loads                                                   [83.02%]
+             5,819 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000639205 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           417,722 dTLB-loads                                                   [84.66%]
+             4,848 dTLB-load-misses          #    1.16% of all dTLB cache hits 
+
+       1.000690363 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           502,921 dTLB-loads                                                   [86.30%]
+             5,893 dTLB-load-misses          #    1.17% of all dTLB cache hits 
+
+       1.000646949 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           424,051 dTLB-loads                                                   [84.97%]
+             4,789 dTLB-load-misses          #    1.13% of all dTLB cache hits 
+
+       1.000700118 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           505,907 dTLB-loads                                                   [82.99%]
+             5,662 dTLB-load-misses          #    1.12% of all dTLB cache hits 
+
+       1.000653092 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           449,429 dTLB-loads                                                   [87.32%]
+             5,382 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000664511 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+     1,614,019,364 dTLB-loads                                                   [99.98%]
+         2,508,601 dTLB-load-misses          #    0.16% of all dTLB cache hits 
+
+       1.000831226 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           779,590 dTLB-loads                                                   [92.91%]
+            10,888 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000816672 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           727,456 dTLB-loads                                                   [90.41%]
+             8,257 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000702050 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           460,718 dTLB-loads                                                   [86.16%]
+             5,399 dTLB-load-misses          #    1.17% of all dTLB cache hits 
+
+       1.000678979 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           612,445 dTLB-loads                                                   [88.70%]
+             7,447 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000838624 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           446,648 dTLB-loads                                                   [88.27%]
+             5,268 dTLB-load-misses          #    1.18% of all dTLB cache hits 
+
+       1.000658458 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           531,005 dTLB-loads                                                   [86.05%]
+             6,929 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000632478 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           437,281 dTLB-loads                                                   [89.49%]
+             5,751 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000718553 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           507,183 dTLB-loads                                                   [84.87%]
+             7,122 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000775814 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           523,440 dTLB-loads                                                   [86.03%]
+             6,995 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000749936 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           503,195 dTLB-loads                                                   [79.89%]
+             6,209 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000626823 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           559,109 dTLB-loads                                                   [75.20%]
+             6,046 dTLB-load-misses          #    1.08% of all dTLB cache hits 
+
+       1.000772179 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           617,929 dTLB-loads                                                   [82.03%]
+             6,268 dTLB-load-misses          #    1.01% of all dTLB cache hits 
+
+       1.000768206 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           491,673 dTLB-loads                                                   [77.78%]
+             6,417 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000701939 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           503,374 dTLB-loads                                                   [80.39%]
+             6,410 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000681489 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           508,618 dTLB-loads                                                   [80.83%]
+             6,194 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000697467 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           538,706 dTLB-loads                                                   [74.19%]
+             6,061 dTLB-load-misses          #    1.13% of all dTLB cache hits 
+
+       1.000687728 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           751,678 dTLB-loads                                                   [84.98%]
+             8,776 dTLB-load-misses          #    1.17% of all dTLB cache hits 
+
+       1.000646120 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           516,530 dTLB-loads                                                   [77.78%]
+             6,056 dTLB-load-misses          #    1.17% of all dTLB cache hits 
+
+       1.000735943 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           482,194 dTLB-loads                                                   [83.03%]
+             6,111 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000676260 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           534,815 dTLB-loads                                                   [78.00%]
+             6,056 dTLB-load-misses          #    1.13% of all dTLB cache hits 
+
+       1.000623345 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           527,607 dTLB-loads                                                   [81.40%]
+             6,306 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000809604 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           444,504 dTLB-loads                                                   [78.98%]
+             5,123 dTLB-load-misses          #    1.15% of all dTLB cache hits 
+
+       1.000836870 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           686,140 dTLB-loads                                                   [84.65%]
+             8,472 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000742046 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           701,308 dTLB-loads                                                   [83.24%]
+             8,414 dTLB-load-misses          #    1.20% of all dTLB cache hits 
+
+       1.000767945 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           685,658 dTLB-loads                                                   [86.73%]
+             8,167 dTLB-load-misses          #    1.19% of all dTLB cache hits 
+
+       1.000690526 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           755,074 dTLB-loads                                                   [91.70%]
+            10,262 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000656922 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           749,015 dTLB-loads                                                   [90.46%]
+            10,193 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000815645 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           594,185 dTLB-loads                                                   [92.41%]
+             8,025 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000647022 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           587,356 dTLB-loads                                                   [88.17%]
+             7,522 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000674431 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           495,381 dTLB-loads                                                   [91.25%]
+             6,329 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000707622 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           612,645 dTLB-loads                                                   [86.86%]
+             7,450 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000615619 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           635,708 dTLB-loads                                                   [92.26%]
+             7,178 dTLB-load-misses          #    1.13% of all dTLB cache hits 
+
+       1.000721375 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           639,203 dTLB-loads                                                   [86.41%]
+             7,896 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000624762 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           548,742 dTLB-loads                                                   [89.79%]
+             6,967 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000659810 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           556,054 dTLB-loads                                                   [87.71%]
+             6,835 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000657655 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           623,591 dTLB-loads                                                   [90.84%]
+             6,937 dTLB-load-misses          #    1.11% of all dTLB cache hits 
+
+       1.000887101 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           531,728 dTLB-loads                                                   [87.87%]
+             6,765 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000727181 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           569,214 dTLB-loads                                                   [91.33%]
+             7,938 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000755908 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           547,862 dTLB-loads                                                   [91.22%]
+             7,113 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000754846 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           534,748 dTLB-loads                                                   [94.01%]
+             6,931 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000678550 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           481,588 dTLB-loads                                                   [88.41%]
+             5,896 dTLB-load-misses          #    1.22% of all dTLB cache hits 
+
+       1.000636918 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           535,466 dTLB-loads                                                   [93.71%]
+             7,314 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000677015 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           547,641 dTLB-loads                                                   [89.90%]
+             7,058 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000783818 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           497,238 dTLB-loads                                                   [92.12%]
+             6,440 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000658839 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           496,733 dTLB-loads                                                   [91.95%]
+             6,311 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000658130 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           858,220 dTLB-loads                                                   [95.33%]
+            10,560 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000637914 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           480,944 dTLB-loads                                                   [89.63%]
+             6,071 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000684122 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           441,328 dTLB-loads                                                   [90.44%]
+             5,549 dTLB-load-misses          #    1.26% of all dTLB cache hits 
+
+       1.000668424 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           466,688 dTLB-loads                                                   [89.29%]
+             5,524 dTLB-load-misses          #    1.18% of all dTLB cache hits 
+
+       1.000790560 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           441,080 dTLB-loads                                                   [90.89%]
+             5,652 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000659684 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           447,964 dTLB-loads                                                   [90.66%]
+             5,755 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000664100 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           443,921 dTLB-loads                                                   [88.79%]
+             5,376 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000623400 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           489,336 dTLB-loads                                                   [90.75%]
+             6,049 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000854425 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           494,098 dTLB-loads                                                   [91.11%]
+             6,330 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000601442 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           471,915 dTLB-loads                                                   [89.83%]
+             6,016 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000784806 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           463,044 dTLB-loads                                                   [89.49%]
+             5,733 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000659820 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           445,036 dTLB-loads                                                   [89.70%]
+             5,475 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000724423 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           431,348 dTLB-loads                                                   [92.17%]
+             5,341 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000893037 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           443,720 dTLB-loads                                                   [91.46%]
+             5,360 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000833078 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           460,665 dTLB-loads                                                   [87.69%]
+             5,211 dTLB-load-misses          #    1.13% of all dTLB cache hits 
+
+       1.000707491 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           711,255 dTLB-loads                                                   [92.37%]
+             8,157 dTLB-load-misses          #    1.15% of all dTLB cache hits 
+
+       1.000681003 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           517,533 dTLB-loads                                                   [90.35%]
+             6,366 dTLB-load-misses          #    1.23% of all dTLB cache hits 
+
+       1.000565246 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           449,285 dTLB-loads                                                   [91.94%]
+             5,697 dTLB-load-misses          #    1.27% of all dTLB cache hits 
+
+       1.000736146 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           466,235 dTLB-loads                                                   [91.70%]
+             5,788 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000633876 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           425,339 dTLB-loads                                                   [93.56%]
+             5,274 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000913644 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           468,430 dTLB-loads                                                   [86.41%]
+             5,342 dTLB-load-misses          #    1.14% of all dTLB cache hits 
+
+       1.000815437 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           450,540 dTLB-loads                                                   [90.55%]
+             5,765 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000629294 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           464,396 dTLB-loads                                                   [92.60%]
+             6,203 dTLB-load-misses          #    1.34% of all dTLB cache hits  [99.35%]
+
+       1.000783961 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           468,464 dTLB-loads                                                  
+             6,196 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000989104 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           517,137 dTLB-loads                                                  
+             7,006 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000813112 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           494,903 dTLB-loads                                                  
+             6,622 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000591663 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           502,408 dTLB-loads                                                  
+             6,690 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000612302 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           440,167 dTLB-loads                                                  
+             5,966 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000659775 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           456,005 dTLB-loads                                                  
+             6,091 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000874366 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           550,107 dTLB-loads                                                  
+             7,428 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000876732 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           706,571 dTLB-loads                                                  
+             9,124 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000679293 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           455,544 dTLB-loads                                                  
+             6,033 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000584671 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           431,813 dTLB-loads                                                  
+             5,867 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000619467 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           469,682 dTLB-loads                                                  
+             6,303 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000631555 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           446,354 dTLB-loads                                                  
+             5,878 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000684712 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           549,779 dTLB-loads                                                  
+             7,720 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000577121 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           484,276 dTLB-loads                                                  
+             6,841 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000711977 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           451,506 dTLB-loads                                                  
+             6,104 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000703997 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           461,301 dTLB-loads                                                  
+             6,067 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000626220 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           453,831 dTLB-loads                                                  
+             5,957 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000573604 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           461,959 dTLB-loads                                                  
+             5,979 dTLB-load-misses          #    1.29% of all dTLB cache hits 
+
+       1.000663017 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           455,570 dTLB-loads                                                  
+             6,533 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000673787 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           419,223 dTLB-loads                                                  
+             5,612 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000611884 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           476,198 dTLB-loads                                                  
+             6,368 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000571303 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           446,726 dTLB-loads                                                  
+             5,860 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000643408 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           733,386 dTLB-loads                                                  
+             8,893 dTLB-load-misses          #    1.21% of all dTLB cache hits 
+
+       1.000666569 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           534,726 dTLB-loads                                                   [99.35%]
+             7,498 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000702107 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           407,112 dTLB-loads                                                  
+             5,831 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000715500 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           591,530 dTLB-loads                                                  
+             8,624 dTLB-load-misses          #    1.46% of all dTLB cache hits 
+
+       1.000738149 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           436,416 dTLB-loads                                                  
+             5,865 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000638258 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           543,141 dTLB-loads                                                  
+             7,959 dTLB-load-misses          #    1.47% of all dTLB cache hits 
+
+       1.000822626 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           429,921 dTLB-loads                                                  
+             6,672 dTLB-load-misses          #    1.55% of all dTLB cache hits 
+
+       1.000906652 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           497,578 dTLB-loads                                                  
+             6,835 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000637082 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           398,464 dTLB-loads                                                  
+             5,426 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000665334 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           466,202 dTLB-loads                                                  
+             6,054 dTLB-load-misses          #    1.30% of all dTLB cache hits 
+
+       1.000671322 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           446,937 dTLB-loads                                                  
+             6,058 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000750982 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           445,565 dTLB-loads                                                  
+             6,232 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000828063 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           562,367 dTLB-loads                                                  
+             8,087 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000637491 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           436,318 dTLB-loads                                                  
+             5,928 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000751293 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           744,468 dTLB-loads                                                  
+             9,933 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000750821 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           482,515 dTLB-loads                                                  
+             7,115 dTLB-load-misses          #    1.47% of all dTLB cache hits 
+
+       1.000661514 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           477,932 dTLB-loads                                                  
+             6,648 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000651730 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           459,853 dTLB-loads                                                  
+             6,489 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000669321 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           460,852 dTLB-loads                                                  
+             6,796 dTLB-load-misses          #    1.47% of all dTLB cache hits 
+
+       1.000699569 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           454,691 dTLB-loads                                                  
+             6,327 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000630090 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           515,815 dTLB-loads                                                  
+             7,367 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000846537 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           486,129 dTLB-loads                                                  
+             7,188 dTLB-load-misses          #    1.48% of all dTLB cache hits 
+
+       1.000812502 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           406,296 dTLB-loads                                                  
+             5,698 dTLB-load-misses          #    1.40% of all dTLB cache hits 
+
+       1.000622291 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           512,269 dTLB-loads                                                  
+             6,824 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000722299 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           370,229 dTLB-loads                                                  
+             5,045 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000754938 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           499,690 dTLB-loads                                                  
+             6,649 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000598842 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           442,848 dTLB-loads                                                  
+             5,841 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000553467 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           475,963 dTLB-loads                                                  
+             6,218 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000671637 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           453,572 dTLB-loads                                                  
+             5,936 dTLB-load-misses          #    1.31% of all dTLB cache hits 
+
+       1.000817853 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           683,969 dTLB-loads                                                  
+             8,727 dTLB-load-misses          #    1.28% of all dTLB cache hits 
+
+       1.000788370 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           463,510 dTLB-loads                                                  
+             6,301 dTLB-load-misses          #    1.36% of all dTLB cache hits 
+
+       1.000684908 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           478,764 dTLB-loads                                                  
+             6,759 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000680906 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           502,047 dTLB-loads                                                  
+             6,981 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000638444 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           487,731 dTLB-loads                                                  
+             7,074 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000659452 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           466,369 dTLB-loads                                                  
+             6,587 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000743410 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           423,674 dTLB-loads                                                  
+             5,622 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000690929 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           562,110 dTLB-loads                                                  
+             8,655 dTLB-load-misses          #    1.54% of all dTLB cache hits 
+
+       1.000774269 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           459,161 dTLB-loads                                                  
+             6,331 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000565088 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           415,851 dTLB-loads                                                  
+             5,756 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000787282 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           597,950 dTLB-loads                                                  
+             8,257 dTLB-load-misses          #    1.38% of all dTLB cache hits 
+
+       1.000902524 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           418,515 dTLB-loads                                                  
+             6,216 dTLB-load-misses          #    1.49% of all dTLB cache hits 
+
+       1.000616927 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           477,723 dTLB-loads                                                  
+             6,942 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000810729 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           404,061 dTLB-loads                                                  
+             5,356 dTLB-load-misses          #    1.33% of all dTLB cache hits 
+
+       1.000962124 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           478,800 dTLB-loads                                                  
+             6,753 dTLB-load-misses          #    1.41% of all dTLB cache hits 
+
+       1.000672692 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           690,578 dTLB-loads                                                  
+             8,569 dTLB-load-misses          #    1.24% of all dTLB cache hits 
+
+       1.000726088 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           446,947 dTLB-loads                                                  
+             6,019 dTLB-load-misses          #    1.35% of all dTLB cache hits 
+
+       1.000843405 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           478,102 dTLB-loads                                                  
+             6,302 dTLB-load-misses          #    1.32% of all dTLB cache hits 
+
+       1.000622876 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           510,485 dTLB-loads                                                  
+             7,744 dTLB-load-misses          #    1.52% of all dTLB cache hits 
+
+       1.000624376 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           462,972 dTLB-loads                                                  
+             6,762 dTLB-load-misses          #    1.46% of all dTLB cache hits 
+
+       1.000585645 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           429,121 dTLB-loads                                                  
+             6,123 dTLB-load-misses          #    1.43% of all dTLB cache hits 
+
+       1.000658687 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           462,855 dTLB-loads                                                  
+             6,642 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000709333 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           389,926 dTLB-loads                                                  
+             5,338 dTLB-load-misses          #    1.37% of all dTLB cache hits 
+
+       1.000660643 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           518,978 dTLB-loads                                                  
+             7,535 dTLB-load-misses          #    1.45% of all dTLB cache hits 
+
+       1.000711122 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           417,552 dTLB-loads                                                  
+             5,806 dTLB-load-misses          #    1.39% of all dTLB cache hits 
+
+       1.000624557 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           510,426 dTLB-loads                                                  
+             6,864 dTLB-load-misses          #    1.34% of all dTLB cache hits 
+
+       1.000757476 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           431,836 dTLB-loads                                                  
+             6,114 dTLB-load-misses          #    1.42% of all dTLB cache hits 
+
+       1.000669783 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           551,569 dTLB-loads                                                  
+             7,955 dTLB-load-misses          #    1.44% of all dTLB cache hits 
+
+       1.000651579 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+           479,234 dTLB-loads                                                  
+             7,377 dTLB-load-misses          #    1.54% of all dTLB cache hits 
+
+       1.000721807 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+         2,295,335 dTLB-loads                                                  
+            21,247 dTLB-load-misses          #    0.93% of all dTLB cache hits 
+
+       1.000644936 seconds time elapsed
+
+
+ Performance counter stats for process id '79575':
+
+       544,507,997 dTLB-loads                                                   [100.00%]
+         7,641,079 dTLB-load-misses          #    1.40% of all dTLB cache hits  [100.00%]
+
+       1.000651667 seconds time elapsed
+

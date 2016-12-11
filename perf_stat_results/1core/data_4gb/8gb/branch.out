@@ -1,0 +1,2008 @@
+
+ Performance counter stats for process id '62213':
+
+       545,458,403 branches:uk                                                  [100.00%]
+         1,546,196 branch-misses:uk          #    0.28% of all branches        
+
+       1.000663889 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           318,453 branches:uk                                                 
+            28,631 branch-misses:uk          #    8.99% of all branches        
+
+       1.000665049 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           253,436 branches:uk                                                 
+            24,816 branch-misses:uk          #    9.79% of all branches        
+
+       1.000722704 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           310,815 branches:uk                                                 
+            27,869 branch-misses:uk          #    8.97% of all branches        
+
+       1.000700686 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,218 branches:uk                                                 
+            23,345 branch-misses:uk          #    8.97% of all branches        
+
+       1.000676720 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           375,162 branches:uk                                                 
+            40,984 branch-misses:uk          #   10.92% of all branches        
+
+       1.000667191 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,508 branches:uk                                                 
+            27,701 branch-misses:uk          #    9.04% of all branches        
+
+       1.000694586 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,985 branches:uk                                                 
+            24,693 branch-misses:uk          #    9.35% of all branches        
+
+       1.000841085 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           322,530 branches:uk                                                 
+            29,319 branch-misses:uk          #    9.09% of all branches        
+
+       1.000670337 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,156 branches:uk                                                 
+            24,134 branch-misses:uk          #    8.90% of all branches        
+
+       1.000691640 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,221 branches:uk                                                 
+            24,956 branch-misses:uk          #    8.94% of all branches        
+
+       1.000690430 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,287 branches:uk                                                 
+            25,806 branch-misses:uk          #    8.92% of all branches        
+
+       1.000835373 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           269,885 branches:uk                                                 
+            24,890 branch-misses:uk          #    9.22% of all branches        
+
+       1.000767852 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           313,901 branches:uk                                                 
+            28,110 branch-misses:uk          #    8.96% of all branches        
+
+       1.000739895 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,715 branches:uk                                                 
+            24,697 branch-misses:uk          #    9.19% of all branches        
+
+       1.000619991 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       190,463,842 branches:uk                                                 
+         8,968,809 branch-misses:uk          #    4.71% of all branches        
+
+       1.000729014 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,794 branches:uk                                                 
+            29,340 branch-misses:uk          #    9.06% of all branches        
+
+       1.000609705 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         1,020,183 branches:uk                                                 
+           116,859 branch-misses:uk          #   11.45% of all branches        
+
+       1.000648717 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           262,549 branches:uk                                                 
+            23,603 branch-misses:uk          #    8.99% of all branches        
+
+       1.000627294 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           488,689 branches:uk                                                 
+            49,286 branch-misses:uk          #   10.09% of all branches        
+
+       1.000719590 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           288,380 branches:uk                                                 
+            25,715 branch-misses:uk          #    8.92% of all branches        
+
+       1.000644228 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           343,948 branches:uk                                                 
+            30,550 branch-misses:uk          #    8.88% of all branches        
+
+       1.000609804 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,708 branches:uk                                                 
+            24,687 branch-misses:uk          #    8.89% of all branches        
+
+       1.000695206 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           346,538 branches:uk                                                 
+            30,530 branch-misses:uk          #    8.81% of all branches        
+
+       1.000870201 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,752 branches:uk                                                 
+            23,663 branch-misses:uk          #    8.87% of all branches        
+
+       1.000592073 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           343,932 branches:uk                                                 
+            30,649 branch-misses:uk          #    8.91% of all branches        
+
+       1.000651888 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           302,257 branches:uk                                                 
+            26,774 branch-misses:uk          #    8.86% of all branches        
+
+       1.000581197 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           312,312 branches:uk                                                 
+            27,769 branch-misses:uk          #    8.89% of all branches        
+
+       1.000893222 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           320,979 branches:uk                                                 
+            27,870 branch-misses:uk          #    8.68% of all branches        
+
+       1.000695932 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           332,154 branches:uk                                                 
+            28,898 branch-misses:uk          #    8.70% of all branches        
+
+       1.000698482 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,118 branches:uk                                                 
+            24,530 branch-misses:uk          #    8.48% of all branches        
+
+       1.000695494 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           423,638 branches:uk                                                 
+            36,758 branch-misses:uk          #    8.68% of all branches        
+
+       1.000632144 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           309,817 branches:uk                                                 
+            26,567 branch-misses:uk          #    8.58% of all branches        
+
+       1.000685523 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           357,515 branches:uk                                                 
+            30,859 branch-misses:uk          #    8.63% of all branches        
+
+       1.000658358 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           399,607 branches:uk                                                 
+            40,334 branch-misses:uk          #   10.09% of all branches        
+
+       1.000621921 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           350,977 branches:uk                                                 
+            31,087 branch-misses:uk          #    8.86% of all branches        
+
+       1.000637606 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,817 branches:uk                                                 
+            25,964 branch-misses:uk          #    8.60% of all branches        
+
+       1.000685106 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           363,882 branches:uk                                                 
+            32,114 branch-misses:uk          #    8.83% of all branches        
+
+       1.000647490 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           296,365 branches:uk                                                 
+            25,405 branch-misses:uk          #    8.57% of all branches        
+
+       1.000677834 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           359,948 branches:uk                                                 
+            31,506 branch-misses:uk          #    8.75% of all branches        
+
+       1.000666735 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           526,118 branches:uk                                                 
+            29,551 branch-misses:uk          #    5.62% of all branches        
+
+       1.000615452 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           368,942 branches:uk                                                 
+            31,468 branch-misses:uk          #    8.53% of all branches        
+
+       1.000627507 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           310,255 branches:uk                                                 
+            27,044 branch-misses:uk          #    8.72% of all branches        
+
+       1.000591578 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           352,235 branches:uk                                                 
+            31,618 branch-misses:uk          #    8.98% of all branches        
+
+       1.000586544 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,294 branches:uk                                                 
+            26,240 branch-misses:uk          #    8.74% of all branches        
+
+       1.000654635 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           355,122 branches:uk                                                 
+            30,223 branch-misses:uk          #    8.51% of all branches        
+
+       1.000656040 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,446 branches:uk                                                 
+            22,458 branch-misses:uk          #    7.65% of all branches        
+
+       1.000585356 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           355,879 branches:uk                                                 
+            27,244 branch-misses:uk          #    7.66% of all branches        
+
+       1.000596548 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           289,189 branches:uk                                                 
+            24,883 branch-misses:uk          #    8.60% of all branches        
+
+       1.000638933 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           423,929 branches:uk                                                 
+            42,738 branch-misses:uk          #   10.08% of all branches        
+
+       1.000648315 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,380 branches:uk                                                 
+            23,994 branch-misses:uk          #    7.83% of all branches        
+
+       1.000586932 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           428,673 branches:uk                                                 
+            31,152 branch-misses:uk          #    7.27% of all branches        
+
+       1.000690798 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           292,373 branches:uk                                                 
+            26,021 branch-misses:uk          #    8.90% of all branches        
+
+       1.000766896 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           340,267 branches:uk                                                 
+            30,021 branch-misses:uk          #    8.82% of all branches        
+
+       1.000675903 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           302,242 branches:uk                                                 
+            27,222 branch-misses:uk          #    9.01% of all branches        
+
+       1.000687379 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           385,993 branches:uk                                                 
+            33,300 branch-misses:uk          #    8.63% of all branches        
+
+       1.000671442 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           352,476 branches:uk                                                 
+            31,003 branch-misses:uk          #    8.80% of all branches        
+
+       1.000634938 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           393,251 branches:uk                                                 
+            34,895 branch-misses:uk          #    8.87% of all branches        
+
+       1.000627022 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           358,475 branches:uk                                                 
+            32,118 branch-misses:uk          #    8.96% of all branches        
+
+       1.000689212 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           352,459 branches:uk                                                 
+            30,988 branch-misses:uk          #    8.79% of all branches        
+
+       1.000708776 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           346,631 branches:uk                                                 
+            30,318 branch-misses:uk          #    8.75% of all branches        
+
+       1.000722972 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           391,762 branches:uk                                                 
+            34,738 branch-misses:uk          #    8.87% of all branches        
+
+       1.000680557 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           342,389 branches:uk                                                 
+            29,631 branch-misses:uk          #    8.65% of all branches        
+
+       1.000652686 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           393,916 branches:uk                                                 
+            34,784 branch-misses:uk          #    8.83% of all branches        
+
+       1.000658217 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           414,104 branches:uk                                                 
+            42,062 branch-misses:uk          #   10.16% of all branches        
+
+       1.000699645 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           339,201 branches:uk                                                 
+            29,966 branch-misses:uk          #    8.83% of all branches        
+
+       1.000764718 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,908 branches:uk                                                 
+            29,260 branch-misses:uk          #    8.68% of all branches        
+
+       1.000645122 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           317,335 branches:uk                                                 
+            28,907 branch-misses:uk          #    9.11% of all branches        
+
+       1.000626054 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           363,180 branches:uk                                                 
+            31,291 branch-misses:uk          #    8.62% of all branches        
+
+       1.000631356 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,738 branches:uk                                                 
+            24,147 branch-misses:uk          #    9.05% of all branches        
+
+       1.000612195 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           322,891 branches:uk                                                 
+            29,163 branch-misses:uk          #    9.03% of all branches        
+
+       1.000739591 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,289 branches:uk                                                 
+            28,346 branch-misses:uk          #    8.77% of all branches        
+
+       1.000654333 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           345,443 branches:uk                                                 
+            30,539 branch-misses:uk          #    8.84% of all branches        
+
+       1.000700056 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           314,566 branches:uk                                                 
+            28,196 branch-misses:uk          #    8.96% of all branches        
+
+       1.000622393 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,595 branches:uk                                                 
+            27,665 branch-misses:uk          #    9.08% of all branches        
+
+       1.000637904 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           275,718 branches:uk                                                 
+            25,020 branch-misses:uk          #    9.07% of all branches        
+
+       1.000704389 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           352,615 branches:uk                                                 
+            32,583 branch-misses:uk          #    9.24% of all branches        
+
+       1.000697488 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           312,508 branches:uk                                                 
+            26,853 branch-misses:uk          #    8.59% of all branches        
+
+       1.000616944 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           411,617 branches:uk                                                 
+            32,704 branch-misses:uk          #    7.95% of all branches        
+
+       1.000645405 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           394,123 branches:uk                                                 
+            40,941 branch-misses:uk          #   10.39% of all branches        
+
+       1.000632803 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           366,971 branches:uk                                                 
+            32,382 branch-misses:uk          #    8.82% of all branches        
+
+       1.000757409 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           296,736 branches:uk                                                 
+            26,043 branch-misses:uk          #    8.78% of all branches        
+
+       1.000576380 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           360,291 branches:uk                                                 
+            31,811 branch-misses:uk          #    8.83% of all branches        
+
+       1.000633820 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,420 branches:uk                                                 
+            25,999 branch-misses:uk          #    8.92% of all branches        
+
+       1.000617181 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           347,748 branches:uk                                                 
+            31,529 branch-misses:uk          #    9.07% of all branches        
+
+       1.000573835 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           341,687 branches:uk                                                 
+            30,596 branch-misses:uk          #    8.95% of all branches        
+
+       1.000719252 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           312,893 branches:uk                                                 
+            27,639 branch-misses:uk          #    8.83% of all branches        
+
+       1.000638068 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           358,354 branches:uk                                                 
+            31,168 branch-misses:uk          #    8.70% of all branches        
+
+       1.000667395 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           324,409 branches:uk                                                 
+            28,476 branch-misses:uk          #    8.78% of all branches        
+
+       1.000567591 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           317,666 branches:uk                                                 
+            27,532 branch-misses:uk          #    8.67% of all branches        
+
+       1.000626467 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           391,703 branches:uk                                                 
+            32,145 branch-misses:uk          #    8.21% of all branches        
+
+       1.000695577 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           360,327 branches:uk                                                 
+            31,738 branch-misses:uk          #    8.81% of all branches        
+
+       1.000685618 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,323 branches:uk                                                 
+            26,711 branch-misses:uk          #    8.86% of all branches        
+
+       1.000551843 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           362,418 branches:uk                                                 
+            31,199 branch-misses:uk          #    8.61% of all branches        
+
+       1.000718954 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,398 branches:uk                                                 
+            25,028 branch-misses:uk          #    9.02% of all branches        
+
+       1.000637380 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           346,230 branches:uk                                                 
+            30,705 branch-misses:uk          #    8.87% of all branches        
+
+       1.000681047 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           297,678 branches:uk                                                 
+            26,626 branch-misses:uk          #    8.94% of all branches        
+
+       1.000690722 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,042 branches:uk                                                 
+            24,562 branch-misses:uk          #    8.87% of all branches        
+
+       1.000734890 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           393,486 branches:uk                                                 
+            35,531 branch-misses:uk          #    9.03% of all branches        
+
+       1.000667389 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           270,401 branches:uk                                                 
+            23,668 branch-misses:uk          #    8.75% of all branches        
+
+       1.000649424 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,155 branches:uk                                                 
+            27,773 branch-misses:uk          #    8.78% of all branches        
+
+       1.000649090 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           251,287 branches:uk                                                 
+            21,311 branch-misses:uk          #    8.48% of all branches        
+
+       1.000663891 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           302,523 branches:uk                                                 
+            27,317 branch-misses:uk          #    9.03% of all branches        
+
+       1.000860622 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           376,144 branches:uk                                                 
+            33,435 branch-misses:uk          #    8.89% of all branches        
+
+       1.000697709 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           278,985 branches:uk                                                 
+            24,139 branch-misses:uk          #    8.65% of all branches        
+
+       1.000644217 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           315,637 branches:uk                                                 
+            27,727 branch-misses:uk          #    8.78% of all branches        
+
+       1.000560307 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           278,694 branches:uk                                                 
+            25,704 branch-misses:uk          #    9.22% of all branches        
+
+       1.000653898 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           282,102 branches:uk                                                 
+            25,578 branch-misses:uk          #    9.07% of all branches        
+
+       1.000680958 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           408,769 branches:uk                                                 
+            39,719 branch-misses:uk          #    9.72% of all branches        
+
+       1.000737116 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,899 branches:uk                                                 
+            21,983 branch-misses:uk          #    8.21% of all branches        
+
+       1.000945889 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           298,585 branches:uk                                                 
+            23,705 branch-misses:uk          #    7.94% of all branches        
+
+       1.000824492 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           310,356 branches:uk                                                 
+            26,735 branch-misses:uk          #    8.61% of all branches        
+
+       1.000628716 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           320,488 branches:uk                                                 
+            28,749 branch-misses:uk          #    8.97% of all branches        
+
+       1.000623222 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,053 branches:uk                                                 
+            26,951 branch-misses:uk          #    8.53% of all branches        
+
+       1.000714119 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           319,894 branches:uk                                                 
+            28,308 branch-misses:uk          #    8.85% of all branches        
+
+       1.000633345 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           276,912 branches:uk                                                 
+            24,040 branch-misses:uk          #    8.68% of all branches        
+
+       1.000594964 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           317,898 branches:uk                                                 
+            28,511 branch-misses:uk          #    8.97% of all branches        
+
+       1.000881345 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,781 branches:uk                                                 
+            23,882 branch-misses:uk          #    9.05% of all branches        
+
+       1.000564723 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           335,538 branches:uk                                                 
+            30,222 branch-misses:uk          #    9.01% of all branches        
+
+       1.000663124 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,042 branches:uk                                                 
+            25,969 branch-misses:uk          #    8.86% of all branches        
+
+       1.000630085 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           324,637 branches:uk                                                 
+            28,990 branch-misses:uk          #    8.93% of all branches        
+
+       1.000618222 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,457 branches:uk                                                 
+            23,340 branch-misses:uk          #    8.96% of all branches        
+
+       1.000730664 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           428,092 branches:uk                                                 
+            41,944 branch-misses:uk          #    9.80% of all branches        
+
+       1.000638833 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,967 branches:uk                                                 
+            24,311 branch-misses:uk          #    9.18% of all branches        
+
+       1.000955531 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           315,514 branches:uk                                                 
+            28,590 branch-misses:uk          #    9.06% of all branches        
+
+       1.000673062 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           257,259 branches:uk                                                 
+            23,298 branch-misses:uk          #    9.06% of all branches        
+
+       1.000789533 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           307,126 branches:uk                                                 
+            27,220 branch-misses:uk          #    8.86% of all branches        
+
+       1.000775147 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           281,264 branches:uk                                                 
+            24,802 branch-misses:uk          #    8.82% of all branches        
+
+       1.000873803 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           345,480 branches:uk                                                 
+            31,365 branch-misses:uk          #    9.08% of all branches        
+
+       1.000929409 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           280,326 branches:uk                                                 
+            24,145 branch-misses:uk          #    8.61% of all branches        
+
+       1.000613472 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           335,234 branches:uk                                                 
+            29,621 branch-misses:uk          #    8.84% of all branches        
+
+       1.000613871 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           248,763 branches:uk                                                 
+            22,147 branch-misses:uk          #    8.90% of all branches        
+
+       1.000688854 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,224 branches:uk                                                 
+            28,760 branch-misses:uk          #    8.90% of all branches        
+
+       1.000701880 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,630 branches:uk                                                 
+            22,923 branch-misses:uk          #    8.38% of all branches        
+
+       1.000764427 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           320,786 branches:uk                                                 
+            28,402 branch-misses:uk          #    8.85% of all branches        
+
+       1.000675387 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           379,387 branches:uk                                                 
+            26,513 branch-misses:uk          #    6.99% of all branches        
+
+       1.000645600 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           332,119 branches:uk                                                 
+            30,306 branch-misses:uk          #    9.13% of all branches        
+
+       1.000678384 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           370,096 branches:uk                                                 
+            39,118 branch-misses:uk          #   10.57% of all branches        
+
+       1.000666660 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           340,379 branches:uk                                                 
+            30,398 branch-misses:uk          #    8.93% of all branches        
+
+       1.000628956 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           253,875 branches:uk                                                 
+            22,851 branch-misses:uk          #    9.00% of all branches        
+
+       1.000619820 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           318,776 branches:uk                                                 
+            28,765 branch-misses:uk          #    9.02% of all branches        
+
+       1.000798096 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,104 branches:uk                                                 
+            23,750 branch-misses:uk          #    8.93% of all branches        
+
+       1.000727146 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,896 branches:uk                                                 
+            26,819 branch-misses:uk          #    9.22% of all branches        
+
+       1.000715019 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           266,434 branches:uk                                                 
+            24,140 branch-misses:uk          #    9.06% of all branches        
+
+       1.000640702 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,774 branches:uk                                                 
+            28,760 branch-misses:uk          #    9.08% of all branches        
+
+       1.000640587 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           269,635 branches:uk                                                 
+            24,518 branch-misses:uk          #    9.09% of all branches        
+
+       1.000687929 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           352,159 branches:uk                                                 
+            31,213 branch-misses:uk          #    8.86% of all branches        
+
+       1.000647106 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           278,048 branches:uk                                                 
+            24,862 branch-misses:uk          #    8.94% of all branches        
+
+       1.000641547 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           341,006 branches:uk                                                 
+            29,567 branch-misses:uk          #    8.67% of all branches        
+
+       1.000788208 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           269,378 branches:uk                                                 
+            24,263 branch-misses:uk          #    9.01% of all branches        
+
+       1.000716832 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,821 branches:uk                                                 
+            25,722 branch-misses:uk          #    8.44% of all branches        
+
+       1.000699554 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           267,709 branches:uk                                                 
+            23,980 branch-misses:uk          #    8.96% of all branches        
+
+       1.000860067 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           431,429 branches:uk                                                 
+            43,989 branch-misses:uk          #   10.20% of all branches        
+
+       1.000611303 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           297,267 branches:uk                                                 
+            27,067 branch-misses:uk          #    9.11% of all branches        
+
+       1.000634922 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           309,388 branches:uk                                                 
+            27,845 branch-misses:uk          #    9.00% of all branches        
+
+       1.000635222 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,801 branches:uk                                                 
+            23,204 branch-misses:uk          #    8.93% of all branches        
+
+       1.000651015 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           307,704 branches:uk                                                 
+            27,691 branch-misses:uk          #    9.00% of all branches        
+
+       1.000629761 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           301,740 branches:uk                                                 
+            26,859 branch-misses:uk          #    8.90% of all branches        
+
+       1.000668269 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           264,189 branches:uk                                                 
+            23,870 branch-misses:uk          #    9.04% of all branches        
+
+       1.000814377 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           306,516 branches:uk                                                 
+            27,797 branch-misses:uk          #    9.07% of all branches        
+
+       1.000908435 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           302,872 branches:uk                                                 
+            27,071 branch-misses:uk          #    8.94% of all branches        
+
+       1.000667140 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           324,106 branches:uk                                                 
+            28,687 branch-misses:uk          #    8.85% of all branches        
+
+       1.000545289 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           254,307 branches:uk                                                 
+            22,970 branch-misses:uk          #    9.03% of all branches        
+
+       1.000641187 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           319,047 branches:uk                                                 
+            28,867 branch-misses:uk          #    9.05% of all branches        
+
+       1.000748902 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           256,889 branches:uk                                                 
+            23,197 branch-misses:uk          #    9.03% of all branches        
+
+       1.000697225 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           315,733 branches:uk                                                 
+            27,829 branch-misses:uk          #    8.81% of all branches        
+
+       1.000661619 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           336,585 branches:uk                                                 
+            35,511 branch-misses:uk          #   10.55% of all branches        
+
+       1.000693009 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,779 branches:uk                                                 
+            23,206 branch-misses:uk          #    9.25% of all branches        
+
+       1.000686900 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           324,348 branches:uk                                                 
+            29,448 branch-misses:uk          #    9.08% of all branches        
+
+       1.000696368 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           293,021 branches:uk                                                 
+            26,629 branch-misses:uk          #    9.09% of all branches        
+
+       1.000761535 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           327,561 branches:uk                                                 
+            30,265 branch-misses:uk          #    9.24% of all branches        
+
+       1.000668394 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           265,290 branches:uk                                                 
+            23,904 branch-misses:uk          #    9.01% of all branches        
+
+       1.000579409 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           259,555 branches:uk                                                 
+            23,054 branch-misses:uk          #    8.88% of all branches        
+
+       1.000636105 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           327,625 branches:uk                                                 
+            28,083 branch-misses:uk          #    8.57% of all branches        
+
+       1.000636844 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           247,495 branches:uk                                                 
+            22,379 branch-misses:uk          #    9.04% of all branches        
+
+       1.000671408 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           355,718 branches:uk                                                 
+            31,509 branch-misses:uk          #    8.86% of all branches        
+
+       1.000605246 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,022 branches:uk                                                 
+            25,067 branch-misses:uk          #    9.05% of all branches        
+
+       1.000627268 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           315,415 branches:uk                                                 
+            28,633 branch-misses:uk          #    9.08% of all branches        
+
+       1.000566834 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           252,840 branches:uk                                                 
+            22,720 branch-misses:uk          #    8.99% of all branches        
+
+       1.000764982 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           321,506 branches:uk                                                 
+            28,975 branch-misses:uk          #    9.01% of all branches        
+
+       1.000690619 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,564 branches:uk                                                 
+            24,025 branch-misses:uk          #    8.85% of all branches        
+
+       1.000728103 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           391,155 branches:uk                                                 
+            40,015 branch-misses:uk          #   10.23% of all branches        
+
+       1.000587172 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           263,860 branches:uk                                                 
+            23,681 branch-misses:uk          #    8.97% of all branches        
+
+       1.000534027 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           350,832 branches:uk                                                 
+            31,585 branch-misses:uk          #    9.00% of all branches        
+
+       1.000680005 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           272,223 branches:uk                                                 
+            23,863 branch-misses:uk          #    8.77% of all branches        
+
+       1.000671563 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           329,352 branches:uk                                                 
+            28,848 branch-misses:uk          #    8.76% of all branches        
+
+       1.000607238 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           261,927 branches:uk                                                 
+            23,613 branch-misses:uk          #    9.02% of all branches        
+
+       1.000687579 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           310,079 branches:uk                                                 
+            26,834 branch-misses:uk          #    8.65% of all branches        
+
+       1.000677688 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           254,875 branches:uk                                                 
+            22,727 branch-misses:uk          #    8.92% of all branches        
+
+       1.000908009 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           302,052 branches:uk                                                 
+            26,957 branch-misses:uk          #    8.92% of all branches        
+
+       1.000604518 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           256,573 branches:uk                                                 
+            22,893 branch-misses:uk          #    8.92% of all branches        
+
+       1.000889086 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,790 branches:uk                                                 
+            28,283 branch-misses:uk          #    8.93% of all branches        
+
+       1.000759494 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           346,172 branches:uk                                                 
+            30,767 branch-misses:uk          #    8.89% of all branches        
+
+       1.000767336 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,202 branches:uk                                                 
+            23,346 branch-misses:uk          #    9.15% of all branches        
+
+       1.000696429 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           313,402 branches:uk                                                 
+            27,860 branch-misses:uk          #    8.89% of all branches        
+
+       1.000730903 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           363,491 branches:uk                                                 
+            36,969 branch-misses:uk          #   10.17% of all branches        
+
+       1.000923226 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           290,983 branches:uk                                                 
+            26,157 branch-misses:uk          #    8.99% of all branches        
+
+       1.000622181 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           303,820 branches:uk                                                 
+            26,980 branch-misses:uk          #    8.88% of all branches        
+
+       1.000885692 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           300,442 branches:uk                                                 
+            26,599 branch-misses:uk          #    8.85% of all branches        
+
+       1.000732417 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           337,129 branches:uk                                                 
+            29,173 branch-misses:uk          #    8.65% of all branches        
+
+       1.000613950 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           303,246 branches:uk                                                 
+            25,329 branch-misses:uk          #    8.35% of all branches        
+
+       1.000678831 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           333,602 branches:uk                                                 
+            28,252 branch-misses:uk          #    8.47% of all branches        
+
+       1.000638759 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           291,215 branches:uk                                                 
+            23,241 branch-misses:uk          #    7.98% of all branches        
+
+       1.000617121 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           344,100 branches:uk                                                 
+            31,180 branch-misses:uk          #    9.06% of all branches        
+
+       1.000621362 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           260,406 branches:uk                                                 
+            23,440 branch-misses:uk          #    9.00% of all branches        
+
+       1.000650367 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           322,534 branches:uk                                                 
+            29,265 branch-misses:uk          #    9.07% of all branches        
+
+       1.000598631 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           295,998 branches:uk                                                 
+            25,848 branch-misses:uk          #    8.73% of all branches        
+
+       1.000685162 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,723 branches:uk                                                 
+            25,291 branch-misses:uk          #    8.88% of all branches        
+
+       1.000721906 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           277,554 branches:uk                                                 
+            25,007 branch-misses:uk          #    9.01% of all branches        
+
+       1.000684795 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           445,594 branches:uk                                                 
+            45,068 branch-misses:uk          #   10.11% of all branches        
+
+       1.000750410 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           284,085 branches:uk                                                 
+            25,857 branch-misses:uk          #    9.10% of all branches        
+
+       1.000619062 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           299,915 branches:uk                                                 
+            27,043 branch-misses:uk          #    9.02% of all branches        
+
+       1.000869993 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,969 branches:uk                                                 
+            28,872 branch-misses:uk          #    9.11% of all branches        
+
+       1.000724796 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           249,106 branches:uk                                                 
+            23,017 branch-misses:uk          #    9.24% of all branches        
+
+       1.000942691 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           523,939 branches:uk                                                 
+            31,288 branch-misses:uk          #    5.97% of all branches        
+
+       1.000653452 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           285,447 branches:uk                                                 
+            25,101 branch-misses:uk          #    8.79% of all branches        
+
+       1.000747845 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           313,922 branches:uk                                                 
+            28,180 branch-misses:uk          #    8.98% of all branches        
+
+       1.000627637 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           328,661 branches:uk                                                 
+            29,311 branch-misses:uk          #    8.92% of all branches        
+
+       1.000620807 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           283,322 branches:uk                                                 
+            25,043 branch-misses:uk          #    8.84% of all branches        
+
+       1.000680442 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           323,799 branches:uk                                                 
+            29,274 branch-misses:uk          #    9.04% of all branches        
+
+       1.000709492 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           245,708 branches:uk                                                 
+            21,277 branch-misses:uk          #    8.66% of all branches        
+
+       1.000673281 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           364,933 branches:uk                                                 
+            30,441 branch-misses:uk          #    8.34% of all branches        
+
+       1.000606604 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           276,772 branches:uk                                                 
+            25,307 branch-misses:uk          #    9.14% of all branches        
+
+       1.000654343 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           353,726 branches:uk                                                 
+            29,048 branch-misses:uk          #    8.21% of all branches        
+
+       1.000757239 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           372,940 branches:uk                                                 
+            37,281 branch-misses:uk          #   10.00% of all branches        
+
+       1.000635630 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           350,446 branches:uk                                                 
+            30,482 branch-misses:uk          #    8.70% of all branches        
+
+       1.000617756 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           271,424 branches:uk                                                 
+            24,363 branch-misses:uk          #    8.98% of all branches        
+
+       1.000638497 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           359,698 branches:uk                                                 
+            31,535 branch-misses:uk          #    8.77% of all branches        
+
+       1.000693072 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           287,397 branches:uk                                                 
+            25,434 branch-misses:uk          #    8.85% of all branches        
+
+       1.000672795 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           327,317 branches:uk                                                 
+            29,415 branch-misses:uk          #    8.99% of all branches        
+
+       1.000659198 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           250,844 branches:uk                                                 
+            22,465 branch-misses:uk          #    8.96% of all branches        
+
+       1.000833682 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           313,936 branches:uk                                                 
+            27,289 branch-misses:uk          #    8.69% of all branches        
+
+       1.000721730 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,365 branches:uk                                                 
+            24,322 branch-misses:uk          #    9.06% of all branches        
+
+       1.000745676 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           356,942 branches:uk                                                 
+            31,777 branch-misses:uk          #    8.90% of all branches        
+
+       1.000681589 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,368 branches:uk                                                 
+            24,100 branch-misses:uk          #    8.98% of all branches        
+
+       1.000694264 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           458,546 branches:uk                                                 
+            33,792 branch-misses:uk          #    7.37% of all branches        
+
+       1.000652786 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           268,752 branches:uk                                                 
+            23,941 branch-misses:uk          #    8.91% of all branches        
+
+       1.000616980 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           345,710 branches:uk                                                 
+            30,229 branch-misses:uk          #    8.74% of all branches        
+
+       1.000609982 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           378,446 branches:uk                                                 
+            39,334 branch-misses:uk          #   10.39% of all branches        
+
+       1.000541470 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           319,862 branches:uk                                                 
+            29,348 branch-misses:uk          #    9.18% of all branches        
+
+       1.000575653 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           255,242 branches:uk                                                 
+            23,010 branch-misses:uk          #    9.01% of all branches        
+
+       1.000643081 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           366,292 branches:uk                                                 
+            32,922 branch-misses:uk          #    8.99% of all branches        
+
+       1.000739784 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           273,446 branches:uk                                                 
+            24,222 branch-misses:uk          #    8.86% of all branches        
+
+       1.000653630 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           325,836 branches:uk                                                 
+            28,585 branch-misses:uk          #    8.77% of all branches        
+
+       1.000880678 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           304,529 branches:uk                                                 
+            27,251 branch-misses:uk          #    8.95% of all branches        
+
+       1.000617147 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           325,050 branches:uk                                                 
+            26,314 branch-misses:uk          #    8.10% of all branches        
+
+       1.000744395 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           316,914 branches:uk                                                 
+            28,812 branch-misses:uk          #    9.09% of all branches        
+
+       1.000628923 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           279,028 branches:uk                                                 
+            25,433 branch-misses:uk          #    9.11% of all branches        
+
+       1.000623161 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+           334,126 branches:uk                                                 
+            26,620 branch-misses:uk          #    7.97% of all branches        
+
+       1.000638514 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+         2,755,910 branches:uk                                                 
+           178,724 branch-misses:uk          #    6.49% of all branches        
+
+       1.000639307 seconds time elapsed
+
+
+ Performance counter stats for process id '62213':
+
+       537,325,302 branches:uk                                                  [100.00%]
+         1,478,963 branch-misses:uk          #    0.28% of all branches         [100.00%]
+
+       1.000719359 seconds time elapsed
+
